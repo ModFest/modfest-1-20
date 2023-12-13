@@ -1,8 +1,8 @@
 name = "modfest-skyandsea"
-mc_version = "1.20.1"
+mc_version = "1.20.4"
 
 [jar]
-type = "quilt"
+type = "fabric"
 loader = "latest"
 installer = "latest"
 
@@ -16,11 +16,11 @@ preset_flags = "aikars"
 
 [[mods]]
 type = "modrinth"
-id = "qsl"
+id = "fabric-api"
 
 [[mods]]
 type = "modrinth"
-id = "qkl"
+id = "fabric-language-kotlin"
 
 [[mods]]
 type = "modrinth"
