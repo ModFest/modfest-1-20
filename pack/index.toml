@@ -1,14 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
-file = "qfapi-6.0.0-beta.11_qsl-5.0.0-beta.11_fapi-0.87.0_mc-1.19.4.pw.toml"
-hash = "6612dfbd3e26d52b0949ab1770cff8d30a19faabd894a2b6ad2ebbb9234399ca"
+file = "fabric-api-0.91.2+1.20.4.pw.toml"
+hash = "7bf4ea181901f75278f72063a1a2089f51c87bac49870cffa0f9d0980ec27b63"
 metafile = true
 preserve = false
 
 [[files]]
-file = "quilt-kotlin-libraries-2.1.3+kt.1.9.10+flk.1.10.10.pw.toml"
-hash = "905d26b7e5de3a066940ea700997d244c58c3c4eb488efa2a7b4b4402e08f9da"
+file = "fabric-language-kotlin-1.10.16+kotlin.1.9.21.pw.toml"
+hash = "a3419849c7e1ada5d8ac22d61d70a980851e5d5ec64482b1c00d64fcd6509d7b"
 metafile = true
 preserve = false
 
@@ -20,6 +20,6 @@ preserve = false
 
 [[files]]
 file = "server.properties"
-hash = "9cc3aa13fe8502aede0ba37baeab3d1b318d5aed9f6907e19664a679894749bf"
+hash = "39e4258600a878bdf34cd90b0808da522992c9382be3e3d384be02dd01552f9b"
 metafile = false
 preserve = false

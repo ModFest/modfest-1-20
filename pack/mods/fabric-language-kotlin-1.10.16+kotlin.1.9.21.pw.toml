@@ -1,0 +1,17 @@
+name = "fabric-language-kotlin-1.10.16+kotlin.1.9.21"
+filename = "fabric-language-kotlin-1.10.16+kotlin.1.9.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/VJUqKopR/fabric-language-kotlin-1.10.16%2Bkotlin.1.9.21.jar"
+hash = "sha512"
+hash-format = "md5"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "fabric-language-kotlin"
+version = "latest"
