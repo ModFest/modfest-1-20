@@ -14,9 +14,16 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
+    - name: Install mcman
+      run: |
+        wget https://github.com/ParadigmMC/mcman/releases/latest/download/mcman
+        sudo mv ./mcman /usr/bin/
+        sudo chmod +x /usr/bin/mcman
+
     - name: Run mcman export packwiz
       run: mcman export packwiz
 
     - name: Commit and push changes
+      if: ${{ env.GITHUB_TOKEN != '' }}
       run: |
         git diff --quiet || (git add . && git commit -m "Update packwiz pack" && git push)
