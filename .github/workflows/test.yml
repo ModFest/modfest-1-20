@@ -5,6 +5,8 @@ on:
 name: Test the server
 jobs:
   test:
+    env:
+      upload_to_mclogs: true
     runs-on: ubuntu-latest
     steps:
     - name: Checkout bc23
