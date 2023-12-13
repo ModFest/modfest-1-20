@@ -6,11 +6,12 @@ on:
       - main
 
 jobs:
-  markdown:
+  packwiz-export:
     runs-on: ubuntu-latest
 
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    permissions:
+      contents: write
+
     steps:
     - uses: actions/checkout@v2
 
@@ -23,7 +24,7 @@ jobs:
     - name: Run mcman export packwiz
       run: mcman export packwiz
 
-    - name: Commit and push changes
-      if: ${{ env.GITHUB_TOKEN != '' }}
-      run: |
-        git diff --quiet || (git add . && git commit -m "Update packwiz pack" && git push)
+    - uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Update packwiz pack
+

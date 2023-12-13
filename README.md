@@ -12,17 +12,17 @@
 <!-- run 'mcman md' to update! -->
 
 <!--start:mcman-server-->
-| Version | Type                          | Loader   |
-| ------- | ----------------------------- | -------- |
-| 1.20.4  | [Quilt](https://quiltmc.org/) | *Latest* |
+| Version | Type                            | Loader   |
+| ------- | ------------------------------- | -------- |
+| 1.20.4  | [Fabric](https://fabricmc.net/) | *Latest* |
 <!--end:mcman-server-->
 
 ## List of Mods
 
 <!--start:mcman-addons-->
-| Name                                                                                        | Description                                                                                    | Version |
-| ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------- |
-| [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl) | The standard libraries of the Quilt ecosystem. Essential for your modding experience on Quilt! | latest  |
-| [Quilt Kotlin Libraries (QKL)](https://modrinth.com/mod/qkl)                                | Quilt's official Kotlin libraries                                                              | latest  |
-| [Mod Menu](https://modrinth.com/mod/modmenu)                                                | Adds a mod menu to view the list of mods you have installed.                                   | latest  |
+| Name                                                                      | Description                                                                                                                     | Version |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Fabric API](https://modrinth.com/mod/fabric-api)                         | Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. | latest  |
+| [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | This is a mod that enables usage of the Kotlin programming language for Fabric mods.                                            | latest  |
+| [Mod Menu](https://modrinth.com/mod/modmenu)                              | Adds a mod menu to view the list of mods you have installed.                                                                    | latest  |
 <!--end:mcman-addons-->
