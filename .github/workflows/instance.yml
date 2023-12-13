@@ -24,11 +24,15 @@ jobs:
     - name: Zip profile directory
       run: zip -r profile.zip profile/
 
+    - run: |
+        mkdir public
+        mv profile.zip public/
+
     - name: Publish to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: profile.zip
+        publish_dir: public
         publish_branch: gh-pages
         destination_dir: content
         keep_files: true
