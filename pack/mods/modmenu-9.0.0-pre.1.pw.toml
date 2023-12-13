@@ -1,0 +1,17 @@
+name = "modmenu-9.0.0-pre.1"
+filename = "modmenu-9.0.0-pre.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/4EYB2Bxx/modmenu-9.0.0-pre.1.jar"
+hash = "sha512"
+hash-format = "md5"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "modmenu"
+version = "latest"

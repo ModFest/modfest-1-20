@@ -1,0 +1,22 @@
+name: Export Packwiz
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  markdown:
+    runs-on: ubuntu-latest
+
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Run mcman export packwiz
+      run: mcman export packwiz
+
+    - name: Commit and push changes
+      run: |
+        git diff --quiet || (git add . && git commit -m "Update packwiz pack" && git push)
