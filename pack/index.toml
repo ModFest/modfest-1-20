@@ -1,19 +1,19 @@
 hash-format = "sha256"
 
 [[files]]
-file = "fabric-api-0.91.2+1.20.4.pw.toml"
+file = "mods/fabric-api-0.91.2+1.20.4.pw.toml"
 hash = "7bf4ea181901f75278f72063a1a2089f51c87bac49870cffa0f9d0980ec27b63"
 metafile = true
 preserve = false
 
 [[files]]
-file = "fabric-language-kotlin-1.10.16+kotlin.1.9.21.pw.toml"
+file = "mods/fabric-language-kotlin-1.10.16+kotlin.1.9.21.pw.toml"
 hash = "a3419849c7e1ada5d8ac22d61d70a980851e5d5ec64482b1c00d64fcd6509d7b"
 metafile = true
 preserve = false
 
 [[files]]
-file = "modmenu-9.0.0-pre.1.pw.toml"
+file = "mods/modmenu-9.0.0-pre.1.pw.toml"
 hash = "d94a2292ebf708af18ac915ab3f8adf762ca8f4759ca2e80a2b4348ce05738a3"
 metafile = true
 preserve = false
