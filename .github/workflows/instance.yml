@@ -7,6 +7,7 @@ on:
       - main
     paths:
       - profile/**
+      - .github/workflows/instance.yml
 
 jobs:
   update-instance:
@@ -27,7 +28,7 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: .
+        publish_dir: profile.zip
         publish_branch: gh-pages
         destination_dir: content
         keep_files: true
