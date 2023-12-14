@@ -10,4 +10,4 @@ preserve = false
 
 [versions]
 minecraft = "1.20.4"
-fabric = "latest"
+fabric = "0.15.1"
