@@ -26,6 +26,10 @@ id = "fabric-language-kotlin"
 type = "modrinth"
 id = "modmenu"
 
+[[mods]]
+type = "url"
+url = "https://jaskarth.com/pub/mods/player-roles-1.6.8.jar"
+
 [[clientsidemods]]
 type = "modrinth"
 id = "sodium"
