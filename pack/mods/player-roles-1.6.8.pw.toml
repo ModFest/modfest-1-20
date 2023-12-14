@@ -1,0 +1,13 @@
+name = "player-roles-1.6.8"
+filename = "player-roles-1.6.8.jar"
+side = "both"
+
+[download]
+url = "https://jaskarth.com/pub/mods/player-roles-1.6.8.jar"
+hash = "3c6bae4b5288a8fba1b0c3e865510731189814a09c40b51822091bf61db80433"
+hash-format = "sha256"
+mode = "url"
+
+[option]
+optional = false
+default = false

@@ -19,6 +19,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/player-roles-1.6.8.pw.toml"
+hash = "b17b56bae42a30b4f665e921a2473ac248d209728b96ba0406745b34f95e2c1b"
+metafile = true
+preserve = false
+
+[[files]]
 file = "server.properties"
 hash = "39e4258600a878bdf34cd90b0808da522992c9382be3e3d384be02dd01552f9b"
 metafile = false
