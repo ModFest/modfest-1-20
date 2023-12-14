@@ -1,4 +1,5 @@
 name = "modfest-skyandsea"
+version = "c52a55542b0797e50b2d936c080bcfe2c55a1a6b"
 pack-format = "packwiz:1.1.0"
 
 [index]
