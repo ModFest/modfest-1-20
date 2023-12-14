@@ -12,7 +12,7 @@ PORT = "25565"
 [launcher]
 eula_args = true
 nogui = true
-preset_flags = "nogui"
+preset_flags = "none"
 
 [[mods]]
 type = "modrinth"
