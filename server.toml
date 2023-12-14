@@ -30,6 +30,10 @@ id = "modmenu"
 type = "url"
 url = "https://jaskarth.com/pub/mods/player-roles-1.6.8.jar"
 
+[[mods]]
+type = "url"
+url = "https://jaskarth.com/pub/mods/fireblanket-0.4.0.jar"
+
 [[clientsidemods]]
 type = "modrinth"
 id = "sodium"
