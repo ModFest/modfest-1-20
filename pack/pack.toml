@@ -1,5 +1,5 @@
 name = "modfest-skyandsea"
-version = "4cfdd97358d3a29e218e3c2fff3e05f4bcc03e7d"
+version = "e4436502fc949fd674b868f15a6bc6eea050bfe9"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,5 +10,5 @@ metafile = false
 preserve = false
 
 [versions]
+fabric = "0.15.2"
 minecraft = "1.20.4"
-fabric = "0.15.1"
