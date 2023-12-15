@@ -3,7 +3,7 @@ mc_version = "1.20.4"
 
 [jar]
 type = "fabric"
-loader = "latest"
+loader = "0.15.2"
 installer = "latest"
 
 [variables]
