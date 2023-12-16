@@ -31,7 +31,31 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/modernfix-fabric-5.10.2+mc1.20.4.pw.toml"
+hash = "cb16ea7a03e5fcbed430e779b5c89b3725802c1826874b3f59eef6296ec54daf"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/spark-1.10.58-fabric.pw.toml"
+hash = "5c4bc3ee6ec6626e0dc00e0d1b9fc39ba4de7046001585f3808ecef2795392fc"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/sodium-fabric-mc1.20.3-0.5.5.pw.toml"
+hash = "68b20c16122866ba225d211f88ef9e2cb22d558051a0f8c39e6ef8ac0ecfb5d8"
+metafile = true
+preserve = false
+
+[[files]]
+file = 'config\roles.example.json'
+hash = "b2f25c83d109b2b95147ad6b3a4ff4c97fd0ff84f4e1cf9ea8f12e5751c702d4"
+metafile = false
+preserve = false
+
+[[files]]
 file = "server.properties"
-hash = "39e4258600a878bdf34cd90b0808da522992c9382be3e3d384be02dd01552f9b"
+hash = "9cc3aa13fe8502aede0ba37baeab3d1b318d5aed9f6907e19664a679894749bf"
 metafile = false
 preserve = false

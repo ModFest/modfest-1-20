@@ -34,11 +34,19 @@ url = "https://jaskarth.com/pub/mods/player-roles-1.6.8.jar"
 type = "url"
 url = "https://jaskarth.com/pub/mods/fireblanket-0.4.0.jar"
 
-[[clientsidemods]]
+[[mods]]
+type = "modrinth"
+id = "modernfix"
+version = "5.10.2+mc1.20.4"
+
+[[mods]]
+type = "modrinth"
+id = "spark"
+version = "1.10.58-fabric"
+
+[[mods]]
 type = "modrinth"
 id = "sodium"
-optional = false
-desc = ""
 
 [markdown]
 files = ["README.md"]
