@@ -34,5 +34,19 @@ jobs:
         sudo mv ./mcman /usr/bin/
         sudo chmod +x /usr/bin/mcman
     - name: Test the server
+      id: test
       run: |
         mcman run --test
+    - name: Archive log
+      uses: actions/upload-artifact@v3
+      with:
+        name: latest.log
+        path: |
+          server/logs/latest.log
+    - name: Archive crash reports
+      uses: actions/upload-artifact@v3
+      if: steps.test.outcome == 'failure'
+      with:
+        name: crash
+        path: |
+          server/crash-reports/*
