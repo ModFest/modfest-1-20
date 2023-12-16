@@ -49,13 +49,13 @@ metafile = true
 preserve = false
 
 [[files]]
-file = 'config\roles.example.json'
-hash = "b2f25c83d109b2b95147ad6b3a4ff4c97fd0ff84f4e1cf9ea8f12e5751c702d4"
+file = "config/roles.example.json"
+hash = "840a1ad16f523a7d7550e4421c8b0b897dded8c2d06dd1c6569d099db152af39"
 metafile = false
 preserve = false
 
 [[files]]
 file = "server.properties"
-hash = "9cc3aa13fe8502aede0ba37baeab3d1b318d5aed9f6907e19664a679894749bf"
+hash = "39e4258600a878bdf34cd90b0808da522992c9382be3e3d384be02dd01552f9b"
 metafile = false
 preserve = false
