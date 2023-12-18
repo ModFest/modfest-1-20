@@ -48,5 +48,10 @@ version = "1.10.58-fabric"
 type = "modrinth"
 id = "sodium"
 
+[[mods]]
+type = "modrinth"
+id = "worldedit"
+version = "7.2.18"
+
 [markdown]
 files = ["README.md"]
