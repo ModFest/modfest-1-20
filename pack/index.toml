@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/fabric-api-0.91.2+1.20.4.pw.toml"
-hash = "7c55ee612f047c7b105d7427b1606d2b9eb18673b76d0d9c625a05e05fdcfafc"
+file = "mods/fabric-api-0.91.3+1.20.4.pw.toml"
+hash = "ccd8ace9f21edf9bcbf17c5da6b0477b494a7c3dcecf70dba72a7341d300c229"
 metafile = true
 preserve = false
 
@@ -45,6 +45,12 @@ preserve = false
 [[files]]
 file = "mods/sodium-fabric-mc1.20.3-0.5.5.pw.toml"
 hash = "68b20c16122866ba225d211f88ef9e2cb22d558051a0f8c39e6ef8ac0ecfb5d8"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/worldedit-mod-7.2.18-dist.pw.toml"
+hash = "ccf672eb78b03e08cadb8b7b00b83389daddea2712a0dcebec76b3c2f37a47bd"
 metafile = true
 preserve = false
 
