@@ -7,14 +7,14 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/fabric-language-kotlin-1.10.16+kotlin.1.9.21.pw.toml"
-hash = "6e1302c99a9c958fcaca482cbb6aa2a40c65492443a70bf5caa5e013f7691ac8"
+file = "mods/fabric-language-kotlin-1.10.17+kotlin.1.9.22.pw.toml"
+hash = "3a53b9fe43bae5dc9b1d4b53a51c40662e45ee33c48e3fce7bcbd3d83c3d1aef"
 metafile = true
 preserve = false
 
 [[files]]
-file = "mods/modmenu-9.0.0-pre.1.pw.toml"
-hash = "729a48a357e9a3dee7b761d5765591a1ac0b5db2e6db7bcb2624eba8eff02d0f"
+file = "mods/modmenu-9.0.0.pw.toml"
+hash = "a43d86c7105bc2dd25da7b8112a3880d1a8296e8cd5522ad328ce6b5d6441e77"
 metafile = true
 preserve = false
 
@@ -44,7 +44,13 @@ preserve = false
 
 [[files]]
 file = "mods/sodium-fabric-mc1.20.3-0.5.5.pw.toml"
-hash = "68b20c16122866ba225d211f88ef9e2cb22d558051a0f8c39e6ef8ac0ecfb5d8"
+hash = "06587c03a117cdb2f8834301658d3b60af7add23efb3dfd0f09da298e01113e7"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/Axiom-2.1.1-for-MC1.20.4.pw.toml"
+hash = "c79e6f755965b970e76f4b8db61eda1c03bd466cf68f5a12cde12f7223a439d4"
 metafile = true
 preserve = false
 
