@@ -47,6 +47,12 @@ version = "1.10.58-fabric"
 [[mods]]
 type = "modrinth"
 id = "sodium"
+version = "mc1.20.3-0.5.5"
+
+[[mods]]
+type = "modrinth"
+id = "axiom"
+version = "2.1.1"
 
 [[mods]]
 type = "modrinth"
