@@ -14,4 +14,4 @@ default = false
 
 [update.modrinth]
 mod-id = "fabric-language-kotlin"
-version = "latest"
+version = "1.10.17+kotlin.1.9.22"

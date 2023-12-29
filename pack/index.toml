@@ -1,20 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/fabric-api-0.91.3+1.20.4.pw.toml"
-hash = "ccd8ace9f21edf9bcbf17c5da6b0477b494a7c3dcecf70dba72a7341d300c229"
+file = "mods/fabric-api-0.92.0+1.20.4.pw.toml"
+hash = "ccc7fec48b508bb3d94484b0af60c510d6ed63d1abe5adfe93104107e4155130"
 metafile = true
 preserve = false
 
 [[files]]
 file = "mods/fabric-language-kotlin-1.10.17+kotlin.1.9.22.pw.toml"
-hash = "3a53b9fe43bae5dc9b1d4b53a51c40662e45ee33c48e3fce7bcbd3d83c3d1aef"
+hash = "9dd11e8df42a1db891ff1955c68d71a46d9528a6a82f5a121502ba652ab4347d"
 metafile = true
 preserve = false
 
 [[files]]
 file = "mods/modmenu-9.0.0.pw.toml"
-hash = "a43d86c7105bc2dd25da7b8112a3880d1a8296e8cd5522ad328ce6b5d6441e77"
+hash = "d9ec589338107441b5a63781efed27d1fd56a504b9ffff94cf8c0c62a55955c5"
 metafile = true
 preserve = false
 
@@ -27,6 +27,12 @@ preserve = false
 [[files]]
 file = "mods/fireblanket-0.4.0.pw.toml"
 hash = "659c41a321e2a96cc1b5de1ead7a098b087aae0c70108b5c2d7e0d86f4bd13e6"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/glowcase-1.2.1+1.20.4.pw.toml"
+hash = "245ce10c4980e9b5800da091a716e4e7207a1168a7ad8b4e9bda99c081fc2289"
 metafile = true
 preserve = false
 
@@ -57,6 +63,18 @@ preserve = false
 [[files]]
 file = "mods/worldedit-mod-7.2.18-dist.pw.toml"
 hash = "ccf672eb78b03e08cadb8b7b00b83389daddea2712a0dcebec76b3c2f37a47bd"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/emi-1.0.29+1.20.4+fabric.pw.toml"
+hash = "2162e4c69bb1f21024105a2f4338f3dcb2ad8a80e955d1e18cc7e2f8146c776f"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/lithium-fabric-mc1.20.4-0.12.1.pw.toml"
+hash = "cf82a35a98ca7d77276ff515c2aa2322d4cdccefc4355350094951b2b0da362e"
 metafile = true
 preserve = false
 

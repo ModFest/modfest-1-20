@@ -14,4 +14,4 @@ default = false
 
 [update.modrinth]
 mod-id = "modmenu"
-version = "latest"
+version = "9.0.0"
