@@ -12,19 +12,21 @@ PORT = "25565"
 [launcher]
 eula_args = true
 nogui = true
-preset_flags = "none"
 
 [[mods]]
 type = "modrinth"
 id = "fabric-api"
+version = "0.92.0+1.20.4"
 
 [[mods]]
 type = "modrinth"
 id = "fabric-language-kotlin"
+version = "1.10.17+kotlin.1.9.22"
 
 [[mods]]
 type = "modrinth"
 id = "modmenu"
+version = "9.0.0"
 
 [[mods]]
 type = "url"
@@ -33,6 +35,10 @@ url = "https://jaskarth.com/pub/mods/player-roles-1.6.8.jar"
 [[mods]]
 type = "url"
 url = "https://jaskarth.com/pub/mods/fireblanket-0.4.0.jar"
+
+[[mods]]
+type = "url"
+url = "https://jaskarth.com/pub/mods/glowcase-1.2.1+1.20.4.jar"
 
 [[mods]]
 type = "modrinth"
@@ -59,5 +65,17 @@ type = "modrinth"
 id = "worldedit"
 version = "7.2.18"
 
+[[mods]]
+type = "modrinth"
+id = "emi"
+version = "jXyglcrU"
+
+[[mods]]
+type = "modrinth"
+id = "lithium"
+version = "nMhjKWVE"
+
 [markdown]
 files = ["README.md"]
+
+[options]
