@@ -1,11 +1,6 @@
 {
     "components": [
         {
-            "cachedName": "unsup",
-            "cachedVersion": "0.2.3",
-            "uid": "com.unascribed.unsup"
-        },
-        {
             "cachedName": "LWJGL 3",
             "cachedVersion": "3.3.2",
             "cachedVolatile": true,
@@ -50,6 +45,11 @@
             "cachedVersion": "0.15.1",
             "uid": "net.fabricmc.fabric-loader",
             "version": "0.15.1"
+        },
+        {
+            "cachedName": "Una's Simple Updater (unsup)",
+            "cachedVersion": "0.2.3",
+            "uid": "com.unascribed.unsup"
         }
     ],
     "formatVersion": 1
