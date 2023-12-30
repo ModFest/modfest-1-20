@@ -79,6 +79,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/indium-1.0.28+mc1.20.4.pw.toml"
+hash = "a453c3cb0f13e8246b5c5d929b3e3c24f9ec34073a887094d1e9f6a187bdf64d"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/roles.example.json"
 hash = "840a1ad16f523a7d7550e4421c8b0b897dded8c2d06dd1c6569d099db152af39"
 metafile = false

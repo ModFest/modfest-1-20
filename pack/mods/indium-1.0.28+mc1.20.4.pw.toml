@@ -1,0 +1,17 @@
+name = "indium-1.0.28+mc1.20.4"
+filename = "indium-1.0.28+mc1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/tD2IqHXC/indium-1.0.28%2Bmc1.20.4.jar"
+hash = "cdd8395b5c91fac0a4f3d6d7b94dee44dc6b585e86dbc8dce47945b1a5738fdb0b6a571a28ba47ef06a451b2fe45a28dffe6d55a7212d3dd38c73b2c4fd56231"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "indium"
+version = "tD2IqHXC"
