@@ -75,7 +75,13 @@ type = "modrinth"
 id = "lithium"
 version = "nMhjKWVE"
 
+[[mods]]
+type = "modrinth"
+id = "indium"
+version = "tD2IqHXC"
+
 [markdown]
 files = ["README.md"]
+auto_update = false
 
 [options]
