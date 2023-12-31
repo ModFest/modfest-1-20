@@ -9,9 +9,11 @@ jobs:
       upload_to_mclogs: true
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout bc23
+    - name: Checkout repository
       uses: actions/checkout@v3
-    - name: Setup java
+      with:
+        lfs: true
+    - name: Setup Java
       uses: actions/setup-java@v3
       with:
         distribution: 'temurin'
@@ -37,6 +39,21 @@ jobs:
       id: test
       run: |
         mcman run --test
+    - run: |
+        echo "### Server Logs" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "```" >> $GITHUB_STEP_SUMMARY
+        touch server/logs/latest.log
+        cat server/logs/latest.log >> $GITHUB_STEP_SUMMARY
+        echo "```" >> $GITHUB_STEP_SUMMARY
+    - if: steps.test.outcome == 'failure'
+      run: |
+        for filename in ./server/crash-reports/*; do
+          echo "### $filename" >> $GITHUB_STEP_SUMMARY
+          echo "```" >> $GITHUB_STEP_SUMMARY
+          cat $filename >> $GITHUB_STEP_SUMMARY
+          echo "```" >> $GITHUB_STEP_SUMMARY
+        done
     - name: Archive log
       uses: actions/upload-artifact@v3
       with:
