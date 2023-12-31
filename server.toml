@@ -13,6 +13,9 @@ PORT = "25565"
 eula_args = true
 nogui = true
 
+[worlds.modfest-1-20]
+datapacks = []
+
 [[mods]]
 type = "modrinth"
 id = "fabric-api"
