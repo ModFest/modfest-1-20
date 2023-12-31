@@ -1,6 +1,6 @@
 {
 	"formatVersion": 1,
-	"name": "unsup",
+	"name": "Una's Simple Updater (unsup)",
 	"uid": "com.unascribed.unsup",
 	"version": "0.2.3",
 	"+agents": [
