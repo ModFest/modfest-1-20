@@ -42,9 +42,9 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "cachedVersion": "0.15.1",
+            "cachedVersion": "0.15.3",
             "uid": "net.fabricmc.fabric-loader",
-            "version": "0.15.1"
+            "version": "0.15.3"
         },
         {
             "cachedName": "Una's Simple Updater (unsup)",
