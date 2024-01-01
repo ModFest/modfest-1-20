@@ -355,6 +355,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/fluiwid-1.1.2.pw.toml"
+hash = "8fc0bfd4aab330a8e2618dd844cbd823a1a660b9c9d6702cecce51f37a5c3bc8"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/roles.example.json"
 hash = "840a1ad16f523a7d7550e4421c8b0b897dded8c2d06dd1c6569d099db152af39"
 metafile = false
