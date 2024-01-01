@@ -1,10 +1,10 @@
 name = "modfest-skyandsea"
-version = "9170ab80d953393523b32c63fe52e3b70738535d"
+version = "45220420602bae819613e91b129bd91d9f307963"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
-hash = "5015471af3e0833d9f80fb3ca74c624376dbcf08a8039adea9700af48532b5d9"
+hash = "d890578ec3297f245d68e78a09f29a1e7a9c2ae9f5fd0f70d7ce7c6a898c6dcf"
 hash-format = "sha256"
 metafile = false
 preserve = false

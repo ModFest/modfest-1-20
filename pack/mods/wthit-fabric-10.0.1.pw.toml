@@ -14,4 +14,4 @@ default = false
 
 [update.modrinth]
 mod-id = "wthit"
-version = "XWbz4yRz"
+version = "fabric-10.0.1"

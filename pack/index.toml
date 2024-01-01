@@ -121,6 +121,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/wthit-fabric-10.0.1.pw.toml"
+hash = "12e50b883933895e24ad0d617006228992007188b8eda0e1b1ea6f624a56c007"
+metafile = true
+preserve = false
+
+[[files]]
 file = "mods/cerulean-0.1.0.pw.toml"
 hash = "8b4dde43b46f47e2046d44759f27484c10b8779ea964cf309992a974ddf25644"
 metafile = true
