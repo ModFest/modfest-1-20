@@ -3,7 +3,7 @@ mc_version = "1.20.4"
 
 [jar]
 type = "fabric"
-loader = "0.15.2"
+loader = "0.15.3"
 installer = "latest"
 
 [variables]
@@ -289,6 +289,11 @@ version = "R0eL60ot"
 type = "modrinth"
 id = "resurfaced"
 version = "CCqSpcFL"
+
+[[mods]]
+type = "modrinth"
+id = "seagulls"
+version = "yP2sUiVD"
 
 [[mods]]
 type = "modrinth"
