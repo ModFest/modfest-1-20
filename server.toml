@@ -300,6 +300,16 @@ type = "modrinth"
 id = "moonrise"
 version = "FbllYDtE"
 
+[[mods]]
+type = "modrinth"
+id = "wthit"
+version = "XWbz4yRz"
+
+[[mods]]
+type = "modrinth"
+id = "badpackets"
+version = "SvSHT7FN"
+
 [worlds.modfest-1-20]
 
 [markdown]
