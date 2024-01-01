@@ -1,0 +1,17 @@
+name = "wizcraft-1.0.0-alpha.3"
+filename = "wizcraft-1.0.0-alpha.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F9eqqJxr/versions/S5yx6Hq5/wizcraft-1.0.0-alpha.3.jar"
+hash = "efcf9a959117e371349824b2c8b445a0c3e1caf23c980ee398d16d4519fbbe53d5793ff29bbfccf9477f1965b89f9240a78b97d51692555f682745d617a373f1"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "wizcraft"
+version = "S5yx6Hq5"

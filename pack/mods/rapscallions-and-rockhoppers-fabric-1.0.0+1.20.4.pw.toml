@@ -1,0 +1,17 @@
+name = "rapscallions-and-rockhoppers-fabric-1.0.0+1.20.4"
+filename = "rapscallions-and-rockhoppers-fabric-1.0.0+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9pGITjpO/versions/o8OQ4HYd/rapscallions-and-rockhoppers-fabric-1.0.0%2B1.20.4.jar"
+hash = "8d63a9873e3dd3413797e4444da8a2aedc9b18b0d7c9d5257add1d26ba71d0236391ed5de5d38c56a4f42703815a151502789b9d052d1e29c89b413033811302"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "rapscallions-and-rockhoppers"
+version = "o8OQ4HYd"

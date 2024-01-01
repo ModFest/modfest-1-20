@@ -1,0 +1,17 @@
+name = "env_driven_assets-0.0.1-alpha"
+filename = "env_driven_assets-0.0.1-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i77xRYzK/versions/GpoGWc3F/env_driven_assets-0.0.1-alpha.jar"
+hash = "0d59a8c43eef380fd726973d70cc7202c27b7dca90f386fadbbbd25e29a11e8d27e40485e55f12990bbe9bdb4068f4b99e878a24c988ddfbeb5cf016e163acf0"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "env-driven-assets"
+version = "GpoGWc3F"

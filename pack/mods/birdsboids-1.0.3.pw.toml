@@ -1,0 +1,17 @@
+name = "birdsboids-1.0.3"
+filename = "birdsboids-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CvX6rOtB/versions/vXooxCiH/birdsboids-1.0.3.jar"
+hash = "fcfed9e1abd479a8fad778b025d16e1ae97dfd7ba172861dbd6fe921ec1f03762b7e62ee2820a8bbbcaacb78684a04112b8aa16bc439f47c09aabe087ebfd991"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "birds-boids-addon"
+version = "vXooxCiH"

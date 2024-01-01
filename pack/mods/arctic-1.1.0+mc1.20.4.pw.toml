@@ -1,0 +1,17 @@
+name = "arctic-1.1.0+mc1.20.4"
+filename = "arctic-1.1.0+mc1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mGrSMF7Z/versions/WWFqiy4s/arctic-1.1.0%2Bmc1.20.4.jar"
+hash = "8f1bbaf20b7be185198867eca988a4b64ffd0cb56c76b087507b0e123f126ef00d5ccd055a69d1504884356307b924577e80621352c52f39890a1538f4a20f50"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "arctic"
+version = "WWFqiy4s"
