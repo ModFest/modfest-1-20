@@ -13,6 +13,9 @@ PORT = "25565"
 eula_args = true
 nogui = true
 
+[worlds.modfest-1-20]
+datapacks = []
+
 [[mods]]
 type = "modrinth"
 id = "fabric-api"
@@ -82,168 +85,23 @@ version = "tD2IqHXC"
 
 [[mods]]
 type = "modrinth"
-id = "arctic"
-version = "WWFqiy4s"
-
-[[mods]]
-type = "modrinth"
-id = "birds-boids-addon"
-version = "vXooxCiH"
-
-[[mods]]
-type = "modrinth"
-id = "blocky-bass"
-version = "1oRMoeLe"
-
-[[mods]]
-type = "modrinth"
-id = "boatism"
-version = "Ht1D8Dus"
-
-[[mods]]
-type = "modrinth"
-id = "boids"
-version = "OeCnoEPH"
-
-[[mods]]
-type = "modrinth"
-id = "capiche"
-version = "ItXNThQy"
-
-[[mods]]
-type = "modrinth"
-id = "cerulean"
-version = "it1V9161"
-
-[[mods]]
-type = "modrinth"
-id = "clouded-isles"
-version = "fxhnNhT1"
-
-[[mods]]
-type = "modrinth"
-id = "contrail"
-version = "X6u08pOB"
-
-[[mods]]
-type = "modrinth"
-id = "env-driven-assets"
-version = "GpoGWc3F"
-
-[[mods]]
-type = "modrinth"
-id = "env.json"
-version = "t6ECu50t"
-
-[[mods]]
-type = "modrinth"
-id = "fishhead"
-version = "J13DyBPM"
-
-[[mods]]
-type = "modrinth"
-id = "flutterandflounder"
-version = "S33yyx2G"
-
-[[mods]]
-type = "modrinth"
-id = "gadgets-of-the-sky"
-version = "KrtWsfxN"
-
-[[mods]]
-type = "modrinth"
-id = "glide"
-version = "fymOw9ea"
-
-[[mods]]
-type = "modrinth"
-id = "glide-away"
-version = "jXRfaWdl"
-
-[[mods]]
-type = "modrinth"
-id = "gods-of-olympus"
-version = "Xn2UTgH0"
-
-[[mods]]
-type = "modrinth"
-id = "loggerhead-luminancies"
-version = "cWb8HuiP"
-
-[[mods]]
-type = "modrinth"
-id = "mutagen"
-version = "tqnzTWyQ"
-
-[[mods]]
-type = "modrinth"
-id = "partnership"
-version = "yMU48SrD"
-
-[[mods]]
-type = "modrinth"
-id = "perihelion"
-version = "fFBFJaJ5"
-
-[[mods]]
-type = "modrinth"
-id = "pescatore"
-version = "X6Nwdhrz"
-
-[[mods]]
-type = "modrinth"
-id = "pesky-seagulls"
-version = "KLntrhIl"
-
-[[mods]]
-type = "modrinth"
-id = "potatoesplus"
-version = "3SLsaZFJ"
-
-[[mods]]
-type = "modrinth"
-id = "rapscallions-and-rockhoppers"
-version = "o8OQ4HYd"
-
-[[mods]]
-type = "modrinth"
-id = "reel"
-version = "QigKV8wN"
-
-[[mods]]
-type = "modrinth"
-id = "schmarrn-fireworks"
-version = "ayB8Dm59"
-
-[[mods]]
-type = "modrinth"
-id = "skybox_athome"
-version = "A9YpZkm1"
-
-[[mods]]
-type = "modrinth"
-id = "starcaller"
-version = "55IRjuzB"
-
-[[mods]]
-type = "modrinth"
-id = "toxsky"
-version = "yGe0HVjV"
-
-[[mods]]
-type = "modrinth"
-id = "weathersync"
-version = "nXlZcT3m"
-
-[[mods]]
-type = "modrinth"
-id = "wizcraft"
-version = "S5yx6Hq5"
+id = "badpackets"
+version = "SvSHT7FN"
 
 [[mods]]
 type = "modrinth"
 id = "yacl"
-version = "cwavYrLH"
+version = "3.3.1+1.20.4-fabric"
+
+[[mods]]
+type = "modrinth"
+id = "smartbrainlib"
+version = "1.13"
+
+[[mods]]
+type = "modrinth"
+id = "cloth-config"
+version = "13.0.121+fabric"
 
 [[mods]]
 type = "modrinth"
@@ -252,38 +110,26 @@ version = "Z4SMiN06"
 
 [[mods]]
 type = "modrinth"
-id = "cloth-config"
-version = "eBZiZ9NS"
-
-[[mods]]
-type = "modrinth"
-id = "whalestrom"
-version = "16pEKPRX"
-
-[[mods]]
-type = "modrinth"
 id = "trinkets"
-version = "tJ23Vcff"
+version = "3.8.0" # ??? this version is for 1.20.2, idk -dennis
+
+[markdown]
+files = ["README.md"]
+auto_update = false
+
+[options]
+
+# BEGIN SUBMISSIONS #
 
 [[mods]]
 type = "modrinth"
-id = "anshar"
-version = "t6F0gIBS"
+id = "cerulean"
+version = "it1V9161"
 
 [[mods]]
 type = "modrinth"
-id = "the-skys-the-limit"
-version = "4eOE93dU"
-
-[[mods]]
-type = "modrinth"
-id = "pet-bottle-rocket"
-version = "R0eL60ot"
-
-[[mods]]
-type = "modrinth"
-id = "resurfaced"
-version = "CCqSpcFL"
+id = "partnership"
+version = "yMU48SrD"
 
 [[mods]]
 type = "modrinth"
@@ -292,28 +138,247 @@ version = "yP2sUiVD"
 
 [[mods]]
 type = "modrinth"
-id = "moonrise"
-version = "FbllYDtE"
+id = "pescatore"
+version = "X6Nwdhrz"
 
 [[mods]]
 type = "modrinth"
-id = "wthit"
-version = "XWbz4yRz"
+id = "contrail"
+version = "UNlU07tE"
 
 [[mods]]
 type = "modrinth"
-id = "badpackets"
-version = "SvSHT7FN"
+id = "pet-bottle-rocket"
+version = "R0eL60ot"
+
+[[mods]]
+type = "modrinth"
+id = "rapscallions-and-rockhoppers"
+version = "qEfshhwq"
+
+[[mods]]
+type = "modrinth"
+id = "boatism"
+version = "Ht1D8Dus"
+
+[[mods]]
+type = "modrinth"
+id = "glide"
+version = "SSgjgT31"
+
+[[mods]]
+type = "modrinth"
+id = "pescatore"
+version = "X6Nwdhrz"
+
+[[mods]]
+type = "modrinth"
+id = "clouded-isles"
+version = "a5PWns3Z"
+
+[[mods]]
+type = "modrinth"
+id = "glide-away"
+version = "jXRfaWdl"
+
+[[mods]]
+type = "modrinth"
+id = "anshar"
+version = "t6F0gIBS"
+
+[[mods]]
+type = "modrinth"
+id = "reel"
+version = "QigKV8wN"
 
 [[mods]]
 type = "modrinth"
 id = "fluiwid"
 version = "BwvIvKNi"
 
-[worlds.modfest-1-20]
+[[mods]]
+type = "modrinth"
+id = "schmarrn-fireworks"
+version = "ayB8Dm59"
 
-[markdown]
-files = ["README.md"]
-auto_update = false
+[[mods]]
+type = "modrinth"
+id = "pesky-seagulls"
+version = "KLntrhIl"
 
-[options]
+[[mods]]
+type = "modrinth"
+id = "clouded-isles"
+version = "a5PWns3Z"
+
+[[mods]]
+type = "modrinth"
+id = "pesky-seagulls"
+version = "KLntrhIl"
+
+[[mods]]
+type = "modrinth"
+id = "moonrise"
+version = "FbllYDtE"
+
+[[mods]]
+type = "modrinth"
+id = "potatoesplus"
+version = "VfB11R7N"
+
+[[mods]]
+type = "modrinth"
+id = "wizcraft"
+version = "S5yx6Hq5"
+
+[[mods]]
+type = "modrinth"
+id = "resurfaced"
+version = "XstshMSP"
+
+[[mods]]
+type = "modrinth"
+id = "blocky-bass"
+version = "V8mKhZR1"
+
+[[mods]]
+type = "modrinth"
+id = "mutagen"
+version = "hgcY7Gea"
+
+[[mods]]
+type = "modrinth"
+id = "pescatore"
+version = "X6Nwdhrz"
+
+[[mods]]
+type = "modrinth"
+id = "reel"
+version = "QigKV8wN"
+
+[[mods]]
+type = "modrinth"
+id = "flutterandflounder"
+version = "S33yyx2G"
+
+[[mods]]
+type = "modrinth"
+id = "capiche"
+version = "ItXNThQy"
+
+[[mods]]
+type = "modrinth"
+id = "skybox_athome"
+version = "A9YpZkm1"
+
+[[mods]]
+type = "modrinth"
+id = "gods-of-olympus"
+version = "Xn2UTgH0"
+
+[[mods]]
+type = "modrinth"
+id = "boids"
+version = "OeCnoEPH"
+
+[[mods]]
+type = "modrinth"
+id = "birds-boids-addon"
+version = "vXooxCiH"
+
+[[mods]]
+type = "modrinth"
+id = "arctic"
+version = "WWFqiy4s"
+
+[[mods]]
+type = "modrinth"
+id = "toxsky"
+version = "yGe0HVjV"
+
+[[mods]]
+type = "modrinth"
+id = "gadgets-of-the-sky"
+version = "KrtWsfxN"
+
+[[mods]]
+type = "modrinth"
+id = "whalestrom"
+version = "29fBggbX"
+
+[[mods]]
+type = "modrinth"
+id = "cerulean"
+version = "it1V9161"
+
+[[mods]]
+type = "modrinth"
+id = "env.json"
+version = "t6ECu50t"
+
+[[mods]]
+type = "modrinth"
+id = "env-driven-assets"
+version = "GpoGWc3F"
+
+[[mods]]
+type = "modrinth"
+id = "operation-starcleave"
+version = "mEjD68Hw"
+
+[[mods]]
+type = "modrinth"
+id = "arctic"
+version = "WWFqiy4s"
+
+[[mods]]
+type = "modrinth"
+id = "clouded-isles"
+version = "a5PWns3Z"
+
+[[mods]]
+type = "modrinth"
+id = "blocky-bass"
+version = "V8mKhZR1"
+
+[[mods]]
+type = "modrinth"
+id = "perihelion"
+version = "fFBFJaJ5"
+
+[[mods]]
+type = "modrinth"
+id = "starcaller"
+version = "MjDyRyZv"
+
+[[mods]]
+type = "modrinth"
+id = "loggerhead-luminancies"
+version = "cWb8HuiP"
+
+[[mods]]
+type = "modrinth"
+id = "weathersync"
+version = "vqS5f5pQ"
+
+[[mods]]
+type = "modrinth"
+id = "anshar"
+version = "t6F0gIBS"
+
+[[mods]]
+type = "modrinth"
+id = "env-driven-assets"
+version = "GpoGWc3F"
+
+[[mods]]
+type = "modrinth"
+id = "fishhead"
+version = "J13DyBPM"
+
+[[mods]]
+type = "modrinth"
+id = "the-skys-the-limit"
+version = "4eOE93dU"
+
+# END SUBMISSIONS #
