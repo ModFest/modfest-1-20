@@ -13,9 +13,6 @@ PORT = "25565"
 eula_args = true
 nogui = true
 
-[worlds.modfest-1-20]
-datapacks = []
-
 [[mods]]
 type = "modrinth"
 id = "fabric-api"
@@ -82,6 +79,183 @@ version = "nMhjKWVE"
 type = "modrinth"
 id = "indium"
 version = "tD2IqHXC"
+
+[[mods]]
+type = "modrinth"
+id = "arctic"
+version = "WWFqiy4s"
+
+[[mods]]
+type = "modrinth"
+id = "birds-boids-addon"
+version = "vXooxCiH"
+
+[[mods]]
+type = "modrinth"
+id = "blocky-bass"
+version = "1oRMoeLe"
+
+[[mods]]
+type = "modrinth"
+id = "boatism"
+version = "Ht1D8Dus"
+
+[[mods]]
+type = "modrinth"
+id = "boids"
+version = "OeCnoEPH"
+
+[[mods]]
+type = "modrinth"
+id = "capiche"
+version = "ItXNThQy"
+
+[[mods]]
+type = "modrinth"
+id = "cerulean"
+version = "it1V9161"
+
+[[mods]]
+type = "modrinth"
+id = "clouded-isles"
+version = "fxhnNhT1"
+
+[[mods]]
+type = "modrinth"
+id = "contrail"
+version = "X6u08pOB"
+
+[[mods]]
+type = "modrinth"
+id = "env-driven-assets"
+version = "GpoGWc3F"
+
+[[mods]]
+type = "modrinth"
+id = "env.json"
+version = "t6ECu50t"
+
+[[mods]]
+type = "modrinth"
+id = "fishhead"
+version = "J13DyBPM"
+
+[[mods]]
+type = "modrinth"
+id = "fluiwid"
+version = "EzisqVMT"
+
+[[mods]]
+type = "modrinth"
+id = "flutterandflounder"
+version = "S33yyx2G"
+
+[[mods]]
+type = "modrinth"
+id = "gadgets-of-the-sky"
+version = "KrtWsfxN"
+
+[[mods]]
+type = "modrinth"
+id = "glide"
+version = "fymOw9ea"
+
+[[mods]]
+type = "modrinth"
+id = "glide-away"
+version = "jXRfaWdl"
+
+[[mods]]
+type = "modrinth"
+id = "gods-of-olympus"
+version = "Xn2UTgH0"
+
+[[mods]]
+type = "modrinth"
+id = "loggerhead-luminancies"
+version = "cWb8HuiP"
+
+[[mods]]
+type = "modrinth"
+id = "mutagen"
+version = "tqnzTWyQ"
+
+[[mods]]
+type = "modrinth"
+id = "partnership"
+version = "yMU48SrD"
+
+[[mods]]
+type = "modrinth"
+id = "perihelion"
+version = "fFBFJaJ5"
+
+[[mods]]
+type = "modrinth"
+id = "pescatore"
+version = "X6Nwdhrz"
+
+[[mods]]
+type = "modrinth"
+id = "pesky-seagulls"
+version = "KLntrhIl"
+
+[[mods]]
+type = "modrinth"
+id = "pet-bottle-rocket"
+version = "fxb6DjCO"
+
+[[mods]]
+type = "modrinth"
+id = "potatoesplus"
+version = "3SLsaZFJ"
+
+[[mods]]
+type = "modrinth"
+id = "rapscallions-and-rockhoppers"
+version = "o8OQ4HYd"
+
+[[mods]]
+type = "modrinth"
+id = "reel"
+version = "QigKV8wN"
+
+[[mods]]
+type = "modrinth"
+id = "schmarrn-fireworks"
+version = "ayB8Dm59"
+
+[[mods]]
+type = "modrinth"
+id = "skybox_athome"
+version = "A9YpZkm1"
+
+[[mods]]
+type = "modrinth"
+id = "starcaller"
+version = "55IRjuzB"
+
+[[mods]]
+type = "modrinth"
+id = "toxsky"
+version = "yGe0HVjV"
+
+[[mods]]
+type = "modrinth"
+id = "weathersync"
+version = "nXlZcT3m"
+
+[[mods]]
+type = "modrinth"
+id = "whalestrom"
+version = "fS2aqAcT"
+
+[[mods]]
+type = "modrinth"
+id = "wizcraft"
+version = "S5yx6Hq5"
+
+[worlds.modfest-1-20]
 
 [markdown]
 files = ["README.md"]
