@@ -260,6 +260,46 @@ type = "modrinth"
 id = "cloth-config"
 version = "eBZiZ9NS"
 
+[[mods]]
+type = "modrinth"
+id = "whalestrom"
+version = "16pEKPRX"
+
+[[mods]]
+type = "modrinth"
+id = "trinkets"
+version = "tJ23Vcff"
+
+[[mods]]
+type = "modrinth"
+id = "anshar"
+version = "t6F0gIBS"
+
+[[mods]]
+type = "modrinth"
+id = "the-skys-the-limit"
+version = "4eOE93dU"
+
+[[mods]]
+type = "modrinth"
+id = "pet-bottle-rocket"
+version = "R0eL60ot"
+
+[[mods]]
+type = "modrinth"
+id = "resurfaced"
+version = "CCqSpcFL"
+
+[[mods]]
+type = "modrinth"
+id = "seagulls"
+version = "yP2sUiVD"
+
+[[mods]]
+type = "modrinth"
+id = "moonrise"
+version = "FbllYDtE"
+
 [worlds.modfest-1-20]
 
 [markdown]
