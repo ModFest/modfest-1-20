@@ -142,11 +142,6 @@ version = "J13DyBPM"
 
 [[mods]]
 type = "modrinth"
-id = "fluiwid"
-version = "EzisqVMT"
-
-[[mods]]
-type = "modrinth"
 id = "flutterandflounder"
 version = "S33yyx2G"
 
@@ -309,6 +304,11 @@ version = "XWbz4yRz"
 type = "modrinth"
 id = "badpackets"
 version = "SvSHT7FN"
+
+[[mods]]
+type = "modrinth"
+id = "fluiwid"
+version = "BwvIvKNi"
 
 [worlds.modfest-1-20]
 

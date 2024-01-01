@@ -157,12 +157,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/fluiwid-1.1.1.pw.toml"
-hash = "842adc8d94fbb1637161887858a1365424f9692709d291e3a9139f9794ffa40e"
-metafile = true
-preserve = false
-
-[[files]]
 file = "mods/flutterandflounder-1.0.0.pw.toml"
 hash = "8a729c5226b1af605b6521e2f5708aee6003dd28faad694b8c7a980892b0d3e5"
 metafile = true
