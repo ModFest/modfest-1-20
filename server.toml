@@ -159,7 +159,7 @@ version = "R0eL60ot"
 [[mods]]
 type = "modrinth"
 id = "rapscallions-and-rockhoppers"
-version = "1.0.0"
+version = "1.0.1-fabric"
 
 [[mods]]
 type = "modrinth"
