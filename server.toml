@@ -292,11 +292,6 @@ version = "CCqSpcFL"
 
 [[mods]]
 type = "modrinth"
-id = "seagulls"
-version = "yP2sUiVD"
-
-[[mods]]
-type = "modrinth"
 id = "moonrise"
 version = "FbllYDtE"
 
