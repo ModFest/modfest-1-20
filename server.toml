@@ -108,6 +108,11 @@ type = "modrinth"
 id = "geckolib"
 version = "Z4SMiN06"
 
+[[mods]]
+type = "modrinth"
+id = "trinkets"
+version = "3.8.0" # ??? this version is for 1.20.2, idk -dennis
+
 [markdown]
 files = ["README.md"]
 auto_update = false
