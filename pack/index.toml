@@ -349,6 +349,18 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/wthit-fabric-10.0.1.pw.toml"
+hash = "59715b7573a67e46d143b14b04c86f05d1928336818547e3009a7d316f502f5e"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/badpackets-fabric-0.5.4.pw.toml"
+hash = "8acf0c32cffce3f1680c4f11145080a34258a5b79af8e1053c1057092f221bac"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/roles.example.json"
 hash = "840a1ad16f523a7d7550e4421c8b0b897dded8c2d06dd1c6569d099db152af39"
 metafile = false
