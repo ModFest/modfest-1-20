@@ -157,8 +157,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/rapscallions-and-rockhoppers-neoforge-1.0.0+1.20.4.pw.toml"
-hash = "aba4846eb1d82a1ff2434007ebfc9599b33d0402dacad054001708585851a961"
+file = "mods/rapscallions-and-rockhoppers-fabric-1.0.0+1.20.4.pw.toml"
+hash = "d361f65e526497e436966e4e7da4360859df4409f019c8346e9c4da3c432eb9c"
 metafile = true
 preserve = false
 
@@ -403,8 +403,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/weathersync-0.1.pw.toml"
-hash = "17ea76fdea8d09340bb49b62a0c3e9cef7c609175b02176143f7b9c6fbbb31b7"
+file = "mods/weathersync-0.2.pw.toml"
+hash = "35a9dae229053ce417a0fba9781a8dd91a3337aa464d7d134509563b1638f99f"
 metafile = true
 preserve = false
 
