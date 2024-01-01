@@ -14,4 +14,4 @@ default = false
 
 [update.modrinth]
 mod-id = "weathersync"
-version = "nXlZcT3m"
+version = "0.2"
