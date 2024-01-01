@@ -301,6 +301,48 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/whalestrom-0.1.1.pw.toml"
+hash = "81bb73e5bb3130bbed4c4aae9fb4de6d74bc15776ffd3298c375f68b2a5b3742"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/trinkets-3.8.0.pw.toml"
+hash = "e277a18392d531d8f95f2ef7fb759a05032eb1dd7b51ada3cfc8156d1e885235"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/anshar-0.0.6.pw.toml"
+hash = "7c5eb3c4b5ff22995ed937403bf4f9d0524146daee265f9629073d8ad5ba4c4e"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/skys-the-limit-1.0.0.pw.toml"
+hash = "c8b3ad921903d3fb87cac06e405c6f24eb26ce8bfbc71a78397db1d26dba926d"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/PetbottleRocket-1.0.1.pw.toml"
+hash = "19b1749892694a838cdb0362a478636e40bb4320db8b6cb609dd3fa3b3484a83"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/Resurfaced-1.1.0.pw.toml"
+hash = "d9147fa3f1ae6fb1717f5ac4e9a4a2f995c38861fabf7ebe89f36b0d17a4fcd2"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/moonrise-1.0.0-R.pw.toml"
+hash = "b6ac9f0ce0c9a765796f1466be3bdc7c91467d98816fbe59afafd7343ca29571"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/roles.example.json"
 hash = "840a1ad16f523a7d7550e4421c8b0b897dded8c2d06dd1c6569d099db152af39"
 metafile = false

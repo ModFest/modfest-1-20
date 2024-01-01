@@ -1,0 +1,17 @@
+name = "Resurfaced-1.1.0"
+filename = "Resurfaced-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kjyt7ti6/versions/CCqSpcFL/Resurfaced-1.1.0.jar"
+hash = "121c94e61852c3b3ffa79a4e706c923d2b2ab6914f84335e3ba3e115fcbed9b9b61846cf9c375e15f0e15af68ac3b91d9e38b9ddf6fffe53fc041214f3c24f7a"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "resurfaced"
+version = "CCqSpcFL"

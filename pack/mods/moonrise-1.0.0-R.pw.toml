@@ -1,0 +1,17 @@
+name = "moonrise-1.0.0-R"
+filename = "moonrise-1.0.0-R.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/93a3SOn8/versions/FbllYDtE/moonrise-1.0.0-R.jar"
+hash = "c1754c689f92cec9f1f43a817aa68736d9169021bc36ea94b06a8be1be50d251b05569e558180063de2b825ad9c468d9d047764b586d048ff9487718ac8c9150"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "moonrise"
+version = "FbllYDtE"

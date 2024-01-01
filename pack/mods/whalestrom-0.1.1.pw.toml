@@ -1,0 +1,17 @@
+name = "whalestrom-0.1.1"
+filename = "whalestrom-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mkOPMoH8/versions/16pEKPRX/whalestrom-0.1.1.jar"
+hash = "4a3d78011dc3bb505503a161a26e98bc20004bd4dc1266309117fc8fec7e05d246c55b269c8a9165166b4163ea734f4cc224b987cfd72da7bd97b6b7166fa6c3"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "whalestrom"
+version = "16pEKPRX"

@@ -1,0 +1,17 @@
+name = "trinkets-3.8.0"
+filename = "trinkets-3.8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5aaWibi9/versions/tJ23Vcff/trinkets-3.8.0.jar"
+hash = "5f0a7df44f69d73ba7dfee600db9d9c76a4d4cc2a9265784cd52fc6fa1c874f9c9d53297ab6ce16d9d778817c7e9e65b13bbb628b207e8807c1dc7895009a99d"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "trinkets"
+version = "tJ23Vcff"

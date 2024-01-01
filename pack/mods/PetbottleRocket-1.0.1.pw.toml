@@ -1,0 +1,17 @@
+name = "PetbottleRocket-1.0.1"
+filename = "PetbottleRocket-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zGau6k3o/versions/R0eL60ot/PetbottleRocket-1.0.1.jar"
+hash = "017be2957845d9879cf0114d0840f799a0430d77605edee7d3d1b97fefee4448f659479573d272aafebdd7287e5c1f2c0a48ea707061ec97d5d28b8071159cbc"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "pet-bottle-rocket"
+version = "R0eL60ot"
