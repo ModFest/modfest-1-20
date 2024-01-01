@@ -1,0 +1,17 @@
+name = "whalestrom-0.1.2"
+filename = "whalestrom-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mkOPMoH8/versions/29fBggbX/whalestrom-0.1.2.jar"
+hash = "a1df4635c225390d91bd078900f8b14b2968474f0d2110b522afec09bce2897245159c0f5f4ee01cc65942925bbf9c424c327cac20028b2e69940fe18060c0f3"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "whalestrom"
+version = "29fBggbX"

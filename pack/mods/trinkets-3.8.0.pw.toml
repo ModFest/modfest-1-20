@@ -14,4 +14,4 @@ default = false
 
 [update.modrinth]
 mod-id = "trinkets"
-version = "tJ23Vcff"
+version = "3.8.0"

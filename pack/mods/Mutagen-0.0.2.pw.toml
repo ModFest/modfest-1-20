@@ -1,0 +1,17 @@
+name = "Mutagen-0.0.2"
+filename = "Mutagen-0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gd2ztbCZ/versions/hgcY7Gea/Mutagen-0.0.2.jar"
+hash = "3c794621e5412c4ac6acf5b0e5d1f4492f79778859518b7b5c329f880f016b2ee9de783dd974426bf38bf36329bc7a5ae55bec89ac312f923c2f191a3bcaabd6"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "mutagen"
+version = "hgcY7Gea"

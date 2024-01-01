@@ -1,0 +1,17 @@
+name = "blocky_bass-1.0.13"
+filename = "blocky_bass-1.0.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6GAOA2BU/versions/V8mKhZR1/blocky_bass-1.0.13.jar"
+hash = "680a36d3787be3d80c9a733fbea4a39e0e508012414a647af167725af3a59ec7d9bd1e04fbe751df342f8902a6d8ba553ca17dcb5bd410a4bab0e2255304a6a6"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "blocky-bass"
+version = "V8mKhZR1"

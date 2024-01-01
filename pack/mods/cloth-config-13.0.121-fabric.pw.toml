@@ -14,4 +14,4 @@ default = false
 
 [update.modrinth]
 mod-id = "cloth-config"
-version = "eBZiZ9NS"
+version = "13.0.121+fabric"

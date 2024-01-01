@@ -1,0 +1,17 @@
+name = "starcaller-0.4.0+1.20.4"
+filename = "starcaller-0.4.0+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z7IRTW7F/versions/MjDyRyZv/starcaller-0.4.0%2B1.20.4.jar"
+hash = "225d80e83f1ca6b8097ce22073c0137042cc7bf6e533ef6d63c42739fd6f07c8336e20c4cdac53423c7c6d4d080a1cf46fff5c5148b3ae3f83f0ec2b58a8b77c"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "starcaller"
+version = "MjDyRyZv"

@@ -14,4 +14,4 @@ default = false
 
 [update.modrinth]
 mod-id = "yacl"
-version = "cwavYrLH"
+version = "3.3.1+1.20.4-fabric"

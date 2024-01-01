@@ -1,0 +1,17 @@
+name = "glide-1.0.1"
+filename = "glide-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P0qoVWgC/versions/SSgjgT31/glide-1.0.1.jar"
+hash = "c9f97feb2cc09519139843f094b8dac50e5d5f9da11c325df1be4c92b3309f5777bdd4fd5a70d46f542b2a468cfe9d0081b0018e80bd1bdf4d1e520d4c9cf4af"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "glide"
+version = "SSgjgT31"
