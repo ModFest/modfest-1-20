@@ -229,12 +229,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/PetbottleRocket-1.0.0.pw.toml"
-hash = "50c4374ec6d7b58320904c5373b491d0f2f9a5c8ea018c1338e5bf39064ffdfe"
-metafile = true
-preserve = false
-
-[[files]]
 file = "mods/potatoesplus-1.0.2.pw.toml"
 hash = "e001ebc8b5b442f102f29194443c3058704ebd7479b9d6328743d4cf13e1a888"
 metafile = true
@@ -283,14 +277,26 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/whalestrom-0.1.pw.toml"
-hash = "3a94b5a68949a648be541ad24cbcdc1d5facc4b80739d646b7c8f6b87f8efcac"
+file = "mods/wizcraft-1.0.0-alpha.3.pw.toml"
+hash = "fe8a572d64feaecdcaaa1d87d7a60a5052fe634b74bde356bb685754e82447d2"
 metafile = true
 preserve = false
 
 [[files]]
-file = "mods/wizcraft-1.0.0-alpha.3.pw.toml"
-hash = "fe8a572d64feaecdcaaa1d87d7a60a5052fe634b74bde356bb685754e82447d2"
+file = "mods/yet-another-config-lib-fabric-3.3.1+1.20.4.pw.toml"
+hash = "89123e7c840e7ad63583edec92ac773f2958dcf2675677e8c7ca12dad2b5fd43"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/geckolib-fabric-1.20.4-4.3.1.pw.toml"
+hash = "d4e08a0d5b4f9076b615ac285d9e8b4849bf4810755a68d05011d6d0c697dac0"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/cloth-config-13.0.121-fabric.pw.toml"
+hash = "2aaf9fd5c41a644f121676d8f0aee86437ffd176bfeb39808f9adb153c2326b4"
 metafile = true
 preserve = false
 
