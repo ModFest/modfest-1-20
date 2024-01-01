@@ -1,0 +1,17 @@
+name = "contrail-1.0.1+1.20.4"
+filename = "contrail-1.0.1+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/42vPkfqt/versions/X6u08pOB/contrail-1.0.1%2B1.20.4.jar"
+hash = "0091f56442b8bb86cd6f9c9752316bb6b3ab8fb09dc9d3965a6ff2cbd82fff17543ca6eb2a3f5af627e90dc639ea25c6aef6d88b18154e7e45ab53e2ea4b8af6"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "contrail"
+version = "X6u08pOB"

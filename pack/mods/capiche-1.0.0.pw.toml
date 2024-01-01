@@ -1,0 +1,17 @@
+name = "capiche-1.0.0"
+filename = "capiche-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AJMtuzhf/versions/ItXNThQy/capiche-1.0.0.jar"
+hash = "cdc2d00e43017461462f38b720e727519aba2918ba2ad1ba606acff28d8c1574a8140bf62cd4fc3072ac529caa86fe531e8e1d84482acd38f1721bb9a089abe8"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "capiche"
+version = "ItXNThQy"

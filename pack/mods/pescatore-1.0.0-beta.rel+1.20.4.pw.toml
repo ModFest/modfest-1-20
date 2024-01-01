@@ -1,0 +1,17 @@
+name = "pescatore-1.0.0-beta.rel+1.20.4"
+filename = "pescatore-1.0.0-beta.rel+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uxaMjp3X/versions/X6Nwdhrz/pescatore-1.0.0-beta.rel%2B1.20.4.jar"
+hash = "074a54007d53842de4b7eb9a642e2771eb5d1203b2105eb2d20e40c8b44cde5cfd5a5387a01d94cd1d738342e88e2a55d6568bd19359215d9964ee0acc31db0f"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "pescatore"
+version = "X6Nwdhrz"

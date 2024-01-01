@@ -85,6 +85,216 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/arctic-1.1.0+mc1.20.4.pw.toml"
+hash = "f97e00294b1e1c255d7f42f891af54f221318ca199a749dfea1c12b7d045d0d9"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/birdsboids-1.0.3.pw.toml"
+hash = "3dbbb2d5b41794324082327f2166fb7ffd15b5adee4e1586dc12246e697f25a3"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/blocky_bass-1.0.16.pw.toml"
+hash = "81beabee69a267856232f689d7eb85982e5eaedbd91e9edf22f4f0ef961151b2"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/boatism-0.0.1.pw.toml"
+hash = "1856db6f9a080ff7cc4d13783b810b098df9360ff6e7d631ac2efcdf785a449e"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/Boids-1.0.1.pw.toml"
+hash = "df62529dc30884a3b63fd5e75c1ac19ccc51b6fcdbc08389bc453792978a6d15"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/capiche-1.0.0.pw.toml"
+hash = "9a90be6a093228b2b48ca0891b473a0f3051c7adf0e6547df0fdc009a5af71d9"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/cerulean-0.1.0.pw.toml"
+hash = "8b4dde43b46f47e2046d44759f27484c10b8779ea964cf309992a974ddf25644"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/cloudedisles-0.9.1-1.20.4.pw.toml"
+hash = "9a5e0f917e734e927ed101a0ec8c8d8f21d345f6caece0ef4fb8c769ad53062e"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/contrail-1.0.1+1.20.4.pw.toml"
+hash = "518aef4e7295fcfe910830fb4faf429e99168267b94f355a3e26ee40110378a8"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/env_driven_assets-0.0.1-alpha.pw.toml"
+hash = "aea9b46c0560e42fb4aa7daa1f3528b844468c1154119b733a4319d60f3bd57e"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/env_json-0.3.0-beta.pw.toml"
+hash = "df740685f8e7f00f41aacca93db344cfcdea6ea000c9ff75d920009a607b5ff9"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/fishhead-1.0.0.pw.toml"
+hash = "46901353b63d70054b6a094677c7d82ef43bb8e42682334b327929b584050e81"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/fluiwid-1.1.1.pw.toml"
+hash = "842adc8d94fbb1637161887858a1365424f9692709d291e3a9139f9794ffa40e"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/flutterandflounder-1.0.0.pw.toml"
+hash = "8a729c5226b1af605b6521e2f5708aee6003dd28faad694b8c7a980892b0d3e5"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/GadgetsOfTheSky-1.0.0.pw.toml"
+hash = "ad80346d5470fa0eb0d905e90f5bfd5456a277a1b261cfdf565ba1bd4fd4397f"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/glide-1.0.0.pw.toml"
+hash = "750762efe261bf59f475114d7b3af1ff5c391abe89ce67351808084b3fd06d66"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/glideaway-1.0.0+1.20.4.pw.toml"
+hash = "f39bdfc33e8b7d6b805384ea290f57680a71df327c81c995728927168ababb82"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/gofo-1.0.pw.toml"
+hash = "40bfe909e6d417ef525d4af49901c6199d70f9e30d70c98d293fe34f95bf1977"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/loggerhead-luminancies-0.1.0+1.20.4.pw.toml"
+hash = "3fbc5b84214815be190304b21f18db8eacebb93f5c209dbdcd5308f7f9a69d0f"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/Mutagen-0.0.1.pw.toml"
+hash = "2fcb9ef64b137e9d5d9d3793d1e2342a2d5470fb1306f83d4dec2b7f6f93b73e"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/partnership-fabric-mc1.20.4-v1.0.0.pw.toml"
+hash = "f30555753df23dbff47a8dc726fcee8d6843b01c19cd5fc6978db64a0b1e52e4"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/perihelion-0.0.2+1.20.4.pw.toml"
+hash = "3c890dec30455b394c401f59bd6a86b8d9d438b7a9ae9acf506174f460434e77"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/pescatore-1.0.0-beta.rel+1.20.4.pw.toml"
+hash = "a8cfb4f5c2181e58fa7de49833d5d047fedaddc2d2caf846901bdb23fc394cbb"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/pesky_seagulls-1.0.0.pw.toml"
+hash = "7414db8f5071133329cce0008c4f19094a439513494d891b55aa6c7e769e8e98"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/PetbottleRocket-1.0.0.pw.toml"
+hash = "50c4374ec6d7b58320904c5373b491d0f2f9a5c8ea018c1338e5bf39064ffdfe"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/potatoesplus-1.0.2.pw.toml"
+hash = "e001ebc8b5b442f102f29194443c3058704ebd7479b9d6328743d4cf13e1a888"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/rapscallions-and-rockhoppers-fabric-1.0.0+1.20.4.pw.toml"
+hash = "eb030f571b872d4c969a5f924f8ac310214396e00cd7511953208ce982391c40"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/reel-0.1.0+1.20.4.pw.toml"
+hash = "09cb0b24c9ee237e0d504d8fd911e6a1c7b3216176bbebda391c597a056786fb"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/schmarrn-fireworks-1.0.0.pw.toml"
+hash = "eef13a3f6bf22bbec4a4781e5f6bd93f008511e8a72059ef6c1decde409e29db"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/skyboxathome-0.1.0+1.20.4.pw.toml"
+hash = "e76759a6449d0cbb4a86b6d4ecf381a0412eb21d6f095f91df6d6c389eb80ccd"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/starcaller-0.4.2+1.20.4.pw.toml"
+hash = "da3711d767962c0cb2e8f6723b41052dd9c56eb62923fed958e79c63cbb9b6af"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/toxsky-0.0.2.pw.toml"
+hash = "cce26c86dafc961e4df61dade5da0907fa60037e127af4cd34b4b0c48b130e5f"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/weathersync-0.2.pw.toml"
+hash = "b58847b7d4afdd89ce5896b30e554c962923e635bf4f054dc510745e0182c1ca"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/whalestrom-0.1.pw.toml"
+hash = "3a94b5a68949a648be541ad24cbcdc1d5facc4b80739d646b7c8f6b87f8efcac"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/wizcraft-1.0.0-alpha.3.pw.toml"
+hash = "fe8a572d64feaecdcaaa1d87d7a60a5052fe634b74bde356bb685754e82447d2"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/roles.example.json"
 hash = "840a1ad16f523a7d7550e4421c8b0b897dded8c2d06dd1c6569d099db152af39"
 metafile = false

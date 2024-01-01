@@ -1,0 +1,17 @@
+name = "cerulean-0.1.0"
+filename = "cerulean-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a6qSiVxz/versions/it1V9161/cerulean-0.1.0.jar"
+hash = "0849b6f45ca8c7fbd60b1608f216a61632d82ff0d0eb2df067b009ab26c433c8a3563ba41739cb772426a6cc6d1c73b65aea43c2f904154104bcd52145efec60"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "cerulean"
+version = "it1V9161"

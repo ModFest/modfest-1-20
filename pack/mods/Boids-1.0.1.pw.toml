@@ -1,0 +1,17 @@
+name = "Boids-1.0.1"
+filename = "Boids-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2OckSy74/versions/OeCnoEPH/Boids-1.0.1.jar"
+hash = "a63e806d4734645eeebf19eca3c5157c4effc75965be934c6901a4d58ac6f89112bf68ad21c5df46cebdbf1ef2dd522ba136c1d41851e960e24137f02294ea56"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "boids"
+version = "OeCnoEPH"

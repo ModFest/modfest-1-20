@@ -1,0 +1,17 @@
+name = "gofo-1.0"
+filename = "gofo-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bPwHzQW1/versions/Xn2UTgH0/gofo-1.0.jar"
+hash = "c07cd2431fdc989ff8641d2af10a4f8ce865ec3369da708d1514a4e399cb746bd48d38b5b2b846a4788d10e47c31f8b5406263574c717a35a184e93e40089332"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "gods-of-olympus"
+version = "Xn2UTgH0"
