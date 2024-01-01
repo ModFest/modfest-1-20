@@ -113,6 +113,11 @@ type = "modrinth"
 id = "trinkets"
 version = "3.8.0" # ??? this version is for 1.20.2, idk -dennis
 
+[[mods]]
+type = "modrinth"
+id = "wthit"
+version = "fabric-10.0.1"
+
 [markdown]
 files = ["README.md"]
 auto_update = false
