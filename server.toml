@@ -202,11 +202,6 @@ version = "KLntrhIl"
 
 [[mods]]
 type = "modrinth"
-id = "pet-bottle-rocket"
-version = "fxb6DjCO"
-
-[[mods]]
-type = "modrinth"
 id = "potatoesplus"
 version = "3SLsaZFJ"
 
@@ -247,13 +242,23 @@ version = "nXlZcT3m"
 
 [[mods]]
 type = "modrinth"
-id = "whalestrom"
-version = "fS2aqAcT"
+id = "wizcraft"
+version = "S5yx6Hq5"
 
 [[mods]]
 type = "modrinth"
-id = "wizcraft"
-version = "S5yx6Hq5"
+id = "yacl"
+version = "cwavYrLH"
+
+[[mods]]
+type = "modrinth"
+id = "geckolib"
+version = "Z4SMiN06"
+
+[[mods]]
+type = "modrinth"
+id = "cloth-config"
+version = "eBZiZ9NS"
 
 [worlds.modfest-1-20]
 
