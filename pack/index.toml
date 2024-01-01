@@ -337,6 +337,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/seagulls-1.0.1-mc1.20.4.pw.toml"
+hash = "13c58e3f07715fc4a66bbf9b5175f25640affa91874e142c8263a53dd3251180"
+metafile = true
+preserve = false
+
+[[files]]
 file = "mods/moonrise-1.0.0-R.pw.toml"
 hash = "b6ac9f0ce0c9a765796f1466be3bdc7c91467d98816fbe59afafd7343ca29571"
 metafile = true

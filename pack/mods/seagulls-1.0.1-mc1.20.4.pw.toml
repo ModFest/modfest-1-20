@@ -1,0 +1,17 @@
+name = "seagulls-1.0.1-mc1.20.4"
+filename = "seagulls-1.0.1-mc1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/axCrtFTr/versions/yP2sUiVD/seagulls-1.0.1-mc1.20.4.jar"
+hash = "1591833e71358136fa7a802330cdf0da605ee25abd44d99b781e70b419dacdbf747bafbf1d897658c01c2cf51345de28aab90731a819cded3286e5ff202e9927"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "seagulls"
+version = "yP2sUiVD"
