@@ -133,8 +133,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/cerulean-0.1.0.pw.toml"
-hash = "8b4dde43b46f47e2046d44759f27484c10b8779ea964cf309992a974ddf25644"
+file = "mods/cerulean-0.1.1.pw.toml"
+hash = "e00e3057b30af6c82bbe6beb6c7a4e547a0d9e132f19cb052fcaf6902d5a3bb0"
 metafile = true
 preserve = false
 
@@ -163,8 +163,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/PetbottleRocket-1.0.1.pw.toml"
-hash = "19b1749892694a838cdb0362a478636e40bb4320db8b6cb609dd3fa3b3484a83"
+file = "mods/PetbottleRocket-1.1.0.pw.toml"
+hash = "b44179e966df31a65033a5f2200446d6e782dcfab9317ec71cbdac1191f4386f"
 metafile = true
 preserve = false
 
@@ -205,14 +205,14 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/anshar-0.0.6.pw.toml"
-hash = "7c5eb3c4b5ff22995ed937403bf4f9d0524146daee265f9629073d8ad5ba4c4e"
+file = "mods/anshar-0.0.7.pw.toml"
+hash = "af14a4bc66274a40da02c47c6dd90ceb11ce71b168b4f6487581c60b53595240"
 metafile = true
 preserve = false
 
 [[files]]
-file = "mods/reel-0.1.0+1.20.4.pw.toml"
-hash = "09cb0b24c9ee237e0d504d8fd911e6a1c7b3216176bbebda391c597a056786fb"
+file = "mods/reel-0.1.1+1.20.4.pw.toml"
+hash = "4851de3a6460352d4ed7acce11ceaa85c709fbf020ce7e5523ee46cf7d365f76"
 metafile = true
 preserve = false
 
@@ -253,14 +253,14 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/potatoesplus-1.0.2.pw.toml"
-hash = "10c072933ad2d37dd9a7fc28994e1b64f7ecaa0ffe42be4307a0d99783e59101"
+file = "mods/potatoesplus-1.0.3.pw.toml"
+hash = "aa3a0c8a2a0e9a3a48872aef65c7f72e5e992e0e00c9e9e387f314182ed5d9d5"
 metafile = true
 preserve = false
 
 [[files]]
-file = "mods/wizcraft-1.0.0-alpha.3.pw.toml"
-hash = "fe8a572d64feaecdcaaa1d87d7a60a5052fe634b74bde356bb685754e82447d2"
+file = "mods/wizcraft-1.0.0-alpha.4.pw.toml"
+hash = "e23e7f4aaa29f47c67672d9f5f9a8f521985f2b8653d8fdb03937df970ed7360"
 metafile = true
 preserve = false
 
@@ -289,8 +289,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/reel-0.1.0+1.20.4.pw.toml"
-hash = "09cb0b24c9ee237e0d504d8fd911e6a1c7b3216176bbebda391c597a056786fb"
+file = "mods/reel-0.1.1+1.20.4.pw.toml"
+hash = "4851de3a6460352d4ed7acce11ceaa85c709fbf020ce7e5523ee46cf7d365f76"
 metafile = true
 preserve = false
 
@@ -337,8 +337,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/toxsky-0.0.2.pw.toml"
-hash = "cce26c86dafc961e4df61dade5da0907fa60037e127af4cd34b4b0c48b130e5f"
+file = "mods/toxsky-0.0.3.pw.toml"
+hash = "8a9ce2089deb90c7abca4879fb3781e3ed2fb20dc184750fddffb3d932c4d997"
 metafile = true
 preserve = false
 
@@ -349,14 +349,14 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/whalestrom-0.1.2.pw.toml"
-hash = "7e8242f762f6bcdc4138a3d14aacd7ee954a07ea44c9487dd62979aab83a47a0"
+file = "mods/whalestrom-0.1.3.pw.toml"
+hash = "2e7a54d0b4244998dcaa6e163ce97422d547ae18b5955f8bbf41f16221d1c811"
 metafile = true
 preserve = false
 
 [[files]]
-file = "mods/cerulean-0.1.0.pw.toml"
-hash = "8b4dde43b46f47e2046d44759f27484c10b8779ea964cf309992a974ddf25644"
+file = "mods/cerulean-0.1.1.pw.toml"
+hash = "e00e3057b30af6c82bbe6beb6c7a4e547a0d9e132f19cb052fcaf6902d5a3bb0"
 metafile = true
 preserve = false
 
@@ -421,8 +421,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/anshar-0.0.6.pw.toml"
-hash = "7c5eb3c4b5ff22995ed937403bf4f9d0524146daee265f9629073d8ad5ba4c4e"
+file = "mods/anshar-0.0.7.pw.toml"
+hash = "af14a4bc66274a40da02c47c6dd90ceb11ce71b168b4f6487581c60b53595240"
 metafile = true
 preserve = false
 

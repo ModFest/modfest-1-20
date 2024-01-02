@@ -1,0 +1,17 @@
+name = "wizcraft-1.0.0-alpha.4"
+filename = "wizcraft-1.0.0-alpha.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F9eqqJxr/versions/FtLncNsX/wizcraft-1.0.0-alpha.4.jar"
+hash = "c1dd8e483658faeca077a1d0ba4db26d342d044c01a8a283f93dcf096d746a9fb217b2ebe6bd8ff0bbe68c66d721dbca62f129b68df14672d87529d9942b252e"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "wizcraft"
+version = "FtLncNsX"

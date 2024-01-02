@@ -1,0 +1,17 @@
+name = "reel-0.1.1+1.20.4"
+filename = "reel-0.1.1+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9SYW2Dqk/versions/FXeN3NJF/reel-0.1.1%2B1.20.4.jar"
+hash = "89a4c819dbc9850ae3e759a2b2815a5331b190f86bd63e2aad97f08fdcc3be96e1cf13bf654b98678a43dac0f1f44b3af95a1e049b17cfee671be4b68109fc39"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "reel"
+version = "FXeN3NJF"

@@ -1,0 +1,17 @@
+name = "toxsky-0.0.3"
+filename = "toxsky-0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/59WiWZ93/versions/PE1DBsz4/toxsky-0.0.3.jar"
+hash = "2dd0d57ad2a28c240ba31975ac83edac3a334d1ff9b02176879e7d11ecdfbde4ebae0c3fe657645a8ac64841e13f6133a9ea83ad025feff4e371a21b9a118086"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "toxsky"
+version = "PE1DBsz4"

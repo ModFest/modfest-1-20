@@ -1,0 +1,17 @@
+name = "potatoesplus-1.0.3"
+filename = "potatoesplus-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/In0lmWjl/versions/xxvfihTT/potatoesplus-1.0.3.jar"
+hash = "72241a0e5d50d52c5a5aeffbace02ebf59cbab07f3b7c02f59106bf782e5116d0a309f8d5bc32f623c15919087b2653a1af353678c9ec92bd0c03e8e720e560f"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "potatoesplus"
+version = "xxvfihTT"
