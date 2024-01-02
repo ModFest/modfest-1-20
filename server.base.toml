@@ -111,7 +111,18 @@ version = "Z4SMiN06"
 [[mods]]
 type = "modrinth"
 id = "trinkets"
-version = "3.8.0" # ??? this version is for 1.20.2, idk -dennis
+version = "3.8.0"
+
+[[mods]]
+type = "modrinth"
+id = "wthit"
+version = "fabric-10.0.1"
+
+[[mods]]
+type = "url"
+url = "https://unascribed.b-cdn.net/sidekick-fabric-2.0.5%2B1.20.2.jar"
+filename = "sidekick-fabric-2.0.5+1.20.2.jar"
+desc = "Your creative companion — extended inventory, noclip, teleport, and other superpowers for Creative mode."
 
 [markdown]
 files = ["README.md"]

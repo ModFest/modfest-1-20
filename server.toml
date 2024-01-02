@@ -13,9 +13,6 @@ PORT = "25565"
 eula_args = true
 nogui = true
 
-[worlds.modfest-1-20]
-datapacks = []
-
 [[mods]]
 type = "modrinth"
 id = "fabric-api"
@@ -111,7 +108,7 @@ version = "Z4SMiN06"
 [[mods]]
 type = "modrinth"
 id = "trinkets"
-version = "3.8.0" # ??? this version is for 1.20.2, idk -dennis
+version = "3.8.0"
 
 [[mods]]
 type = "modrinth"
@@ -124,18 +121,10 @@ url = "https://unascribed.b-cdn.net/sidekick-fabric-2.0.5%2B1.20.2.jar"
 filename = "sidekick-fabric-2.0.5+1.20.2.jar"
 desc = "Your creative companion — extended inventory, noclip, teleport, and other superpowers for Creative mode."
 
-[markdown]
-files = ["README.md"]
-auto_update = false
-
-[options]
-
-# BEGIN SUBMISSIONS #
-
 [[mods]]
 type = "modrinth"
 id = "cerulean"
-version = "it1V9161"
+version = "p0HRA1Ep"
 
 [[mods]]
 type = "modrinth"
@@ -160,7 +149,7 @@ version = "UNlU07tE"
 [[mods]]
 type = "modrinth"
 id = "pet-bottle-rocket"
-version = "R0eL60ot"
+version = "EMNmLdWf"
 
 [[mods]]
 type = "modrinth"
@@ -195,12 +184,12 @@ version = "jXRfaWdl"
 [[mods]]
 type = "modrinth"
 id = "anshar"
-version = "t6F0gIBS"
+version = "cHCGuvWp"
 
 [[mods]]
 type = "modrinth"
 id = "reel"
-version = "QigKV8wN"
+version = "FXeN3NJF"
 
 [[mods]]
 type = "modrinth"
@@ -235,12 +224,12 @@ version = "FbllYDtE"
 [[mods]]
 type = "modrinth"
 id = "potatoesplus"
-version = "VfB11R7N"
+version = "xxvfihTT"
 
 [[mods]]
 type = "modrinth"
 id = "wizcraft"
-version = "S5yx6Hq5"
+version = "FtLncNsX"
 
 [[mods]]
 type = "modrinth"
@@ -265,7 +254,7 @@ version = "X6Nwdhrz"
 [[mods]]
 type = "modrinth"
 id = "reel"
-version = "QigKV8wN"
+version = "FXeN3NJF"
 
 [[mods]]
 type = "modrinth"
@@ -305,7 +294,7 @@ version = "WWFqiy4s"
 [[mods]]
 type = "modrinth"
 id = "toxsky"
-version = "yGe0HVjV"
+version = "PE1DBsz4"
 
 [[mods]]
 type = "modrinth"
@@ -315,12 +304,12 @@ version = "KrtWsfxN"
 [[mods]]
 type = "modrinth"
 id = "whalestrom"
-version = "29fBggbX"
+version = "vc7VVtO7"
 
 [[mods]]
 type = "modrinth"
 id = "cerulean"
-version = "it1V9161"
+version = "p0HRA1Ep"
 
 [[mods]]
 type = "modrinth"
@@ -375,7 +364,7 @@ version = "0.2"
 [[mods]]
 type = "modrinth"
 id = "anshar"
-version = "t6F0gIBS"
+version = "cHCGuvWp"
 
 [[mods]]
 type = "modrinth"
@@ -392,4 +381,15 @@ type = "modrinth"
 id = "the-skys-the-limit"
 version = "4eOE93dU"
 
-# END SUBMISSIONS #
+[[mods]]
+type = "modrinth"
+id = "wild-magix"
+version = "XaEApfFN"
+
+[worlds.modfest-1-20]
+
+[markdown]
+files = ["README.md"]
+auto_update = false
+
+[options]

@@ -1,7 +1,14 @@
+#!/usr/bin/python3
+
 import requests
 import json
 from subprocess import run, PIPE
 import re
+
+EXCLUDE = [
+    "cRmOY2t0", # (WeatherSync) Not updated yet
+    "9pGITjpO"  # (Rapscallions and Rockhoppers) Pulls latest from NeoForge ver
+]
 
 platform_data = json.loads(requests.get("https://platform.modfest.net/submissions").text)
 participant_data = json.loads(requests.get("https://platform.modfest.net/event/1.20").text)
@@ -9,7 +16,8 @@ participant_data = json.loads(requests.get("https://platform.modfest.net/event/1
 submissions = []
 for participant_id, participant in participant_data["participants"].items():
     for mod in participant["submissions"]:
-        submissions.append(mod)
+        if mod not in EXCLUDE:
+            submissions.append(mod)
 
 input_str = ""
 with open('server.toml', 'r') as f:
