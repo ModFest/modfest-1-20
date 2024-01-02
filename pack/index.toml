@@ -127,6 +127,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/sidekick-fabric-2.0.5+1.20.2.pw.toml"
+hash = "24092cb2e955f844ebe2c74f99ea3e0ff476ad6ffc5541b2bb32d045cf712f0d"
+metafile = true
+preserve = false
+
+[[files]]
 file = "mods/cerulean-0.1.0.pw.toml"
 hash = "8b4dde43b46f47e2046d44759f27484c10b8779ea964cf309992a974ddf25644"
 metafile = true
