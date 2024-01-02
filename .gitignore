@@ -10,3 +10,6 @@ profile.zip
 
 # unzipped world folder
 worlds/modfest-1-20/
+
+# intellij IDEs
+.idea
