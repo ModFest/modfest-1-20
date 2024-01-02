@@ -381,11 +381,6 @@ type = "modrinth"
 id = "the-skys-the-limit"
 version = "4eOE93dU"
 
-[[mods]]
-type = "modrinth"
-id = "wild-magix"
-version = "XaEApfFN"
-
 [worlds.modfest-1-20]
 
 [markdown]
