@@ -457,6 +457,24 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/styled-nicknames-1.4.0+1.20.3.pw.toml"
+hash = "c698068a9067e0b2786d450afa874e66c67e90da8d2911be702df99ed89151ca"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/drogstyle-1.3.0+1.20.4.pw.toml"
+hash = "5964d17e5cc14d2e5bf070db6a91e2a5f951816cdc070498c83e35fe05d80ced"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/crunchy-crunchy-advancements-1.6.1+1.20.2.pw.toml"
+hash = "45632ce986fb0c9727935c103ece9d1e69e7d320b6e8d24c917a328a93d7b844"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/roles.example.json"
 hash = "840a1ad16f523a7d7550e4421c8b0b897dded8c2d06dd1c6569d099db152af39"
 metafile = false
