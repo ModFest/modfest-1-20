@@ -512,7 +512,7 @@ preserve = false
 
 [[files]]
 file = "config/teabridge.json"
-hash = "f97d3f4c42b466d032aa03196e4056b93b9002c0258443a4fd0a696cfe267172"
+hash = "3864ed958f7ab49c9b7b0773389fb312f9081cdb05ca9379f86279e228a04c74"
 metafile = false
 preserve = false
 
