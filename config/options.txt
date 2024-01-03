@@ -1,0 +1,3 @@
+version:3700
+key_key.advancements:key.keyboard.unknown
+key_key.waila.show_overlay:key.keyboard.left.alt
