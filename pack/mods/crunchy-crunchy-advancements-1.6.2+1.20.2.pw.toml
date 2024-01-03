@@ -14,4 +14,4 @@ default = false
 
 [update.modrinth]
 mod-id = "crunchy-crunchy-advancements"
-version = "lPw7189i"
+version = "1.6.2+1.20.2"

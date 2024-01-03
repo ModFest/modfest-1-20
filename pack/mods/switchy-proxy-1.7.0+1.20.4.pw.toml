@@ -1,0 +1,17 @@
+name = "switchy-proxy-1.7.0+1.20.4"
+filename = "switchy-proxy-1.7.0+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6kt9OiyV/versions/QOdWlcMh/switchy-proxy-1.7.0%2B1.20.4.jar"
+hash = "c62f536ba1828782114b8082cfacf9322c6fc80af2122a9fbf18d8e321b88bb68fcf6e5ba9ea302de14acb9cb5b3389c72d25bd64e35215610fadf8eace19a7c"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "switchy-proxy"
+version = "1.7.0+1.20.4"

@@ -1,0 +1,17 @@
+name = "owo-lib-0.12.0+1.20.3"
+filename = "owo-lib-0.12.0+1.20.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/rGwQL6vN/owo-lib-0.12.0%2B1.20.3.jar"
+hash = "4997dfd14d4f2622e26fc7dbe5f545032da12484565746afb3fad5f6f024c610e9558053411d78f8f93469f535f338ddb17d6b29a8ed97fd3ee587d7008bf32a"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "owo-lib"
+version = "0.12.0+1.20.3"

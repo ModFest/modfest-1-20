@@ -14,4 +14,4 @@ default = false
 
 [update.modrinth]
 mod-id = "simple-voice-chat"
-version = "UIZXn9t1"
+version = "fabric-1.20.4-2.4.32"

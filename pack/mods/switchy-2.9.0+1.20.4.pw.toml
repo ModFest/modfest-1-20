@@ -1,0 +1,17 @@
+name = "switchy-2.9.0+1.20.4"
+filename = "switchy-2.9.0+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ss0QuCRx/versions/dYQqCTki/switchy-2.9.0%2B1.20.4.jar"
+hash = "1059af60fb5c19bcbf898bd3744419237a9ced9094685768dff0ee8887b9467e4fed933e5c458959c0f3b15305940505a3f9f5b4c952ef08ae007ac8bd4ccbee"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "switchy"
+version = "2.9.0+1.20.4"

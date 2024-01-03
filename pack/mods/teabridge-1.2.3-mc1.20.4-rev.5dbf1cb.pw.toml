@@ -14,4 +14,4 @@ default = false
 
 [update.modrinth]
 mod-id = "teabridge"
-version = "Y9o5SgHK"
+version = "1.2.3"
