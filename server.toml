@@ -436,7 +436,12 @@ type = "modrinth"
 id = "weathersync"
 version = "TXZUPmps"
 
-[worlds."modfest-1-20".download]
+[[mods]]
+type = "modrinth"
+id = "sidekick"
+version = "jRAvZUss"
+
+[worlds.modfest-1-20.download]
 type = "ghrel"
 repo = "ModFest/modfest-1-20"
 tag = "base"
