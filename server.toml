@@ -381,6 +381,16 @@ type = "modrinth"
 id = "weathersync"
 version = "TXZUPmps"
 
+[[mods]]
+type = "modrinth"
+id = "teabridge"
+version = "Y9o5SgHK"
+
+[[mods]]
+type = "modrinth"
+id = "simple-voice-chat"
+version = "UIZXn9t1"
+
 [worlds.modfest-1-20]
 
 [markdown]
