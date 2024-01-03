@@ -469,9 +469,15 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/crunchy-crunchy-advancements-1.6.1+1.20.2.pw.toml"
-hash = "45632ce986fb0c9727935c103ece9d1e69e7d320b6e8d24c917a328a93d7b844"
+file = "mods/crunchy-crunchy-advancements-1.6.2+1.20.2.pw.toml"
+hash = "cfa6412db4680892177be5163c3669703aff526735aaabb9c316f1b51e4fab15"
 metafile = true
+preserve = false
+
+[[files]]
+file = "config/teabridge.json"
+hash = "f97d3f4c42b466d032aa03196e4056b93b9002c0258443a4fd0a696cfe267172"
+metafile = false
 preserve = false
 
 [[files]]

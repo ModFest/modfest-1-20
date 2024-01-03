@@ -1,0 +1,17 @@
+name = "crunchy-crunchy-advancements-1.6.2+1.20.2"
+filename = "crunchy-crunchy-advancements-1.6.2+1.20.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4lO2KZlF/versions/lPw7189i/crunchy-crunchy-advancements-1.6.2%2B1.20.2.jar"
+hash = "726de1436a230149d2a0d1235c77d6c2c1e50b6e9d10a83bcd6ce350ba60dcd0fda97ea6bcbcb95b2f8ba95c8e2caa3a46bb9e83674b0aaf07a6f86c2cf1988d"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "crunchy-crunchy-advancements"
+version = "lPw7189i"

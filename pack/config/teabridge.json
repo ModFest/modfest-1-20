@@ -1,0 +1,17 @@
+{
+    "discord": {
+        "token": "${TEABRIDGE_TOKEN}",
+        "webhook": "${TEABRIDGE_WEBHOOK}"
+    },
+    "game": {
+        "serverStartingMessage": "Server is starting...",
+        "serverStartMessage": "Server has started!",
+        "serverStopMessage": "Server has stopped!",
+        "serverCrashMessage": "Server has crashed!",
+        "mirrorDeath": true,
+        "mirrorAdvancements": true
+    },
+    "crashes": {
+        "uploadToMclogs": true
+    }
+}
