@@ -234,7 +234,7 @@ version = "FtLncNsX"
 [[mods]]
 type = "modrinth"
 id = "resurfaced"
-version = "XstshMSP"
+version = "OBxLGK7I"
 
 [[mods]]
 type = "modrinth"
@@ -274,7 +274,7 @@ version = "A9YpZkm1"
 [[mods]]
 type = "modrinth"
 id = "gods-of-olympus"
-version = "Xn2UTgH0"
+version = "ApCuzPaA"
 
 [[mods]]
 type = "modrinth"
@@ -314,17 +314,17 @@ version = "p0HRA1Ep"
 [[mods]]
 type = "modrinth"
 id = "env.json"
-version = "t6ECu50t"
+version = "CBQek3jU"
 
 [[mods]]
 type = "modrinth"
 id = "env-driven-assets"
-version = "GpoGWc3F"
+version = "iliWwvXj"
 
 [[mods]]
 type = "modrinth"
 id = "operation-starcleave"
-version = "mEjD68Hw"
+version = "2jM7eiYV"
 
 [[mods]]
 type = "modrinth"
@@ -358,18 +358,13 @@ version = "cWb8HuiP"
 
 [[mods]]
 type = "modrinth"
-id = "weathersync"
-version = "0.2"
-
-[[mods]]
-type = "modrinth"
 id = "anshar"
 version = "cHCGuvWp"
 
 [[mods]]
 type = "modrinth"
 id = "env-driven-assets"
-version = "GpoGWc3F"
+version = "iliWwvXj"
 
 [[mods]]
 type = "modrinth"
@@ -379,7 +374,12 @@ version = "J13DyBPM"
 [[mods]]
 type = "modrinth"
 id = "the-skys-the-limit"
-version = "4eOE93dU"
+version = "ogKJHhlk"
+
+[[mods]]
+type = "modrinth"
+id = "weathersync"
+version = "TXZUPmps"
 
 [worlds.modfest-1-20]
 

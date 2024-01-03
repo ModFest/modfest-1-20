@@ -7,7 +7,6 @@ import re
 
 EXCLUDE = [
     "wild-magix", # Not approved yet?
-    "weathersync", # Not updated yet
     "rapscallions-and-rockhoppers"  # Pulls latest from NeoForge ver
 ]
 
