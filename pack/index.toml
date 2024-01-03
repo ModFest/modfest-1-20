@@ -241,8 +241,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/boatism-0.0.1.pw.toml"
-hash = "1856db6f9a080ff7cc4d13783b810b098df9360ff6e7d631ac2efcdf785a449e"
+file = "mods/boatism-0.0.2.pw.toml"
+hash = "6ef9d32636f05fcf4885dc2ccbb9f27b378c1abf98f0a07639066125b79c91fc"
 metafile = true
 preserve = false
 
