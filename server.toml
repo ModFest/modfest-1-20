@@ -391,6 +391,21 @@ type = "modrinth"
 id = "simple-voice-chat"
 version = "UIZXn9t1"
 
+[[mods]]
+type = "modrinth"
+id = "styled-nicknames"
+version = "R7dIzguo"
+
+[[mods]]
+type = "modrinth"
+id = "drogstyle"
+version = "AqoDCMEp"
+
+[[mods]]
+type = "modrinth"
+id = "crunchy-crunchy-advancements"
+version = "yDqACmzm"
+
 [worlds.modfest-1-20]
 
 [markdown]
