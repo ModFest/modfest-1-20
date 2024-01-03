@@ -1,0 +1,17 @@
+name = "teabridge-1.2.3-mc1.20.4-rev.5dbf1cb"
+filename = "teabridge-1.2.3-mc1.20.4-rev.5dbf1cb.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fhtWl3kP/versions/Y9o5SgHK/teabridge-1.2.3-mc1.20.4-rev.5dbf1cb.jar"
+hash = "7eb3313b95ae7c4d5c9ce28e53243c3b876a765dc1afabbd7e277bf4ce22455e10b37c28d7fcd1aa017f3061be42ac0a9fdde844bb5dc605c67c3451072ae8b2"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "teabridge"
+version = "Y9o5SgHK"
