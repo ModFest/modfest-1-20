@@ -127,12 +127,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/sidekick-fabric-2.0.5+1.20.2.pw.toml"
-hash = "24092cb2e955f844ebe2c74f99ea3e0ff476ad6ffc5541b2bb32d045cf712f0d"
-metafile = true
-preserve = false
-
-[[files]]
 file = "mods/teabridge-1.2.3-mc1.20.4-rev.5dbf1cb.pw.toml"
 hash = "67bf64540eb1a1be95f352d8cc797cf7284607527e1af39cb66bbdf781b2cbed"
 metafile = true
