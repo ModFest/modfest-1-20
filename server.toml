@@ -436,7 +436,11 @@ type = "modrinth"
 id = "weathersync"
 version = "TXZUPmps"
 
-[worlds.modfest-1-20]
+[worlds."modfest-1-20".download]
+type = "ghrel"
+repo = "ModFest/modfest-1-20"
+tag = "base"
+asset = "modfest-1-20-base-world.zip"
 
 [markdown]
 files = ["README.md"]
