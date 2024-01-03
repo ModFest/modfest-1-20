@@ -1,0 +1,17 @@
+name = "skys-the-limit-1.1.0"
+filename = "skys-the-limit-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/odtvO3ZX/versions/ogKJHhlk/skys-the-limit-1.1.0.jar"
+hash = "2ba0cf1a7eefca5fa3fca67d90eeeb722fb37b77dc8bb0d6b0882374fbddd6740531ea26512c16a4becc1d88ed8afc276033f34a2014509558e175cfc09d99e5"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "the-skys-the-limit"
+version = "ogKJHhlk"

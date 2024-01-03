@@ -1,0 +1,17 @@
+name = "env_json-0.3.1-beta"
+filename = "env_json-0.3.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZKEKrxKq/versions/CBQek3jU/env_json-0.3.1-beta.jar"
+hash = "b6fc24120c9a446474a56e3654388ccdcc718211ff5ca7fc275c272db4da96f47528d5edd0b16dab6db737c2e3c84006141e9933a5782441078601d0e3c04025"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "env.json"
+version = "CBQek3jU"
