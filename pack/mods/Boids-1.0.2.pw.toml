@@ -1,0 +1,17 @@
+name = "Boids-1.0.2"
+filename = "Boids-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2OckSy74/versions/4WKWsWgF/Boids-1.0.2.jar"
+hash = "2e37380820f08e86d6e8b3235b56773a44ba7514e968f0df7a6ee04f3fa35a947d9c015a618b9c03c92ed1cbb0039610bdb5ef6356c7f4e8170ce8d30953dc8f"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "boids"
+version = "4WKWsWgF"

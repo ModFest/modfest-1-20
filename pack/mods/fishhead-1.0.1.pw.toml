@@ -1,0 +1,17 @@
+name = "fishhead-1.0.1"
+filename = "fishhead-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zftBdwWM/versions/kjkXFzU8/fishhead-1.0.1.jar"
+hash = "9729b1ef35598ca3a54597e6593c66c5a23ef643c17542b35d2bece322e5f46019b53ba4e5fb83cbe212d8cb97d15886ab505d239bf96bfd9b107c67db977b62"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "fishhead"
+version = "kjkXFzU8"
