@@ -375,6 +375,11 @@ type = "modrinth"
 id = "moonrise"
 version = "FbllYDtE"
 
+[[mods]]
+type = "modrinth"
+id = "rapscallions-and-rockhoppers"
+version = "lTipcuyP"
+
 [worlds.modfest-1-20.download]
 type = "ghrel"
 repo = "ModFest/modfest-1-20"
