@@ -172,23 +172,18 @@ version = "1.4.6+fabric-1.20.2"
 
 [[mods]]
 type = "modrinth"
-id = "cerulean"
-version = "p0HRA1Ep"
+id = "sidekick"
+version = "jRAvZUss"
 
 [[mods]]
 type = "modrinth"
-id = "partnership"
-version = "yMU48SrD"
+id = "blocky-bass"
+version = "1oRMoeLe"
 
 [[mods]]
 type = "modrinth"
-id = "seagulls"
-version = "yP2sUiVD"
-
-[[mods]]
-type = "modrinth"
-id = "pescatore"
-version = "X6Nwdhrz"
+id = "starcaller"
+version = "MjDyRyZv"
 
 [[mods]]
 type = "modrinth"
@@ -197,78 +192,38 @@ version = "UNlU07tE"
 
 [[mods]]
 type = "modrinth"
+id = "toxsky"
+version = "PE1DBsz4"
+
+[[mods]]
+type = "modrinth"
 id = "pet-bottle-rocket"
 version = "EMNmLdWf"
 
 [[mods]]
 type = "modrinth"
-id = "rapscallions-and-rockhoppers"
-version = "1.0.1-fabric"
+id = "skybox_athome"
+version = "A9YpZkm1"
 
 [[mods]]
 type = "modrinth"
-id = "boatism"
-version = "c9XfOg9n"
+id = "arctic"
+version = "WWFqiy4s"
 
 [[mods]]
 type = "modrinth"
-id = "glide"
-version = "SSgjgT31"
+id = "seagulls"
+version = "yP2sUiVD"
 
 [[mods]]
 type = "modrinth"
-id = "pescatore"
-version = "X6Nwdhrz"
+id = "gadgets-of-the-sky"
+version = "KrtWsfxN"
 
 [[mods]]
 type = "modrinth"
-id = "clouded-isles"
-version = "a5PWns3Z"
-
-[[mods]]
-type = "modrinth"
-id = "glide-away"
-version = "jXRfaWdl"
-
-[[mods]]
-type = "modrinth"
-id = "anshar"
-version = "cHCGuvWp"
-
-[[mods]]
-type = "modrinth"
-id = "reel"
-version = "FXeN3NJF"
-
-[[mods]]
-type = "modrinth"
-id = "fluiwid"
-version = "BwvIvKNi"
-
-[[mods]]
-type = "modrinth"
-id = "schmarrn-fireworks"
-version = "ayB8Dm59"
-
-[[mods]]
-type = "modrinth"
-id = "pesky-seagulls"
-version = "KLntrhIl"
-
-[[mods]]
-type = "modrinth"
-id = "clouded-isles"
-version = "a5PWns3Z"
-
-[[mods]]
-type = "modrinth"
-id = "pesky-seagulls"
-version = "KLntrhIl"
-
-[[mods]]
-type = "modrinth"
-id = "moonrise"
-version = "FbllYDtE"
+id = "env.json"
+version = "CBQek3jU"
 
 [[mods]]
 type = "modrinth"
@@ -277,18 +232,68 @@ version = "xxvfihTT"
 
 [[mods]]
 type = "modrinth"
+id = "loggerhead-luminancies"
+version = "cWb8HuiP"
+
+[[mods]]
+type = "modrinth"
+id = "glide-away"
+version = "jXRfaWdl"
+
+[[mods]]
+type = "modrinth"
+id = "weathersync"
+version = "TXZUPmps"
+
+[[mods]]
+type = "modrinth"
+id = "boids"
+version = "4WKWsWgF"
+
+[[mods]]
+type = "modrinth"
+id = "birds-boids-addon"
+version = "qQcUk86d"
+
+[[mods]]
+type = "modrinth"
+id = "cerulean"
+version = "p0HRA1Ep"
+
+[[mods]]
+type = "modrinth"
+id = "clouded-isles"
+version = "a5PWns3Z"
+
+[[mods]]
+type = "modrinth"
+id = "schmarrn-fireworks"
+version = "ayB8Dm59"
+
+[[mods]]
+type = "modrinth"
+id = "anshar"
+version = "cHCGuvWp"
+
+[[mods]]
+type = "modrinth"
+id = "fishhead"
+version = "kjkXFzU8"
+
+[[mods]]
+type = "modrinth"
+id = "gods-of-olympus"
+version = "ApCuzPaA"
+
+[[mods]]
+type = "modrinth"
 id = "wizcraft"
 version = "FtLncNsX"
 
 [[mods]]
 type = "modrinth"
-id = "resurfaced"
-version = "OBxLGK7I"
-
-[[mods]]
-type = "modrinth"
-id = "blocky-bass"
-version = "V8mKhZR1"
+id = "perihelion"
+version = "fFBFJaJ5"
 
 [[mods]]
 type = "modrinth"
@@ -302,8 +307,13 @@ version = "X6Nwdhrz"
 
 [[mods]]
 type = "modrinth"
-id = "reel"
-version = "FXeN3NJF"
+id = "env-driven-assets"
+version = "iliWwvXj"
+
+[[mods]]
+type = "modrinth"
+id = "pesky-seagulls"
+version = "KLntrhIl"
 
 [[mods]]
 type = "modrinth"
@@ -312,113 +322,23 @@ version = "S33yyx2G"
 
 [[mods]]
 type = "modrinth"
-id = "capiche"
-version = "ItXNThQy"
+id = "fluiwid"
+version = "BwvIvKNi"
 
 [[mods]]
 type = "modrinth"
-id = "skybox_athome"
-version = "A9YpZkm1"
+id = "partnership"
+version = "ZI7VHNtP"
 
 [[mods]]
 type = "modrinth"
-id = "gods-of-olympus"
-version = "ApCuzPaA"
+id = "reel"
+version = "BAwLBNQL"
 
 [[mods]]
 type = "modrinth"
-id = "boids"
-version = "OeCnoEPH"
-
-[[mods]]
-type = "modrinth"
-id = "birds-boids-addon"
-version = "vXooxCiH"
-
-[[mods]]
-type = "modrinth"
-id = "arctic"
-version = "WWFqiy4s"
-
-[[mods]]
-type = "modrinth"
-id = "toxsky"
-version = "PE1DBsz4"
-
-[[mods]]
-type = "modrinth"
-id = "gadgets-of-the-sky"
-version = "KrtWsfxN"
-
-[[mods]]
-type = "modrinth"
-id = "whalestrom"
-version = "vc7VVtO7"
-
-[[mods]]
-type = "modrinth"
-id = "cerulean"
-version = "p0HRA1Ep"
-
-[[mods]]
-type = "modrinth"
-id = "env.json"
-version = "CBQek3jU"
-
-[[mods]]
-type = "modrinth"
-id = "env-driven-assets"
-version = "iliWwvXj"
-
-[[mods]]
-type = "modrinth"
-id = "operation-starcleave"
-version = "2jM7eiYV"
-
-[[mods]]
-type = "modrinth"
-id = "arctic"
-version = "WWFqiy4s"
-
-[[mods]]
-type = "modrinth"
-id = "clouded-isles"
-version = "a5PWns3Z"
-
-[[mods]]
-type = "modrinth"
-id = "blocky-bass"
-version = "V8mKhZR1"
-
-[[mods]]
-type = "modrinth"
-id = "perihelion"
-version = "fFBFJaJ5"
-
-[[mods]]
-type = "modrinth"
-id = "starcaller"
-version = "MjDyRyZv"
-
-[[mods]]
-type = "modrinth"
-id = "loggerhead-luminancies"
-version = "cWb8HuiP"
-
-[[mods]]
-type = "modrinth"
-id = "anshar"
-version = "cHCGuvWp"
-
-[[mods]]
-type = "modrinth"
-id = "env-driven-assets"
-version = "iliWwvXj"
-
-[[mods]]
-type = "modrinth"
-id = "fishhead"
-version = "J13DyBPM"
+id = "boatism"
+version = "c9XfOg9n"
 
 [[mods]]
 type = "modrinth"
@@ -427,13 +347,33 @@ version = "ogKJHhlk"
 
 [[mods]]
 type = "modrinth"
-id = "weathersync"
-version = "TXZUPmps"
+id = "capiche"
+version = "ItXNThQy"
 
 [[mods]]
 type = "modrinth"
-id = "sidekick"
-version = "jRAvZUss"
+id = "whalestrom"
+version = "vc7VVtO7"
+
+[[mods]]
+type = "modrinth"
+id = "glide"
+version = "SSgjgT31"
+
+[[mods]]
+type = "modrinth"
+id = "resurfaced"
+version = "OBxLGK7I"
+
+[[mods]]
+type = "modrinth"
+id = "operation-starcleave"
+version = "2jM7eiYV"
+
+[[mods]]
+type = "modrinth"
+id = "moonrise"
+version = "FbllYDtE"
 
 [worlds.modfest-1-20.download]
 type = "ghrel"
