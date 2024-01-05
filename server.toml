@@ -132,6 +132,21 @@ version = "1.4.0+1.20.3"
 
 [[mods]]
 type = "modrinth"
+id = "styled-sidebars"
+version = "mrmtsYJL"
+
+[[mods]]
+type = "modrinth"
+id = "styledplayerlist"
+version = "jcLxMRaH"
+
+[[mods]]
+type = "modrinth"
+id = "styled-chat"
+version = "2.4.0+1.20.3"
+
+[[mods]]
+type = "modrinth"
 id = "drogstyle"
 version = "1.3.1+1.20.4"
 
@@ -149,11 +164,6 @@ version = "0.12.0+1.20.3"
 type = "modrinth"
 id = "switchy"
 version = "2.9.0+1.20.4"
-
-[[mods]]
-type = "modrinth"
-id = "styled-chat"
-version = "2.4.0+1.20.3"
 
 [[mods]]
 type = "modrinth"
