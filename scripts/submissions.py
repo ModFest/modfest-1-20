@@ -6,7 +6,6 @@ from subprocess import run, PIPE
 import re
 
 EXCLUDE = [
-    "wild-magix", # Not approved yet?
     "rapscallions-and-rockhoppers"  # Pulls latest from NeoForge ver
 ]
 

@@ -183,7 +183,7 @@ version = "1oRMoeLe"
 [[mods]]
 type = "modrinth"
 id = "starcaller"
-version = "MjDyRyZv"
+version = "vREBSPTX"
 
 [[mods]]
 type = "modrinth"
@@ -218,7 +218,7 @@ version = "yP2sUiVD"
 [[mods]]
 type = "modrinth"
 id = "gadgets-of-the-sky"
-version = "KrtWsfxN"
+version = "RdHzOZKN"
 
 [[mods]]
 type = "modrinth"
@@ -238,7 +238,7 @@ version = "cWb8HuiP"
 [[mods]]
 type = "modrinth"
 id = "glide-away"
-version = "jXRfaWdl"
+version = "go1RyWf6"
 
 [[mods]]
 type = "modrinth"
@@ -263,12 +263,12 @@ version = "p0HRA1Ep"
 [[mods]]
 type = "modrinth"
 id = "clouded-isles"
-version = "a5PWns3Z"
+version = "zrJtrwVN"
 
 [[mods]]
 type = "modrinth"
 id = "schmarrn-fireworks"
-version = "ayB8Dm59"
+version = "DVqYouJJ"
 
 [[mods]]
 type = "modrinth"
@@ -288,7 +288,7 @@ version = "ApCuzPaA"
 [[mods]]
 type = "modrinth"
 id = "wizcraft"
-version = "FtLncNsX"
+version = "nsDkhDLN"
 
 [[mods]]
 type = "modrinth"
@@ -368,7 +368,7 @@ version = "OBxLGK7I"
 [[mods]]
 type = "modrinth"
 id = "operation-starcleave"
-version = "2jM7eiYV"
+version = "9flzmYmU"
 
 [[mods]]
 type = "modrinth"
@@ -379,6 +379,11 @@ version = "FbllYDtE"
 type = "modrinth"
 id = "rapscallions-and-rockhoppers"
 version = "lTipcuyP"
+
+[[mods]]
+type = "modrinth"
+id = "wild-magix"
+version = "XaEApfFN"
 
 [worlds.modfest-1-20.download]
 type = "ghrel"
