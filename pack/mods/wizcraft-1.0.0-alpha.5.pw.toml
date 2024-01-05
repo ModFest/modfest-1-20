@@ -1,0 +1,17 @@
+name = "wizcraft-1.0.0-alpha.5"
+filename = "wizcraft-1.0.0-alpha.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F9eqqJxr/versions/nsDkhDLN/wizcraft-1.0.0-alpha.5.jar"
+hash = "0d9afd8556ef00bc688e72cbaca79bb84f6429001fa5450806f97566beff2807b8530ce462c30fea0c2063249c46e7cdace69d39feeab7a3732097b09947116d"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "wizcraft"
+version = "nsDkhDLN"

@@ -1,0 +1,17 @@
+name = "glideaway-1.0.2+1.20.4"
+filename = "glideaway-1.0.2+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iWkVbeKr/versions/go1RyWf6/glideaway-1.0.2%2B1.20.4.jar"
+hash = "6f00413b39ab64d2bda6c3d2792985cf7d5e74daa1cdf29f9020fdf8d2abd6f417d7f1ad44c74e33b222ac265cb2c60df2fdf135c59604a0f410d366bfe231c9"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "glide-away"
+version = "go1RyWf6"
