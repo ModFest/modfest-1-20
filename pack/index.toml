@@ -319,8 +319,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/schmarrn-fireworks-1.0.1.pw.toml"
-hash = "e518576e1a698ffd2929565169d2a8274c6643f7c7eb95c53b08f3d81ea02d72"
+file = "mods/schmarrn-fireworks-1.0.0.pw.toml"
+hash = "eef13a3f6bf22bbec4a4781e5f6bd93f008511e8a72059ef6c1decde409e29db"
 metafile = true
 preserve = false
 
