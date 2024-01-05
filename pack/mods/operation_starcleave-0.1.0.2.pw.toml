@@ -1,0 +1,17 @@
+name = "operation_starcleave-0.1.0.2"
+filename = "operation_starcleave-0.1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6EXJCB46/versions/9flzmYmU/operation_starcleave-0.1.0.2.jar"
+hash = "fda02beebf9c36fe25b2abc8e5d339bc626af4142cc180ce895b5a07499c5a21460f0b1644a183d6c6094edcf722b858846d532e6284ea9b847200c71141dbcd"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "operation-starcleave"
+version = "9flzmYmU"

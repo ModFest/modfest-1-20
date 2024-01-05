@@ -1,0 +1,13 @@
+name = "picturesign-2.0.0-beta.1+unascribedtheora5-1.20.4"
+filename = "picturesign-2.0.0-beta.1+unascribedtheora5-1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://unascribed.b-cdn.net/picturesign-2.0.0-beta.1%2Bunascribedtheora5-1.20.4.jar"
+hash = "9a2505afbdc0883377ec9b53079f08ffd845d27c89f5ad1c003ace7f2c8c143b"
+hash-format = "sha256"
+mode = "url"
+
+[option]
+optional = false
+default = false
