@@ -1,0 +1,17 @@
+name = "schmarrn-fireworks-1.0.2"
+filename = "schmarrn-fireworks-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dg32M65i/versions/T9HJgbsq/schmarrn-fireworks-1.0.2.jar"
+hash = "b461e4a0c9bbb819f5ce6b4ccb2fa203ee155dbe84dee47c02d86e26abf7ca876576e82c6656c29d19bb1abb305945224e7188ed5ac5d1a0fc97c96d9c02f9d7"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "schmarrn-fireworks"
+version = "T9HJgbsq"

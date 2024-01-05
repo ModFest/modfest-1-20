@@ -313,14 +313,14 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/cloudedisles-0.9.2-1.20.4.pw.toml"
-hash = "e1fcd1879f51729b5df5bfb5fb40ddb617359bd67a3daae2328e745458d79488"
+file = "mods/cloudedisles-0.9.3b-1.20.4.pw.toml"
+hash = "3a13b8394deb2de1d3b47b8d25e541557e37f1a1f6647ff8de72d4af4248da4a"
 metafile = true
 preserve = false
 
 [[files]]
-file = "mods/schmarrn-fireworks-1.0.0.pw.toml"
-hash = "eef13a3f6bf22bbec4a4781e5f6bd93f008511e8a72059ef6c1decde409e29db"
+file = "mods/schmarrn-fireworks-1.0.2.pw.toml"
+hash = "0a70696d220703e5f0aef9fd0481ba80db035a4bb5e239de1a6dc6ce7a93e924"
 metafile = true
 preserve = false
 
@@ -343,8 +343,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/wizcraft-1.0.0-alpha.5.pw.toml"
-hash = "c711fefa176d48b9eac7a1e450a779a19251e03b2c6eccb475c26f91a2d1655a"
+file = "mods/wizcraft-1.0.0-alpha.6.pw.toml"
+hash = "65e81412b7c8c4802f581180ede525c1457553c7b2577ee23d651bd85ae1be72"
 metafile = true
 preserve = false
 
