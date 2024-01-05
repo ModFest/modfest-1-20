@@ -395,6 +395,12 @@ type = "modrinth"
 id = "wild-magix"
 version = "XaEApfFN"
 
+[[mods]]
+type = "url"
+url = "https://unascribed.b-cdn.net/picturesign-2.0.0-beta.1%2Bunascribedtheora5-1.20.4.jar"
+filename = "picturesign-2.0.0-beta.1+unascribedtheora5-1.20.4.jar"
+desc = "PictureSign"
+
 [worlds.modfest-1-20.download]
 type = "ghrel"
 repo = "ModFest/modfest-1-20"
