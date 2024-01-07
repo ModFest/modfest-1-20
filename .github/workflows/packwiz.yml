@@ -7,6 +7,8 @@ on:
     paths:
       - config/**
       - server.toml
+      - .github/workflows/packwiz.yml
+  workflow_dispatch:
 
 jobs:
   packwiz-export:
