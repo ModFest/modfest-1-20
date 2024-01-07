@@ -451,8 +451,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/rapscallions-and-rockhoppers-fabric-1.1.0+1.20.4.pw.toml"
-hash = "625e08665ed1ca16f7ba27e19a77a48dc2a9d3536365900e560363dce0bbb380"
+file = "mods/rapscallions-and-rockhoppers-fabric-1.1.1+1.20.4.pw.toml"
+hash = "a808e66e6e6c6e88b66e2805f8058539ee23e3f61141fe7d9e63089659a545ee"
 metafile = true
 preserve = false
 
