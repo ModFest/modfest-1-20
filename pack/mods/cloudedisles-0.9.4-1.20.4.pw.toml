@@ -1,0 +1,17 @@
+name = "cloudedisles-0.9.4-1.20.4"
+filename = "cloudedisles-0.9.4-1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ygRakrsa/versions/QfRJNSiE/cloudedisles-0.9.4-1.20.4.jar"
+hash = "6cffbd732a6d9ded6f4445948f56a6a6039c46f9882717e04b7f8149dd52c41d3bd6769377e16b41362b6eec7f42b94fa952e2fba42ea2e816b24bac46f06a99"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "clouded-isles"
+version = "QfRJNSiE"

@@ -1,0 +1,17 @@
+name = "weathersync-0.3"
+filename = "weathersync-0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cRmOY2t0/versions/h75aFmv3/weathersync-0.3.jar"
+hash = "592f206f51be67b4975afe9868e6cc815ead0ce09d048c980c2833a335033125ee70fba1ebd2d601468852aa3fe045fb8d6482aa30d5e8a3438a3b18c59ef9e5"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "weathersync"
+version = "h75aFmv3"

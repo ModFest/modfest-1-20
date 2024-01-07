@@ -289,8 +289,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/weathersync-0.2.1.pw.toml"
-hash = "b0f9234a8ae29fd5399bde334322ebf27a7798d8cdbccccf035bd7a3199fa326"
+file = "mods/weathersync-0.3.pw.toml"
+hash = "018ac91869a2d6b39d818c6ecdf52961c87217f07043d1b18139f73f05b63170"
 metafile = true
 preserve = false
 
@@ -313,8 +313,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/cloudedisles-0.9.3b-1.20.4.pw.toml"
-hash = "3a13b8394deb2de1d3b47b8d25e541557e37f1a1f6647ff8de72d4af4248da4a"
+file = "mods/cloudedisles-0.9.4-1.20.4.pw.toml"
+hash = "b0708b5680ad2ea28266776e586a97d1b73d29222fe7417223562357adc61878"
 metafile = true
 preserve = false
 
@@ -325,8 +325,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/anshar-0.0.7.pw.toml"
-hash = "af14a4bc66274a40da02c47c6dd90ceb11ce71b168b4f6487581c60b53595240"
+file = "mods/anshar-0.0.10.pw.toml"
+hash = "da5369068d82bcadd321535955b7172fcf8014d9a02ba9dd1143c87eced3f12a"
 metafile = true
 preserve = false
 
@@ -385,8 +385,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/fluiwid-1.1.2.pw.toml"
-hash = "8fc0bfd4aab330a8e2618dd844cbd823a1a660b9c9d6702cecce51f37a5c3bc8"
+file = "mods/fluiwid-1.1.3.pw.toml"
+hash = "e462e993b268ac8a26a3018bef05a48191d1da47687e98100198351639eb474d"
 metafile = true
 preserve = false
 
@@ -445,8 +445,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/moonrise-1.0.0-R.pw.toml"
-hash = "b6ac9f0ce0c9a765796f1466be3bdc7c91467d98816fbe59afafd7343ca29571"
+file = "mods/moonrise-1.0.1-R.pw.toml"
+hash = "fc5d70bef983bd302896fa0f7a1befbab3ddf94d95e1727f59cd1a2709cf041b"
 metafile = true
 preserve = false
 
