@@ -1,0 +1,17 @@
+name = "wizcraft-1.0.0-alpha.7"
+filename = "wizcraft-1.0.0-alpha.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F9eqqJxr/versions/o9dCFuhL/wizcraft-1.0.0-alpha.7.jar"
+hash = "0569bd9768ea744a0491ff9b71e2b195043bb59ad2b10ef47d757da391900f520663b68d9fa7847d719eb910a514a844e99a39d22014ee784be2ddaa51641d40"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "wizcraft"
+version = "o9dCFuhL"
