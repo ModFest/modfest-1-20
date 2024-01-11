@@ -1,4 +1,5 @@
 name = "modfest-skyandsea"
+version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +10,5 @@ metafile = false
 preserve = false
 
 [versions]
-fabric = "0.15.3"
 minecraft = "1.20.4"
+fabric = "0.15.3"
