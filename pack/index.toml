@@ -289,14 +289,14 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/weathersync-0.3.pw.toml"
-hash = "018ac91869a2d6b39d818c6ecdf52961c87217f07043d1b18139f73f05b63170"
+file = "mods/weathersync-0.3.1.pw.toml"
+hash = "a72de4509e7201ba7712dcf71cc77c4b6ae5381d2b46d11706590dba6fd2825c"
 metafile = true
 preserve = false
 
 [[files]]
-file = "mods/Boids-1.0.2.pw.toml"
-hash = "01ff77b8dc4ca27eb8432e519e7d947c434d95ccfdd5788145ca3ae476572381"
+file = "mods/Boids-1.1.0.pw.toml"
+hash = "10a2fb57911b2eff9af89cd5ffa00fb3db2e733fb73b36d9cdc4b20f1d01c1e0"
 metafile = true
 preserve = false
 
@@ -343,8 +343,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/wizcraft-1.0.0-alpha.6.pw.toml"
-hash = "65e81412b7c8c4802f581180ede525c1457553c7b2577ee23d651bd85ae1be72"
+file = "mods/wizcraft-1.0.0-alpha.7.pw.toml"
+hash = "50d7ce4ed213790ee5bf72b48a8ebf9c90408958e47630361cbf84166200583f"
 metafile = true
 preserve = false
 
@@ -469,62 +469,14 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "config/teabridge.json"
-hash = "3864ed958f7ab49c9b7b0773389fb312f9081cdb05ca9379f86279e228a04c74"
-metafile = false
-preserve = false
-
-[[files]]
 file = "config/styled-chat.json"
 hash = "eaadeb7c58358c7edc8c26c41a85e5440917cadfa51e5278274224bcde77db08"
 metafile = false
 preserve = false
 
 [[files]]
-file = "config/styled-nicknames.json"
-hash = "f7e9077e48d519d4606b60d674581eafe90627f3c4c373aeeb0ed8460f7beefd"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/roles.example.json"
-hash = "840a1ad16f523a7d7550e4421c8b0b897dded8c2d06dd1c6569d099db152af39"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/styled-sidebars/config.json"
-hash = "1862e965057745be91f0cb45fd08d988fe350bfdebfa9ab4e55b6c4272c8be83"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/styledplayerlist/styles/animated.json"
-hash = "9c86b4c00b2dc199e13cd4278961d004f413ef0468a10a1faa70892bd65b8f26"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/styledplayerlist/styles/default_spl.json"
-hash = "2b2c36635c8936d4741bd81febaf86a03b28a6b1f6b4e65a229ed65192b25582"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/styledplayerlist/config.json"
-hash = "e1d0bba819234fd34a0f3f0db3d65bb70310da6f330e18fe07a3a2f5574fcda8"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/waila/waila_plugins.json"
-hash = "f3fd13df0c27c60276d55109e8f8b4de0cfe01fbbc6b52cb31dd8cd3946a224f"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/waila/waila.json"
-hash = "13dd715493f0fb3754583f6a97fcb8a7df61ccef983df3a664931be3d1e9c490"
+file = "config/gofo/config.json"
+hash = "0dc8b327a8279c2e9fa9755bb4598d9d59aef10c6f3eaad348496443de1c9a56"
 metafile = false
 preserve = false
 
@@ -535,8 +487,56 @@ metafile = false
 preserve = false
 
 [[files]]
-file = "config/gofo/config.json"
-hash = "0dc8b327a8279c2e9fa9755bb4598d9d59aef10c6f3eaad348496443de1c9a56"
+file = "config/waila/waila.json"
+hash = "13dd715493f0fb3754583f6a97fcb8a7df61ccef983df3a664931be3d1e9c490"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "f3fd13df0c27c60276d55109e8f8b4de0cfe01fbbc6b52cb31dd8cd3946a224f"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/styledplayerlist/config.json"
+hash = "e1d0bba819234fd34a0f3f0db3d65bb70310da6f330e18fe07a3a2f5574fcda8"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/styledplayerlist/styles/default_spl.json"
+hash = "2b2c36635c8936d4741bd81febaf86a03b28a6b1f6b4e65a229ed65192b25582"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/styledplayerlist/styles/animated.json"
+hash = "9c86b4c00b2dc199e13cd4278961d004f413ef0468a10a1faa70892bd65b8f26"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/roles.example.json"
+hash = "840a1ad16f523a7d7550e4421c8b0b897dded8c2d06dd1c6569d099db152af39"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/styled-nicknames.json"
+hash = "f7e9077e48d519d4606b60d674581eafe90627f3c4c373aeeb0ed8460f7beefd"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/styled-sidebars/config.json"
+hash = "1862e965057745be91f0cb45fd08d988fe350bfdebfa9ab4e55b6c4272c8be83"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/teabridge.json"
+hash = "3864ed958f7ab49c9b7b0773389fb312f9081cdb05ca9379f86279e228a04c74"
 metafile = false
 preserve = false
 
