@@ -28,8 +28,6 @@ jobs:
 
     - name: Run mcman export packwiz
       run: mcman export packwiz
-      env:
-        MODPACK_VERSION: ${{ github.sha }}
 
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
