@@ -36,10 +36,7 @@
             "permission_keys": {
                 "modfest.builder": "allow",
                 "worldedit.*": "allow",
-                "scattered_shards.command.collect": "allow",
-                "scattered_shards.command.uncollect.*": "allow",
-                "scattered_shards.command.block": "allow",
-                "scattered_shards.modify_shard": "allow"
+                "scattered_shards.command.library.delete.*": "deny"
             },
             "command_feedback": true,
             "entity_selectors": false,
