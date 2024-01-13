@@ -12,6 +12,7 @@ PORT = "25565"
 [launcher]
 eula_args = true
 nogui = true
+jvm_args = "-XX:+UseZGC -XX:+ZGenerational"
 
 [[mods]]
 type = "modrinth"
