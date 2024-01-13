@@ -59,7 +59,7 @@ version = "mc1.20.3-0.5.5"
 [[mods]]
 type = "modrinth"
 id = "axiom"
-version = "2.1.1"
+version = "2.2.1"
 
 [[mods]]
 type = "modrinth"
