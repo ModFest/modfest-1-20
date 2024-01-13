@@ -469,6 +469,18 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/scatteredshards-1.5.0.pw.toml"
+hash = "89b6f7c7a838808105e70aba159a63f3c7b44952b31cd8aa9e1281428be22d7f"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/DemoBox-1.0.0+mc.1.20.4.pw.toml"
+hash = "c1850a8da744c22ffbaa3eefafd186a04e9f084d7daa906749c0a20e62f8361a"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/teabridge.json"
 hash = "3864ed958f7ab49c9b7b0773389fb312f9081cdb05ca9379f86279e228a04c74"
 metafile = false
