@@ -469,56 +469,20 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "config/teabridge.json"
+hash = "3864ed958f7ab49c9b7b0773389fb312f9081cdb05ca9379f86279e228a04c74"
+metafile = false
+preserve = false
+
+[[files]]
 file = "config/styled-chat.json"
-hash = "eaadeb7c58358c7edc8c26c41a85e5440917cadfa51e5278274224bcde77db08"
+hash = "574cc69f46eebeb7656d117b6ef706e0d027dd4e2329ae3ebe128ea7d1f702d0"
 metafile = false
 preserve = false
 
 [[files]]
-file = "config/gofo/config.json"
-hash = "0dc8b327a8279c2e9fa9755bb4598d9d59aef10c6f3eaad348496443de1c9a56"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/picturesign.json"
-hash = "189fb49363dd1ec9c971cfd28872f9869cb05bb553d655869add968e332d94b6"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/waila/waila.json"
-hash = "13dd715493f0fb3754583f6a97fcb8a7df61ccef983df3a664931be3d1e9c490"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/waila/waila_plugins.json"
-hash = "f3fd13df0c27c60276d55109e8f8b4de0cfe01fbbc6b52cb31dd8cd3946a224f"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/styledplayerlist/config.json"
-hash = "e1d0bba819234fd34a0f3f0db3d65bb70310da6f330e18fe07a3a2f5574fcda8"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/styledplayerlist/styles/default_spl.json"
-hash = "2b2c36635c8936d4741bd81febaf86a03b28a6b1f6b4e65a229ed65192b25582"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/styledplayerlist/styles/animated.json"
-hash = "9c86b4c00b2dc199e13cd4278961d004f413ef0468a10a1faa70892bd65b8f26"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/roles.example.json"
-hash = "840a1ad16f523a7d7550e4421c8b0b897dded8c2d06dd1c6569d099db152af39"
+file = "config/roles.json"
+hash = "a656a5e301193385ec18926781307c3eb998451cf79888c769113a9c991f57e8"
 metafile = false
 preserve = false
 
@@ -535,8 +499,44 @@ metafile = false
 preserve = false
 
 [[files]]
-file = "config/teabridge.json"
-hash = "3864ed958f7ab49c9b7b0773389fb312f9081cdb05ca9379f86279e228a04c74"
+file = "config/styledplayerlist/styles/animated.json"
+hash = "9c86b4c00b2dc199e13cd4278961d004f413ef0468a10a1faa70892bd65b8f26"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/styledplayerlist/styles/default_spl.json"
+hash = "2b2c36635c8936d4741bd81febaf86a03b28a6b1f6b4e65a229ed65192b25582"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/styledplayerlist/config.json"
+hash = "e1d0bba819234fd34a0f3f0db3d65bb70310da6f330e18fe07a3a2f5574fcda8"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "f3fd13df0c27c60276d55109e8f8b4de0cfe01fbbc6b52cb31dd8cd3946a224f"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "13dd715493f0fb3754583f6a97fcb8a7df61ccef983df3a664931be3d1e9c490"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/picturesign.json"
+hash = "189fb49363dd1ec9c971cfd28872f9869cb05bb553d655869add968e332d94b6"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/gofo/config.json"
+hash = "0dc8b327a8279c2e9fa9755bb4598d9d59aef10c6f3eaad348496443de1c9a56"
 metafile = false
 preserve = false
 
