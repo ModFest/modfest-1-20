@@ -6,7 +6,7 @@
         "parse_links": true,
         "parse_mentions": false,
         "markdown": true,
-        "formatting_from_other_mods": false
+        "respect_colors_client_setting": true
     },
     "auto_completion": {
         "tags": false,
@@ -82,20 +82,7 @@
         {
             "require": {
                 "type": "permission",
-                "permission": "group.organizer"
-            },
-            "message_formats": {
-                "chat": "<c:#ff0099>\\<</c>${player}<c:#ff0099>\\></c> ${message}"
-            },
-            "formatting": {},
-            "emoticons": {},
-            "custom_message_types": {}
-        },
-        {
-            "require": {
-                "type": "permission",
-                "permission": "group.op",
-                "operator": 2
+                "permission": "modfest.netadmin"
             },
             "message_formats": {
                 "chat": "<c:#24f9ff>\\<</c>${player}<c:#24f9ff>\\></c> ${message}"
@@ -107,7 +94,19 @@
         {
             "require": {
                 "type": "permission",
-                "permission": "group.builder"
+                "permission": "modfest.organizer"
+            },
+            "message_formats": {
+                "chat": "<c:#ff0099>\\<</c>${player}<c:#ff0099>\\></c> ${message}"
+            },
+            "formatting": {},
+            "emoticons": {},
+            "custom_message_types": {}
+        },
+        {
+            "require": {
+                "type": "permission",
+                "permission": "modfest.builder"
             },
             "display_name": "${default}",
             "message_formats": {

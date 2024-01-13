@@ -1,0 +1,67 @@
+{
+    "netadmin": {
+        "level": 99999,
+        "overrides": {
+            "permission_level": 4,
+            "permission_keys": {
+                "modfest.netadmin": "allow"
+            },
+            "command_feedback": true,
+            "commands": {
+                ".*": "allow"
+            }
+        }
+    },
+    "organizer": {
+        "level": 100,
+        "overrides": {
+            "permission_level": 3,
+            "permission_keys": {
+                "modfest.organizer": "allow"
+            },
+            "entity_selectors": true,
+            "commands": {
+                "role.*": "allow"
+            }
+        }
+    },
+    "builder": {
+        "level": 10,
+        "overrides": {
+            "permission_level": 2,
+            "permission_keys": {
+                "modfest.builder": "allow",
+                "worldedit.*": "allow"
+            },
+            "command_feedback": true,
+            "entity_selectors": false,
+            "commands": {
+                "gamemode.*": "allow",
+                "tp @[^e].*": "allow",
+                "fill.*": "allow",
+                "setblock.*": "allow",
+                "summon.*": "allow",
+                "rregion.*": "allow",
+                "anshar network list": "allow",
+                "flounderfest (start|stop)": "allow",
+                "weathersync timer (get|reset)": "allow",
+                "kill.*": "deny"
+            }
+        }
+    },
+    "everyone": {
+        "overrides": {
+            "permission_keys": {
+                "modfest.everyone": "allow",
+                "worldedit.*": "deny"
+            },
+            "commands": {
+                "help": "allow",
+                "warp.*": "allow",
+                "weathersync (enable|disable|sync)": "allow",
+                "weathersync location (get|set)": "allow",
+                "polymer.*": "deny"
+            }
+        }
+    }
+}
