@@ -4,7 +4,9 @@
         "overrides": {
             "permission_level": 4,
             "permission_keys": {
-                "modfest.netadmin": "allow"
+                "modfest.netadmin": "allow",
+                "worldedit.*": "allow",
+                "scattered_shards.*": "allow"
             },
             "command_feedback": true,
             "commands": {
@@ -17,7 +19,9 @@
         "overrides": {
             "permission_level": 3,
             "permission_keys": {
-                "modfest.organizer": "allow"
+                "modfest.organizer": "allow",
+                "worldedit.*": "allow",
+                "scattered_shards.*": "allow"
             },
             "entity_selectors": true,
             "commands": {
@@ -31,7 +35,8 @@
             "permission_level": 2,
             "permission_keys": {
                 "modfest.builder": "allow",
-                "worldedit.*": "allow"
+                "worldedit.*": "allow",
+                "scattered_shards.command.library.delete.*": "deny"
             },
             "command_feedback": true,
             "entity_selectors": false,
@@ -53,7 +58,8 @@
         "overrides": {
             "permission_keys": {
                 "modfest.everyone": "allow",
-                "worldedit.*": "deny"
+                "worldedit.*": "deny",
+                "scattered_shards.*": "deny"
             },
             "commands": {
                 "help": "allow",
