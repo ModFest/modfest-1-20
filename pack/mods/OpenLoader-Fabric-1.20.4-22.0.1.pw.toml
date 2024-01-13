@@ -1,0 +1,17 @@
+name = "OpenLoader-Fabric-1.20.4-22.0.1"
+filename = "OpenLoader-Fabric-1.20.4-22.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KwWsINvD/versions/GXnnEfyc/OpenLoader-Fabric-1.20.4-22.0.1.jar"
+hash = "1e42c88f85a15fe7d5588a1e80cae0d645dcf010cd30f8d9be5047034314a1cc297adc4c12358dcb7d8a909ca2c8a30b05e023f679ecf5e5b4aca0cd62426577"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "open-loader"
+version = "GXnnEfyc"
