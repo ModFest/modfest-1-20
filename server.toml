@@ -418,6 +418,11 @@ type = "modrinth"
 id = "worldborderfix"
 version = "RtezEgTq"
 
+[[mods]]
+type = "modrinth"
+id = "open-loader"
+version = "GXnnEfyc"
+
 [worlds.modfest-1-20.download]
 type = "ghrel"
 repo = "ModFest/modfest-1-20"
