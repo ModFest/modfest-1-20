@@ -413,6 +413,11 @@ type = "modrinth"
 id = "demobox"
 version = "8mqBSol8"
 
+[[mods]]
+type = "modrinth"
+id = "worldborderfix"
+version = "RtezEgTq"
+
 [worlds.modfest-1-20.download]
 type = "ghrel"
 repo = "ModFest/modfest-1-20"
