@@ -55,8 +55,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/Axiom-2.1.1-for-MC1.20.4.pw.toml"
-hash = "c79e6f755965b970e76f4b8db61eda1c03bd466cf68f5a12cde12f7223a439d4"
+file = "mods/Axiom-2.2.1-for-MC1.20.4.pw.toml"
+hash = "eab3cc1102213bcc1d5d57ca4a8a221b161bee73b37e3400f2c6af2b9807067b"
 metafile = true
 preserve = false
 
