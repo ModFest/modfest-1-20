@@ -1,0 +1,17 @@
+name = "ForgeConfigAPIPort-v20.4.2-1.20.4-Fabric"
+filename = "ForgeConfigAPIPort-v20.4.2-1.20.4-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ohNO6lps/versions/IS7wNJuv/ForgeConfigAPIPort-v20.4.2-1.20.4-Fabric.jar"
+hash = "04529d516c5c5bd8b7805026f0838eb24243c9092c3156c4332bc7286cabb83b31d828ad0097c182f0e90956eda9a58ac9419a836c9da24d90d5d96c5a08a6d9"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "forge-config-api-port"
+version = "v20.4.2-1.20.4-Fabric"

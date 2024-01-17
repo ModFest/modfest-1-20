@@ -1,0 +1,17 @@
+name = "weathersync-0.3.2-modfest"
+filename = "weathersync-0.3.2-modfest.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cRmOY2t0/versions/EClLEXwg/weathersync-0.3.2-modfest.jar"
+hash = "3d22a891ea0b56ab2417f0b08d0035d297f0233e7f445196e5709e2683f0c42e99508907f63036d1733191873d7ad3424879b49d94090d829a592409c884939b"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "weathersync"
+version = "EClLEXwg"

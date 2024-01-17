@@ -1,0 +1,17 @@
+name = "wizcraft-1.0.0-alpha.10"
+filename = "wizcraft-1.0.0-alpha.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F9eqqJxr/versions/pmjcrzw5/wizcraft-1.0.0-alpha.10.jar"
+hash = "3465f30863abeba2fdba195eb8f67147c4892d61744e6a69922ce263a1982a5a0cb3eb5f650931f7a36685cddd95d86b9d80d01c3048bc24cd2724025061536b"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "wizcraft"
+version = "pmjcrzw5"

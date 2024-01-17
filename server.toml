@@ -92,6 +92,11 @@ version = "3.3.1+1.20.4-fabric"
 
 [[mods]]
 type = "modrinth"
+id = "forge-config-api-port"
+version = "v20.4.2-1.20.4-Fabric"
+
+[[mods]]
+type = "modrinth"
 id = "smartbrainlib"
 version = "1.13"
 
@@ -228,7 +233,7 @@ version = "yP2sUiVD"
 [[mods]]
 type = "modrinth"
 id = "gadgets-of-the-sky"
-version = "RdHzOZKN"
+version = "pvgE6was"
 
 [[mods]]
 type = "modrinth"
@@ -253,7 +258,7 @@ version = "go1RyWf6"
 [[mods]]
 type = "modrinth"
 id = "weathersync"
-version = "KkUjGlNv"
+version = "EClLEXwg"
 
 [[mods]]
 type = "modrinth"
@@ -283,7 +288,7 @@ version = "T9HJgbsq"
 [[mods]]
 type = "modrinth"
 id = "anshar"
-version = "ZX0xmM5Z"
+version = "OoA0846i"
 
 [[mods]]
 type = "modrinth"
@@ -298,7 +303,7 @@ version = "ApCuzPaA"
 [[mods]]
 type = "modrinth"
 id = "wizcraft"
-version = "o9dCFuhL"
+version = "pmjcrzw5"
 
 [[mods]]
 type = "modrinth"
@@ -328,7 +333,7 @@ version = "KLntrhIl"
 [[mods]]
 type = "modrinth"
 id = "flutterandflounder"
-version = "S33yyx2G"
+version = "n9wafjmA"
 
 [[mods]]
 type = "modrinth"
@@ -343,7 +348,7 @@ version = "ZI7VHNtP"
 [[mods]]
 type = "modrinth"
 id = "reel"
-version = "BAwLBNQL"
+version = "6hErUDYk"
 
 [[mods]]
 type = "modrinth"

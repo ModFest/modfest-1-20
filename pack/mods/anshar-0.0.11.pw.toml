@@ -1,0 +1,17 @@
+name = "anshar-0.0.11"
+filename = "anshar-0.0.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/adcai9DE/versions/OoA0846i/anshar-0.0.11.jar"
+hash = "e73bd1acba3d74e5da00ad721362fbb86860d9e1c3f8625b30d95f4f2a01f729e41b91a8e8d5e57a14fe36b79278336db8a5d77cb19ba39e75921a1088b110dd"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "anshar"
+version = "OoA0846i"
