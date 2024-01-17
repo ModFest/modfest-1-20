@@ -559,6 +559,12 @@ metafile = false
 preserve = false
 
 [[files]]
+file = "config/wizcraft.json5"
+hash = "773ecd9def1e16b4da2a1e29408921157758079ffbfaa18fc52513943e85dc95"
+metafile = false
+preserve = false
+
+[[files]]
 file = "config/picturesign.json"
 hash = "189fb49363dd1ec9c971cfd28872f9869cb05bb553d655869add968e332d94b6"
 metafile = false
