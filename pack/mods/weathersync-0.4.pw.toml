@@ -1,0 +1,17 @@
+name = "weathersync-0.4"
+filename = "weathersync-0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cRmOY2t0/versions/2QCmzo0d/weathersync-0.4.jar"
+hash = "167be10102dab143ffa9826612ccbb505455d2fde47206403554d65da677aaa839faf961e5359f8f8e3fe7e6769c077a567bb14ba6af16fbf2ba9fa10146a0ea"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "weathersync"
+version = "2QCmzo0d"

@@ -295,8 +295,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/weathersync-0.3.2-modfest.pw.toml"
-hash = "10bdb753b71b24ce21e6e3013146ec91f6b0687931c1b8a00e5b81df7997e6cd"
+file = "mods/weathersync-0.4.pw.toml"
+hash = "56378f9c550b0c46e12ba862ac9b718cb0be787a4d8564015efc8d662cd8e5e4"
 metafile = true
 preserve = false
 
@@ -331,8 +331,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/anshar-0.0.11.pw.toml"
-hash = "a73c6c0ea9850eff26bfd4613efae2b7d31c1eb30fb5cddc569f94adfc1d8426"
+file = "mods/anshar-0.0.12.pw.toml"
+hash = "1024c7b4e8ed78f8beaa90e36cbd1c980a54b5345bd6d3cde7b331439f5983c9"
 metafile = true
 preserve = false
 
@@ -391,14 +391,14 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/fluiwid-1.1.3.pw.toml"
-hash = "e462e993b268ac8a26a3018bef05a48191d1da47687e98100198351639eb474d"
+file = "mods/fluiwid-1.1.4.pw.toml"
+hash = "2efafda11acaf6c50d49f49d1e570f112eace2d703966f37734eacfb5f85b79a"
 metafile = true
 preserve = false
 
 [[files]]
-file = "mods/partnership-fabric-mc1.20.4-v1.0.1.pw.toml"
-hash = "912eef8a96f77a5171b1d4cb8cecaf05b037e669155f3eeda49141851cecb98c"
+file = "mods/partnership-fabric-mc1.20.4-v1.1.0.pw.toml"
+hash = "13248c11401f96f11acc5177fbffddadcf36d0f5e864c0f460d0d4324fd31a4f"
 metafile = true
 preserve = false
 
@@ -409,8 +409,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/boatism-0.0.2.pw.toml"
-hash = "6ef9d32636f05fcf4885dc2ccbb9f27b378c1abf98f0a07639066125b79c91fc"
+file = "mods/boatism-0.1.0.pw.toml"
+hash = "c36ba37eb1b3946e7b4bd7a4a787102dd1e5bd91495592fff2fa6daa85038f51"
 metafile = true
 preserve = false
 
@@ -445,8 +445,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/operation_starcleave-0.1.0.2.pw.toml"
-hash = "7894316986d8d66ff68159fcc2bdeee6f63a88d589e41b5eaddd21094c4dcbd4"
+file = "mods/operation_starcleave-0.1.0.3.pw.toml"
+hash = "9405b447617793d45eb7196ef070398a8bf8b6844432ceab4af5fc105b1af932"
 metafile = true
 preserve = false
 
