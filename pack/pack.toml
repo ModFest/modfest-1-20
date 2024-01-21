@@ -1,14 +1,13 @@
 name = "modfest-skyandsea"
-version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
-hash = "9a19c4134786d0df83decf904f51b84dd505066730fcded68a2255a31a8bf119"
+hash = "8cedf04204afecff69ea81d6ba2fb8adbc6977a95e46b3db4a5201b4cef32742"
 hash-format = "sha256"
 metafile = false
 preserve = false
 
 [versions]
-fabric = "0.15.3"
 minecraft = "1.20.4"
+fabric = "0.15.3"
