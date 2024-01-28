@@ -499,6 +499,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/armor-stand-editor-2.3.0+1.20.3-rc1.pw.toml"
+hash = "e8fac6b4cbfba63d1f27cc3f6c18a003e885632aedf941f1cf251edf8f9603c3"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/gofo/config.json"
 hash = "0dc8b327a8279c2e9fa9755bb4598d9d59aef10c6f3eaad348496443de1c9a56"
 metafile = false
