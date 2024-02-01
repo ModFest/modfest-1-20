@@ -1,0 +1,17 @@
+name = "Boids-1.1.1"
+filename = "Boids-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2OckSy74/versions/shuI7hpt/Boids-1.1.1.jar"
+hash = "595901aa732398409c4536c9d8a3483563e87e46e3310ea00c4e0b7cd1029bae6299643af3b294401210fd9855cf53951a08e4ad81c13d04b39a4b267494074b"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "boids"
+version = "shuI7hpt"

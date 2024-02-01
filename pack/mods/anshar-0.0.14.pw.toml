@@ -1,0 +1,17 @@
+name = "anshar-0.0.14"
+filename = "anshar-0.0.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/adcai9DE/versions/lo5yKccV/anshar-0.0.14.jar"
+hash = "198a20ffbdd271369722c8c961e5df9295aa998fb943d2eff0f0921d5303ab8389b4640dbdea7108e4e3399e189a4041d61b8007c2bf5b6909ad4492426599bb"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "anshar"
+version = "lo5yKccV"
