@@ -505,6 +505,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/notflying-1.0.1.pw.toml"
+hash = "8348a512306db2f5edeb0e2893072f3966aff520339ccbc03f7d5510b1beb635"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/waila/waila_plugins.json"
 hash = "f3fd13df0c27c60276d55109e8f8b4de0cfe01fbbc6b52cb31dd8cd3946a224f"
 metafile = false

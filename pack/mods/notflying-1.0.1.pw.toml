@@ -1,0 +1,13 @@
+name = "notflying-1.0.1"
+filename = "notflying-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/TheEpicBlock/not-flying/releases/download/1.0.1/notflying-1.0.1.jar"
+hash = "5b672318c96145f7c4e8c4003197e47e13b7f0ad74519f9765b5ac2febf83632"
+hash-format = "sha256"
+mode = "url"
+
+[option]
+optional = false
+default = false
