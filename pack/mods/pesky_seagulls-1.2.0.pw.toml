@@ -1,0 +1,17 @@
+name = "pesky_seagulls-1.2.0"
+filename = "pesky_seagulls-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sy2K2jVY/versions/7P1tHX4H/pesky_seagulls-1.2.0.jar"
+hash = "27de3344a3fe4daf820524233923600ef8199a9f9b5d7040be4224abb8c0183a50fdf168f7073c70f2fc47995adb465d1c712a86d50cba0e6d37ab16513ae95c"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "pesky-seagulls"
+version = "7P1tHX4H"

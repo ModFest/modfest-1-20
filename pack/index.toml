@@ -379,14 +379,14 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/pesky_seagulls-1.0.0.pw.toml"
-hash = "7414db8f5071133329cce0008c4f19094a439513494d891b55aa6c7e769e8e98"
+file = "mods/pesky_seagulls-1.2.0.pw.toml"
+hash = "a7ac3d1dd220a99e713f5888630a50e41fad3d2313e6336a2288ec4ca0fb038a"
 metafile = true
 preserve = false
 
 [[files]]
-file = "mods/flutterandflounder-1.0.2.pw.toml"
-hash = "ff81eeabfb9d047abfe25cb996f215fccd206c604f2555995eab28d83b1d2014"
+file = "mods/flutterandflounder-1.0.4.pw.toml"
+hash = "0c120cc6d3ad2694e1b1ea76006a842eb530e24fae7ae29f182d5ef9cba949e4"
 metafile = true
 preserve = false
 
@@ -445,8 +445,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/operation_starcleave-0.1.0.3.pw.toml"
-hash = "9405b447617793d45eb7196ef070398a8bf8b6844432ceab4af5fc105b1af932"
+file = "mods/operation_starcleave-0.1.0.4.pw.toml"
+hash = "c570535e4c1c8e30ee8803d7ec9e6b0656256a9741f15c1f86c0597c8b91650a"
 metafile = true
 preserve = false
 
