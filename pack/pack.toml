@@ -4,7 +4,7 @@ pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
-hash = "a429eb6067f08e66f6deac08b124f97a9deb97e72add8fc49d495eeb5db0c7cf"
+hash = "b4a0430980abe6c26c601743125099ab36aaeaffcf6983f5ec6f3e61efad7504"
 hash-format = "sha256"
 metafile = false
 preserve = false
