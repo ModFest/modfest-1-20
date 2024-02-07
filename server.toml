@@ -389,7 +389,7 @@ version = "Dys1Pyys"
 [[mods]]
 type = "modrinth"
 id = "rapscallions-and-rockhoppers"
-version = "1.1.1-fabric"
+version = "1.1.2-fabric"
 
 [[mods]]
 type = "modrinth"
