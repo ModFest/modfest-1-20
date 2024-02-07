@@ -138,11 +138,6 @@ version = "1.4.0+1.20.3"
 
 [[mods]]
 type = "modrinth"
-id = "styled-sidebars"
-version = "mrmtsYJL"
-
-[[mods]]
-type = "modrinth"
 id = "styledplayerlist"
 version = "jcLxMRaH"
 
