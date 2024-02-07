@@ -505,8 +505,20 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/itemuserestrictor-1.0.1.pw.toml"
+hash = "04bf405d7b465ddba3a78bc6df74c4037a4f3e7524241d0f88a2febba2d469b9"
+metafile = true
+preserve = false
+
+[[files]]
 file = "server.properties"
-hash = "15bc7536363876d9b5dd6f725fbb07953cfffab2feffe310a5ba7b2fc0f0e1dc"
+hash = "751bce7250d9a09e3ae9be6594767f309bdbdde614e31200fa579d67682a729a"
+metafile = false
+preserve = false
+
+[[files]]
+file = "server-icon.png"
+hash = "0b74d3f6de781a5e83bbf8eee1bf540e2ab7717246c7e782c3e5ea293a262167"
 metafile = false
 preserve = false
 

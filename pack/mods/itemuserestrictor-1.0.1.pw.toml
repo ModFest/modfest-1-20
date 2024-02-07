@@ -1,0 +1,17 @@
+name = "itemuserestrictor-1.0.1"
+filename = "itemuserestrictor-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f3P5HnPO/versions/tBkHeKyy/itemuserestrictor-1.0.1.jar"
+hash = "5dc011648eb7e91f7bd78a782315e0034a0733eb1d5dbdf476f8bb18f88768769218e20f89328108a6aaa9d697591e904059f6aaa0d70037f783651656271f05"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "itemuserestrictor"
+version = "tBkHeKyy"
