@@ -241,8 +241,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/skyboxathome-0.1.0+1.20.4.pw.toml"
-hash = "e76759a6449d0cbb4a86b6d4ecf381a0412eb21d6f095f91df6d6c389eb80ccd"
+file = "mods/skyboxathome-0.1.1+1.20.4.pw.toml"
+hash = "185d247bd784a4c280986e880c0c5018e22922bd2979456aea5c09fe8a39e52d"
 metafile = true
 preserve = false
 
@@ -325,8 +325,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/anshar-0.0.14.pw.toml"
-hash = "f7409ca5401335ce27f77f09c81973438341b90b480ceee949763a2f996baa87"
+file = "mods/anshar-0.0.15.pw.toml"
+hash = "bfb0372ee0a1fe7a20001e45b72f9a28fbc71c61790344d2110fdbbb729acbec"
 metafile = true
 preserve = false
 
@@ -385,8 +385,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/fluiwid-1.1.4.pw.toml"
-hash = "2efafda11acaf6c50d49f49d1e570f112eace2d703966f37734eacfb5f85b79a"
+file = "mods/fluiwid-1.1.5.pw.toml"
+hash = "015ef404e85a3d8e7cba041ada6c8d4acbd6272d0450eca2057696898b2c53ce"
 metafile = true
 preserve = false
 
@@ -439,8 +439,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/operation_starcleave-0.1.0.4.pw.toml"
-hash = "c570535e4c1c8e30ee8803d7ec9e6b0656256a9741f15c1f86c0597c8b91650a"
+file = "mods/operation_starcleave-0.1.0.5.pw.toml"
+hash = "c310dd37f6c1aa02b486748bca39a9800141b1174914cb3658161efcb96cf202"
 metafile = true
 preserve = false
 

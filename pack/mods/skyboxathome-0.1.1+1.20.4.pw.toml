@@ -1,0 +1,17 @@
+name = "skyboxathome-0.1.1+1.20.4"
+filename = "skyboxathome-0.1.1+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A1FL34wX/versions/6n8dceuR/skyboxathome-0.1.1%2B1.20.4.jar"
+hash = "c54b34bc255fd1a55f69e218ae1cbe60c28703ce5198e86dd87ad3fdd6e5a645edbe84366d828d982afd0b2f96c1558b61d25a7078c3d3e8882a4afa0805bdce"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "skybox_athome"
+version = "6n8dceuR"

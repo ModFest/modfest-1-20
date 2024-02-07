@@ -1,0 +1,17 @@
+name = "fluiwid-1.1.5"
+filename = "fluiwid-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f615Pb5y/versions/TPTTGEjW/fluiwid-1.1.5.jar"
+hash = "0c127803c1c2747acdc685fff21bcc65d15cd2d30f838fbf1117cb3e727edb15ec79b302e3045f57ec4ebbab85e950cd6f196b3849e897a91547b151f9b2a1ba"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "fluiwid"
+version = "TPTTGEjW"
