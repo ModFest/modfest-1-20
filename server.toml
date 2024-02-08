@@ -444,6 +444,16 @@ type = "modrinth"
 id = "quicker-connect-button"
 version = "3pWxa5Bi"
 
+[[mods]]
+type = "modrinth"
+id = "architectury-api"
+version = "ueVsvU6j"
+
+[[mods]]
+type = "modrinth"
+id = "jamlib"
+version = "CWHmKkv9"
+
 [worlds.modfest-1-20.download]
 type = "ghrel"
 repo = "ModFest/modfest-1-20"
