@@ -439,6 +439,11 @@ type = "modrinth"
 id = "itemuserestrictor"
 version = "tBkHeKyy"
 
+[[mods]]
+type = "modrinth"
+id = "quicker-connect-button"
+version = "3pWxa5Bi"
+
 [worlds.modfest-1-20.download]
 type = "ghrel"
 repo = "ModFest/modfest-1-20"
