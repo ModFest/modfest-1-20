@@ -128,11 +128,6 @@ version = "1.2.3"
 
 [[mods]]
 type = "modrinth"
-id = "simple-voice-chat"
-version = "fabric-1.20.4-2.4.32"
-
-[[mods]]
-type = "modrinth"
 id = "styled-nicknames"
 version = "1.4.0+1.20.3"
 
