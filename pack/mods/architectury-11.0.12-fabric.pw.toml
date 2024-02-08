@@ -1,0 +1,17 @@
+name = "architectury-11.0.12-fabric"
+filename = "architectury-11.0.12-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ueVsvU6j/architectury-11.0.12-fabric.jar"
+hash = "7053b19229086051d85f7710f9d330a5ae601c8b36aee180b1b705f8637d1350c0e0c0ad761a14844e10c472c4ce61483b27483cd7a80ac58bd80a94077eb35d"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "architectury-api"
+version = "ueVsvU6j"

@@ -517,6 +517,18 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/architectury-11.0.12-fabric.pw.toml"
+hash = "2fbb956d242c3a305be816a69d801437422c209a0e1036023826c01b5edca5fa"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/jamlib-fabric-1.20.4-1.0.3+1.20.4.pw.toml"
+hash = "69e8330a0398672e2e5e0e2fb1b1be24de407e79aab6e8c241076ac0cfd664c0"
+metafile = true
+preserve = false
+
+[[files]]
 file = "server.properties"
 hash = "751bce7250d9a09e3ae9be6594767f309bdbdde614e31200fa579d67682a729a"
 metafile = false
