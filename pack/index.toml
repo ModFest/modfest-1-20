@@ -139,12 +139,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/voicechat-fabric-1.20.4-2.4.32.pw.toml"
-hash = "0767e97258ba35833322641ad9775e0d84305aa7b658e22e229da397e545064d"
-metafile = true
-preserve = false
-
-[[files]]
 file = "mods/styled-nicknames-1.4.0+1.20.3.pw.toml"
 hash = "62172634326ce865695904aee07b27bcf0682be38af0d669b24d6ee60495d864"
 metafile = true
