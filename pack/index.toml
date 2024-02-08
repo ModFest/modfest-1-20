@@ -608,7 +608,7 @@ preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_front.png"
-hash = "bd64d6be0ecf86fd2587f7d0c8f12c5b8922d859d4c5f7396ff42daf701105ea"
+hash = "de1aec0daeb3ec2bc749c26c20b3f18dd80dda347844a39f560561845b1b284c"
 metafile = false
 preserve = false
 
@@ -626,13 +626,13 @@ preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_backing.png"
-hash = "31cf806f45c93c47d1e663889551142eedc4e49808f2fa0fd35461b5d2f30598"
+hash = "66cd6631b2b6b7c4f37950ab40eee65bd8a64ee236983c1c8b5f90bc069ec8cc"
 metafile = false
 preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_front.png"
-hash = "718ce6536fa231a73e6f557dcf3e7b016e4952e6f4a393f38d9408da5d653a66"
+hash = "395400daeebb51feecb6d4aada328cf6a40d7a08d9a4aef220152811c5d62935"
 metafile = false
 preserve = false
 
@@ -650,7 +650,7 @@ preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_backing.png"
-hash = "3a8a3b13ec1858fa1e8c5a2ac136c32b8e53a8c6541456a94c8006c57151940f"
+hash = "512c464493cece38c977136811c116b89b2ac57ecf3a3631d56443dd0e5c06da"
 metafile = false
 preserve = false
 
@@ -710,13 +710,13 @@ preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_backing.png"
-hash = "7dbd4adb44f8d7cda51bed74f7a93e292f77f130a6850b5ee9e6807aa72de396"
+hash = "03d4007bd3b6ecdfb92ab5329c6b99c9429a09a4ec7d9e0fe5a5cd982fb410fb"
 metafile = false
 preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_front.png"
-hash = "3da2c149cd7b3abc3d18415ebb2f5c2eb930c37a48c92d1a5f4b2d4c6563ed5b"
+hash = "ac8d7f9cbd39ead6837a40c3c879a717bcea8b118b4de51db675102d9d65d1a2"
 metafile = false
 preserve = false
 
@@ -775,6 +775,18 @@ metafile = false
 preserve = false
 
 [[files]]
+file = "config/openloader/resources/modfest-assets/assets/skybox_athome/skyboxes/ur_anshar.png"
+hash = "45a9e3c826789f8bfca8fa25de2694095fad920e9c19778f232b7641c2225ffe"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/skybox_athome/skyboxes/ur_anshar.json"
+hash = "a24b4c40e099035d7079f78b2bd30cc7a113ff40b86d1cf7e14668b8df0d8b9a"
+metafile = false
+preserve = false
+
+[[files]]
 file = "config/openloader/resources/modfest-assets/assets/modfest/font/icons.json"
 hash = "3c41490fff834f178273db482cd7b6d0d657cd24ada90fe5707c57f4bc6c6cad"
 metafile = false
@@ -783,18 +795,6 @@ preserve = false
 [[files]]
 file = "config/openloader/resources/modfest-assets/assets/modfest/font/emoji.json"
 hash = "f68c22ae4d5d6535fef1a381c1f440c21e9537da9e5b70e0012882622f88047d"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/skyboxes/ur_anshar.png"
-hash = "45a9e3c826789f8bfca8fa25de2694095fad920e9c19778f232b7641c2225ffe"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/skyboxes/ur_anshar.json"
-hash = "66f487864dbe190f1ff8c6984588840c2bf0b4d4168faa941ae60540e9899252"
 metafile = false
 preserve = false
 
