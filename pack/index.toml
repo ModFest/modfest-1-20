@@ -385,8 +385,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/partnership-fabric-mc1.20.4-v1.1.0.pw.toml"
-hash = "13248c11401f96f11acc5177fbffddadcf36d0f5e864c0f460d0d4324fd31a4f"
+file = "mods/partnership-fabric-mc1.20.4-v1.1.1.pw.toml"
+hash = "8e9e3e1da695038b265e07fb06730ff1bd7528fe5a7f20fbd9380b5162b27181"
 metafile = true
 preserve = false
 
@@ -397,8 +397,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/boatism-0.1.0.pw.toml"
-hash = "c36ba37eb1b3946e7b4bd7a4a787102dd1e5bd91495592fff2fa6daa85038f51"
+file = "mods/boatism-0.1.1.pw.toml"
+hash = "1888505c28d3659b8e4abc38115b1649968bbc142a1eff2af258888d39eeaed4"
 metafile = true
 preserve = false
 
@@ -433,8 +433,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/operation_starcleave-0.1.0.5.pw.toml"
-hash = "c310dd37f6c1aa02b486748bca39a9800141b1174914cb3658161efcb96cf202"
+file = "mods/operation_starcleave-0.1.0.6.pw.toml"
+hash = "b8a33e1642319b4a720e596ba2c6447450086303012db0e3f26a676bd9bdc458"
 metafile = true
 preserve = false
 

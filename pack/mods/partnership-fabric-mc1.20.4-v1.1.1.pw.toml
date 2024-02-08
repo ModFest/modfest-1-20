@@ -1,0 +1,17 @@
+name = "partnership-fabric-mc1.20.4-v1.1.1"
+filename = "partnership-fabric-mc1.20.4-v1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bvQ6cHxn/versions/3PcOu7YD/partnership-fabric-mc1.20.4-v1.1.1.jar"
+hash = "76e4d73d3c7fe0a554b86cb0a64c09e6d1ce0f6fbf2e87bd1258921da57e21a4ac4528c7baafcf9f7379f6aa393af5b1ae36b5e685735102446f333ccea73d9a"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "partnership"
+version = "3PcOu7YD"
