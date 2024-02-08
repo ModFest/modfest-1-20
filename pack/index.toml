@@ -511,6 +511,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/quickerconnectbutton-fabric-2.0.1+1.20.4.pw.toml"
+hash = "660c86b386d3bc4c9a73da6e05006763d3cfb45cfe46d6e300a765743f05e574"
+metafile = true
+preserve = false
+
+[[files]]
 file = "server.properties"
 hash = "751bce7250d9a09e3ae9be6594767f309bdbdde614e31200fa579d67682a729a"
 metafile = false
@@ -549,6 +555,12 @@ preserve = false
 [[files]]
 file = "config/styled-nicknames.json"
 hash = "f7e9077e48d519d4606b60d674581eafe90627f3c4c373aeeb0ed8460f7beefd"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/quickerconnectbutton.json5"
+hash = "b7509485d78594f3bd989449a8b79e5aeba2688ebb13a5867e97f72f91a07990"
 metafile = false
 preserve = false
 
