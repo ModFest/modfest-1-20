@@ -385,8 +385,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/partnership-fabric-mc1.20.4-v1.1.1.pw.toml"
-hash = "8e9e3e1da695038b265e07fb06730ff1bd7528fe5a7f20fbd9380b5162b27181"
+file = "mods/partnership-fabric-mc1.20.4-v1.1.2.pw.toml"
+hash = "df4795021386baa8761d790e53398b09a2e56dcae7c20845ec2d70311c81bb4a"
 metafile = true
 preserve = false
 
