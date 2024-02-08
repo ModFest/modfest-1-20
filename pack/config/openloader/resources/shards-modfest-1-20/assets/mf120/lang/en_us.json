@@ -1,5 +1,8 @@
 {
-  "shard_type.mf120.visitor.description": "Visitor Shard",
-  "shard_type.mf120.challenge.description": "Challenge Shard",
-  "shard_type.mf120.secret.description": "Secret Shard"
+  "shard_type.mf120.visitor.description": "Visitor Shard (Sea)",
+  "shard_type.mf120.challenge.description": "Challenge Shard (Sea)",
+  "shard_type.mf120.secret.description": "Secret Shard (Sea)",
+  "shard_type.mf120.visitor_alt.description": "Visitor Shard (Sky)",
+  "shard_type.mf120.challenge_alt.description": "Challenge Shard (Sky)",
+  "shard_type.mf120.secret_alt.description": "Secret Shard (Sky)"
 }
