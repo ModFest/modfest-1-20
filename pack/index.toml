@@ -769,6 +769,18 @@ metafile = false
 preserve = false
 
 [[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/skyboxes/ur_anshar.png"
+hash = "45a9e3c826789f8bfca8fa25de2694095fad920e9c19778f232b7641c2225ffe"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/skyboxes/ur_anshar.json"
+hash = "a24b4c40e099035d7079f78b2bd30cc7a113ff40b86d1cf7e14668b8df0d8b9a"
+metafile = false
+preserve = false
+
+[[files]]
 file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/modfest-generic.png"
 hash = "f095dfb0abc1b3662a9736f445a626c07312fb777b1426488375269cabb2a9cb"
 metafile = false
