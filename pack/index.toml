@@ -800,7 +800,7 @@ preserve = false
 
 [[files]]
 file = "config/openloader/resources/modfest-assets/assets/modfest/skyboxes/ur_anshar.json"
-hash = "a24b4c40e099035d7079f78b2bd30cc7a113ff40b86d1cf7e14668b8df0d8b9a"
+hash = "66f487864dbe190f1ff8c6984588840c2bf0b4d4168faa941ae60540e9899252"
 metafile = false
 preserve = false
 
