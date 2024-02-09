@@ -530,7 +530,7 @@ preserve = false
 
 [[files]]
 file = "server.properties"
-hash = "751bce7250d9a09e3ae9be6594767f309bdbdde614e31200fa579d67682a729a"
+hash = "65c7a3929387185f50a09aa971dbd58892eb8e08d2c2a68155ea7f30074dba02"
 metafile = false
 preserve = false
 
