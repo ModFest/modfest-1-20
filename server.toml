@@ -448,7 +448,7 @@ asset = "first"
 [[mods]]
 type = "ghrel"
 repo = "ModFest/fireblanket"
-tag = "0.4.3-actual"
+tag = "0.4.4"
 asset = "first"
 
 [[mods]]
