@@ -355,8 +355,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/env_driven_assets-0.0.3-alpha.pw.toml"
-hash = "ba309d44bb0fd6b09b66d3b9749b8594eeeca88024581db3f93d30fb9f1a6331"
+file = "mods/env_driven_assets-0.0.4-alpha.pw.toml"
+hash = "2079ddfc5e23ac6daf496e071f89d1b7dd29e6971e50a07ba38c4681e93a87ee"
 metafile = true
 preserve = false
 
@@ -525,6 +525,12 @@ preserve = false
 [[files]]
 file = "mods/timelock-1.0.1.pw.toml"
 hash = "41fdd24d310d6735ffb8bf6eaa6ce8d7785f22de012544929445605fce90dae5"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/voicechat-fabric-1.20.4-2.5.2.pw.toml"
+hash = "a2f65d0c8525c5e994a47a07560cbd9281a770666cd2c7de80528a0bb83ea9b1"
 metafile = true
 preserve = false
 

@@ -1,0 +1,17 @@
+name = "env_driven_assets-0.0.4-alpha"
+filename = "env_driven_assets-0.0.4-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i77xRYzK/versions/t3ADn99o/env_driven_assets-0.0.4-alpha.jar"
+hash = "f7d5f38e30fa966d2a0cfe362bbfbc20f2a82f05e5dd189d0a9ea717200ff2b78ffbd1310d2101fd84ebf88505d032bd73c9819812b86b18684602469f43b7ef"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "env-driven-assets"
+version = "0.0.4-alpha"
