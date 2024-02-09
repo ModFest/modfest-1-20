@@ -632,7 +632,7 @@ preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_front.png"
-hash = "395400daeebb51feecb6d4aada328cf6a40d7a08d9a4aef220152811c5d62935"
+hash = "18772630a1ba73c101bb2afd3a4ef64ec86da9132d753e67eb3914b5e3ba1fa8"
 metafile = false
 preserve = false
 
@@ -650,7 +650,7 @@ preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_backing.png"
-hash = "512c464493cece38c977136811c116b89b2ac57ecf3a3631d56443dd0e5c06da"
+hash = "f7686c4a9a261b4acfb2fffb88b4e241aefdab81d4b857ebb5c5f45f78195671"
 metafile = false
 preserve = false
 
@@ -710,7 +710,7 @@ preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_backing.png"
-hash = "03d4007bd3b6ecdfb92ab5329c6b99c9429a09a4ec7d9e0fe5a5cd982fb410fb"
+hash = "23844ce4f324a079f7410a26d1dd0513e2c0067ede852fb242afea6569be4030"
 metafile = false
 preserve = false
 
