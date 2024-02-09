@@ -602,7 +602,7 @@ preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/pack.mcmeta"
-hash = "5230170f8b8b1a84b6156c28747491e8c7ce67801bbb3817c356a6b222eb6c45"
+hash = "5a3ba18a3a3a980edf788947eeee3ba4f5b98a902dda41a5d93fcc2f4474deff"
 metafile = false
 preserve = false
 
@@ -757,6 +757,12 @@ metafile = false
 preserve = false
 
 [[files]]
+file = "config/openloader/resources/VanillaTweaks_r938838.zip"
+hash = "779762eddc49e0f91112bcac9d093904e2a3a8045aeac0dff189251370542f9a"
+metafile = false
+preserve = false
+
+[[files]]
 file = "config/openloader/resources/Unsanded-1.1.1-custom.zip"
 hash = "32dbda3c997827e279276e5b8dc3a00e7936135f4fafb97f6ab515a7b6712178"
 metafile = false
@@ -777,6 +783,42 @@ preserve = false
 [[files]]
 file = "config/openloader/resources/modfest-assets/gen_emoji.js"
 hash = "57308a7ad41ac724584b3f7df2293349ba5fc0b7bf21aa26a3571722657f1dda"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "5eea18c37cbbe4954ef664ea8d711afde35cc4b65389036a8c9e4088340a7451"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "eeb7f857912a119802d8a020e0516a88851ed6356821b63944da7e6b4dedd165"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "32ffaed31f6935ef60bfaa7f4a4208516f9530543c3d0ffccd9131c35a36494c"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "fb1107612a19c59a49b4937fd45a7bfe11ea73e253199f0e3efb99e4575bccd3"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "91fd9b490cb585b8acd65bf754b21dcda7015841a3c2815dcde8f70b20e722b7"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "f360ba9345727e35a09b93e231285c36a991804452cee09e67150262d55745ac"
 metafile = false
 preserve = false
 

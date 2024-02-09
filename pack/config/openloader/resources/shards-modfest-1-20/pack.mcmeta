@@ -1,6 +1,10 @@
 {
     "pack": {
-        "pack_format": 18,
-        "description": "ModFest 1.20 Scattered Shards assets"
+		"pack_format": 22,
+		"supported_formats": {
+			"min_inclusive": 21,
+			"max_inclusive": 100
+		},
+		"description": "ModFest 1.20 Scattered Shards assets"
     }
 }
