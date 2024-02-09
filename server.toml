@@ -446,8 +446,10 @@ tag = "1.5.1"
 asset = "first"
 
 [[mods]]
-type = "url"
-url = "https://jaskarth.com/pub/mods/fireblanket-0.4.0.jar"
+type = "ghrel"
+repo = "ModFest/fireblanket"
+tag = "0.4.3-actual"
+asset = "first"
 
 [worlds.modfest-1-20.download]
 type = "ghrel"
