@@ -517,8 +517,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/fireblanket-0.4.2.pw.toml"
-hash = "ee1a324136259754e8cada3d21e19cb18989ed72c49affc329f8f65c92cb6081"
+file = "mods/fireblanket-0.4.3.pw.toml"
+hash = "accba48580dc930f1fb906e51e65f92f9740daed4bc7689badef8e5e370b7a88"
 metafile = true
 preserve = false
 
@@ -1046,6 +1046,6 @@ preserve = false
 
 [[files]]
 file = "options.txt"
-hash = "8a4e61a62f4af3315743aaaaf2e3af25c499145cb435944e2a3b1a691e066e99"
+hash = "dfbc402da658fafa0d5004d40d4a7ec1346f8c2a30233fe34985235b305b1cde"
 metafile = false
 preserve = false
