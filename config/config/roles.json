@@ -21,7 +21,8 @@
             "permission_keys": {
                 "modfest.organizer": "allow",
                 "worldedit.*": "allow",
-                "scattered_shards.*": "allow"
+                "scattered_shards.*": "allow",
+                "stylednicknames.realname": "allow"
             },
             "entity_selectors": true,
             "commands": {
