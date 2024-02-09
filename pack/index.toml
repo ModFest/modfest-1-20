@@ -608,7 +608,7 @@ preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_front.png"
-hash = "de1aec0daeb3ec2bc749c26c20b3f18dd80dda347844a39f560561845b1b284c"
+hash = "dece1b57256615aa6fe078e24d6d85abd7eb8c9f41696ad65ca4b22bd4980611"
 metafile = false
 preserve = false
 
@@ -626,7 +626,7 @@ preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_backing.png"
-hash = "66cd6631b2b6b7c4f37950ab40eee65bd8a64ee236983c1c8b5f90bc069ec8cc"
+hash = "f42c8267ad307e4b0f575cf7c87fa0ce9f58297846e314cb57365f0cd6d80f19"
 metafile = false
 preserve = false
 
@@ -650,7 +650,7 @@ preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_backing.png"
-hash = "f7686c4a9a261b4acfb2fffb88b4e241aefdab81d4b857ebb5c5f45f78195671"
+hash = "6b81f0e83740a512e9780cd56bca6d87ad69dc4426a77ee9356830df89f7590b"
 metafile = false
 preserve = false
 
@@ -668,7 +668,7 @@ preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_mini_front.png"
-hash = "bb70b63fadf01e9b377c06cf142b74a6fad3a249d6e0dfe4940fb60e9b3baefb"
+hash = "5d7ff30e3806a1835c8d66754574ebb53f82a1ec288e546b44fc9c4f1f70d916"
 metafile = false
 preserve = false
 
@@ -686,7 +686,7 @@ preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_mini_backing.png"
-hash = "f45de9ac371a2a1de59d92488478b619826eae72054e2215576519074b189318"
+hash = "e3223ac3d4ac9af576a41c1f7da3d214b05c18a056abd532e18c4e0e49bc6ef5"
 metafile = false
 preserve = false
 
@@ -716,25 +716,25 @@ preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_front.png"
-hash = "ac8d7f9cbd39ead6837a40c3c879a717bcea8b118b4de51db675102d9d65d1a2"
+hash = "a5223213a06e140ba829e306327d3430a4a7369f8fa2cf44e4aca6dd18442d5d"
 metafile = false
 preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_mini_backing.png"
-hash = "47badc0322c56e36ce01d0494640ddba1c453adbc62cd8a57c676063efd71d86"
+hash = "8c75bcc2642bdd8b0a8fb7e8f2bf5515f7f16f30b7b26958098a742011b83600"
 metafile = false
 preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_mini_front.png"
-hash = "50e34efaec1f221f1003d5bd888cee73606ea14fda48d98a60364cecb4134dd4"
+hash = "afac634e8d05a1b8c6a6c23dc5b86c23473302ebb44511865132629b5bff2fcc"
 metafile = false
 preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_mini_front.png"
-hash = "0aa145cb808d233a5ceca62e69cbe3505d4e21684e0bb8196bcade3edd55797f"
+hash = "7dc7426ba103794be30a3809fa04878d934965f7c743c9cc66e3d0fdca9f4e81"
 metafile = false
 preserve = false
 
@@ -746,7 +746,7 @@ preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_mini_backing.png"
-hash = "f19538f56f1829591884c04b26e0d251e56636198c358687502da6fd88b441fc"
+hash = "eafd7a1403d36e96c24afeb907f34f6b2add810700b77e8247b7a258d9369273"
 metafile = false
 preserve = false
 
