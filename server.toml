@@ -451,6 +451,11 @@ repo = "ModFest/fireblanket"
 tag = "0.4.3-actual"
 asset = "first"
 
+[[mods]]
+type = "modrinth"
+id = "timelock"
+version = "dRtWDhHw"
+
 [worlds.modfest-1-20.download]
 type = "ghrel"
 repo = "ModFest/modfest-1-20"
