@@ -511,8 +511,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/scatteredshards-1.5.1.pw.toml"
-hash = "6645f5ced9d7d85e1d10e4938de5f90f509cd413f72dcc83389c1acf9e5f4998"
+file = "mods/scatteredshards-1.5.2.pw.toml"
+hash = "98abfec361901abd492c6c2b2a0bc4756c54a65a8b102c4aaf8124f8adc057b4"
 metafile = true
 preserve = false
 
