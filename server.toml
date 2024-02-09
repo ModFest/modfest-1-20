@@ -310,7 +310,7 @@ version = "X6Nwdhrz"
 [[mods]]
 type = "modrinth"
 id = "env-driven-assets"
-version = "0.0.3-alpha"
+version = "0.0.4-alpha"
 
 [[mods]]
 type = "modrinth"
