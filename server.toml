@@ -456,6 +456,11 @@ type = "modrinth"
 id = "timelock"
 version = "dRtWDhHw"
 
+[[mods]]
+type = "modrinth"
+id = "simple-voice-chat"
+version = "LZEbiSAJ"
+
 [worlds.modfest-1-20.download]
 type = "ghrel"
 repo = "ModFest/modfest-1-20"
