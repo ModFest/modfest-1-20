@@ -21,7 +21,8 @@
             "permission_keys": {
                 "modfest.organizer": "allow",
                 "worldedit.*": "allow",
-                "scattered_shards.*": "allow"
+                "scattered_shards.*": "allow",
+                "stylednicknames.realname": "allow"
             },
             "entity_selectors": true,
             "commands": {
@@ -53,6 +54,7 @@
                 "summon.*": "allow",
                 "rregion.*": "allow",
                 "anshar network list": "allow",
+                "timelock.*": "allow",
                 "flounderfest (start|stop)": "allow",
                 "weathersync timer (get|reset)": "allow",
                 "kill.*": "deny"
