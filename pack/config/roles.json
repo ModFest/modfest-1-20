@@ -25,7 +25,8 @@
             },
             "entity_selectors": true,
             "commands": {
-                "role.*": "allow"
+                "role.*": "allow",
+                "item-use.*": "allow"
             }
         }
     },
