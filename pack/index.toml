@@ -554,7 +554,7 @@ preserve = false
 
 [[files]]
 file = "config/roles.json"
-hash = "e547dc5dac41865b2c2622a327460ef19cf3b608cec1d65a47fd037f7ce74390"
+hash = "0c81d5367e373ddb5a1a2582cf74587beace6e41b03688dd856fa7ae7e9c8083"
 metafile = false
 preserve = false
 
