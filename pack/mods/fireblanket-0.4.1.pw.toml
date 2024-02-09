@@ -1,0 +1,13 @@
+name = "fireblanket-0.4.1"
+filename = "fireblanket-0.4.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ModFest/fireblanket/releases/download/0.4.1/fireblanket-0.4.1.jar"
+hash = "b62177dfca1cf124ce62a39cd7a0258f8bebb3e778e029e7d9197b3603b29f2f"
+hash-format = "sha256"
+mode = "url"
+
+[option]
+optional = false
+default = false
