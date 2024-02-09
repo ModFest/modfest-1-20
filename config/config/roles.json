@@ -53,6 +53,7 @@
                 "summon.*": "allow",
                 "rregion.*": "allow",
                 "anshar network list": "allow",
+                "timelock.*": "allow",
                 "flounderfest (start|stop)": "allow",
                 "weathersync timer (get|reset)": "allow",
                 "kill.*": "deny"
