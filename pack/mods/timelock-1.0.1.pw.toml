@@ -1,0 +1,17 @@
+name = "timelock-1.0.1"
+filename = "timelock-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DJ2tL4CD/versions/dRtWDhHw/timelock-1.0.1.jar"
+hash = "01fc67668f37c543ced41a4650a134e95740511d1acb5a9384a28eea9b9506207d0d38102ebef07cb9975605098320608ffe271ace5fe234b816baf7bd4c9a0b"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "timelock"
+version = "dRtWDhHw"

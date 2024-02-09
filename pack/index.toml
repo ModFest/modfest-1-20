@@ -523,6 +523,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/timelock-1.0.1.pw.toml"
+hash = "41fdd24d310d6735ffb8bf6eaa6ce8d7785f22de012544929445605fce90dae5"
+metafile = true
+preserve = false
+
+[[files]]
 file = "server.properties"
 hash = "751bce7250d9a09e3ae9be6594767f309bdbdde614e31200fa579d67682a729a"
 metafile = false
