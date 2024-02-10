@@ -535,8 +535,32 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "server.properties"
+hash = "65c7a3929387185f50a09aa971dbd58892eb8e08d2c2a68155ea7f30074dba02"
+metafile = false
+preserve = false
+
+[[files]]
+file = "server-icon.png"
+hash = "0b74d3f6de781a5e83bbf8eee1bf540e2ab7717246c7e782c3e5ea293a262167"
+metafile = false
+preserve = false
+
+[[files]]
 file = "config/styled-chat.json"
 hash = "c900a047821f5242dafe8fdd68109fcbf66aa2132e448a57a2c2968c354ca15c"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/wizcraft.json5"
+hash = "773ecd9def1e16b4da2a1e29408921157758079ffbfaa18fc52513943e85dc95"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/roles.json"
+hash = "cf63e0089dee6deb6a3599ee503885c7d5abb14e6b65b2be9a21d620a3e9ddb3"
 metafile = false
 preserve = false
 
@@ -547,452 +571,14 @@ metafile = false
 preserve = false
 
 [[files]]
-file = "config/openloader/resources/shards-modfest-1-20/pack.mcmeta"
-hash = "5a3ba18a3a3a980edf788947eeee3ba4f5b98a902dda41a5d93fcc2f4474deff"
+file = "config/styled-nicknames.json"
+hash = "f7e9077e48d519d4606b60d674581eafe90627f3c4c373aeeb0ed8460f7beefd"
 metafile = false
 preserve = false
 
 [[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/lang/en_us.json"
-hash = "4363f37bd8418cb51e2e53bf33d1cee8bf7750587f4dddd9d42ec94232ee78be"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_backing.png"
-hash = "7ca6af93b85838bfbaa8d0b3ac0d45844d87b1909212113b199d807471fb8fe9"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_front.png"
-hash = "f191c4b24508077472b33d0aff8aebad5139331cdafdc31363791fcdbda06c11"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_mini_backing.png"
-hash = "1f25ebe37da56ab83fe81d42b0372142552e24d3ae05308abdcda5e7fea7a18b"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_front.png"
-hash = "dece1b57256615aa6fe078e24d6d85abd7eb8c9f41696ad65ca4b22bd4980611"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_mini_front.png"
-hash = "4616736a635470f0cc8f10fd9225b68166e2441f6a57f938cc87a6a99cd8f32b"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_mini_backing.png"
-hash = "e3223ac3d4ac9af576a41c1f7da3d214b05c18a056abd532e18c4e0e49bc6ef5"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_front.png"
-hash = "2dee006c7cbc656ffaff942ea61d477df57aed3118fc21e40bfbf39305a59ae1"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_front.png"
-hash = "9e6ba4894b4c3aa105bd6e896bba41f88867e395be9fc78b848b0400e5a0ae5a"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_mini_backing.png"
-hash = "8c75bcc2642bdd8b0a8fb7e8f2bf5515f7f16f30b7b26958098a742011b83600"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_mini_front.png"
-hash = "7dc7426ba103794be30a3809fa04878d934965f7c743c9cc66e3d0fdca9f4e81"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_mini_front.png"
-hash = "1a39ae481e2acfaf6322e8c5fd1b2d0a62101d3d5eba0d41f48eec769eb327b8"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_backing.png"
-hash = "97ac29e2536c2349112fb234d6481cab4429035084ad07633864d7b1b8ef7d82"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_mini_front.png"
-hash = "afac634e8d05a1b8c6a6c23dc5b86c23473302ebb44511865132629b5bff2fcc"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_mini_backing.png"
-hash = "e1e34aeb91436db8f42169c7ebf827eee6c1ed40bc55ff19e0f9c8c1a90a4b95"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_mini_front.png"
-hash = "5d7ff30e3806a1835c8d66754574ebb53f82a1ec288e546b44fc9c4f1f70d916"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_backing.png"
-hash = "6b81f0e83740a512e9780cd56bca6d87ad69dc4426a77ee9356830df89f7590b"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_backing.png"
-hash = "f42c8267ad307e4b0f575cf7c87fa0ce9f58297846e314cb57365f0cd6d80f19"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_mini_backing.png"
-hash = "25e68cc87482dd2bb90039d1a1d40b754aecb87c4f37491d8c036ea612530243"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_backing.png"
-hash = "23844ce4f324a079f7410a26d1dd0513e2c0067ede852fb242afea6569be4030"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_front.png"
-hash = "a5223213a06e140ba829e306327d3430a4a7369f8fa2cf44e4aca6dd18442d5d"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_mini_backing.png"
-hash = "eafd7a1403d36e96c24afeb907f34f6b2add810700b77e8247b7a258d9369273"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_mini_front.png"
-hash = "ae46837ee853f1e9eeaf355ceec70ff95ed4580dd5226b568834d29528857340"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_front.png"
-hash = "18772630a1ba73c101bb2afd3a4ef64ec86da9132d753e67eb3914b5e3ba1fa8"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_backing.png"
-hash = "9b16184194b8e6df2439bd27df15f50df89a29ba97442b02fc41623be022203f"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/VanillaTweaks_r938838.zip"
-hash = "779762eddc49e0f91112bcac9d093904e2a3a8045aeac0dff189251370542f9a"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/Unsanded-1.1.1-custom.zip"
-hash = "32dbda3c997827e279276e5b8dc3a00e7936135f4fafb97f6ab515a7b6712178"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/twemojis.zip"
-hash = "c95b7d6a2b427e21f8bac87810b52206b1d16c3f5f15aa768001558b8e0a57b2"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/styled_chat_emoji.json"
-hash = "9e13095c4f32c4a83bb81f974190f5439f982f84568540fb73a43cfa2e3847be"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/gen_emoji.js"
-hash = "57308a7ad41ac724584b3f7df2293349ba5fc0b7bf21aa26a3571722657f1dda"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/pack.mcmeta"
-hash = "e4fc74b6eacdefa6a39142e6d927850308808cc9dc308685f38d33319815a034"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "5eea18c37cbbe4954ef664ea8d711afde35cc4b65389036a8c9e4088340a7451"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "fb1107612a19c59a49b4937fd45a7bfe11ea73e253199f0e3efb99e4575bccd3"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "eeb7f857912a119802d8a020e0516a88851ed6356821b63944da7e6b4dedd165"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "32ffaed31f6935ef60bfaa7f4a4208516f9530543c3d0ffccd9131c35a36494c"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "f360ba9345727e35a09b93e231285c36a991804452cee09e67150262d55745ac"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "91fd9b490cb585b8acd65bf754b21dcda7015841a3c2815dcde8f70b20e722b7"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/skybox_athome/skyboxes/ur_anshar.json"
-hash = "a24b4c40e099035d7079f78b2bd30cc7a113ff40b86d1cf7e14668b8df0d8b9a"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/skybox_athome/skyboxes/ur_anshar.png"
-hash = "45a9e3c826789f8bfca8fa25de2694095fad920e9c19778f232b7641c2225ffe"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/icons/cover.png"
-hash = "26d6eaef9dcb3c5cdcba0d52a28057f8f6ba0223b0894dbd334e100604296ac2"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/icons/icon.png"
-hash = "c63211bd7f0cceb17ff860eee9e3bba726d1c427a7754779252c8ace8078f796"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/lil_pineapple.png"
-hash = "51e29be3694de21580725c9924cc13be8a935c70b4214ecdcd58fd4551aedc14"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/winnger.png"
-hash = "0d5387a3fe09ef88831afe47dca44dac1476092201bc67255c964ca1bed4b197"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/queer_heart.png"
-hash = "898f1c79e9bbcc3d9891cc5648366b372054a7176f93e9f81fdb0bf0603e32a5"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/plural_heart.png"
-hash = "1df5874c92b17d6372b8e629dc918993120a3a7465885ffcda77f61ca4a031c9"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/femboy_heart.png"
-hash = "975aefc978f4ec0f18b52b17aa61bd56fc1c6c05b76cfa17e7d66002d10c7174"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/whyfest.png"
-hash = "2e19e16ad5dec661613e7b57369aec7dbe1cf208fdc3266cb8a47b54e40eec55"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/queer_prog_heart.png"
-hash = "11fca7f38cf3719d6e1235bd58fe0281235b6bacf49d9780e1630bbfcc87e6be"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/blanketcon.png"
-hash = "1f6b063dd15afdc7c2e3be961bfa0db33fdb5ae7f0a1e7dfbcf33420a08a507a"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/vincian_heart.png"
-hash = "f3198ff52a12e7aea9ecf753362f29ceca82c45bf1a5577119ad926978afe517"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/neurodiversity_heart.png"
-hash = "661f06eeea8068f5bf4b6f2050f8a4d9bff6efa3e534d007e5deaf9ceaefbd78"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/genderflux_heart.png"
-hash = "c503f947f7abac5863f1ca302102a939ec6662ee1a0784b58db4e08d7696c1d5"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/demi_heart.png"
-hash = "250dc156dcbf05ce0d6fb0808ebe3db5fd2291ee2868058f52fcd4fa18eea62d"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/furry_pride.png"
-hash = "cf52e95e4def7dfe9f680beb888b40db1bc351cf04d9959f24fb7316178caf5e"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/trans_heart.png"
-hash = "10eb4dfc3e857f8f33869a76d93fb0bb884b3031b5605078b7dc296c916ccb87"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/lesbian_heart.png"
-hash = "ea887f74ad39c3b1b5eb7278154a63dba7136e3cc77343eeaf87755fe6b49317"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/genderqueer_heart.png"
-hash = "8575c20cb42a379ef1d1515661f01248ce5b1bd684c9df1ddd9c30d9563374df"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/genderfluid_heart.png"
-hash = "a6e7576d365b1da7d6e617338906f9775ae6e97db552372937c32bd84e3fcda8"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/bi_heart.png"
-hash = "316b434627a199098277e74f4574580af9c04515880f97140fb7f86e9df07f67"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/aro_heart.png"
-hash = "8c6097562d071fead19d5fa79106b8fc0b7e8fad5ea666fc86850866e800b768"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/agender_heart.png"
-hash = "11aa410f7e79988c3a7cc69e7bec800099920dbdee79a817e222616c0ccd9671"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/intersex_heart.png"
-hash = "b2abf19c588b5d91f564cb2ab74f8794df640624c81a4d37f8cc96670c368be8"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/ohno.png"
-hash = "7fc9b087fd446c388a180627f3f090244e71f67d6d45c7e9c3db4cf09071aa0e"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/nb_heart.png"
-hash = "311ddfa8fef715822e5ed0355ac796da0bf5f2975fad3af9c45364cd9e3cb76e"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/blob_waaaaa.png"
-hash = "fecc0550ed56ca95271227a7d0a4748193561a7f400f1bfb3436c9f35b0fefcd"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/pan_heart.png"
-hash = "7e949ad839075f416694bdd7f99f9ffbda9c1e205692daf06dad0aeee7b241bf"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/modfest-generic.png"
-hash = "f095dfb0abc1b3662a9736f445a626c07312fb777b1426488375269cabb2a9cb"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/yeefuckinghaw.png"
-hash = "02299c4555ea9ddf5f92caa52e51a61a2b6c07079eb25d33c4b251bbc83d7cd7"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/pineapple.png"
-hash = "d89056013374962f9f75fe07cf50fea14102d36be0a5f14b88dbdf9a681dd7ba"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/ace_heart.png"
-hash = "d7187260dbcb221a2a33dacb091d3a64c3bb767c5629215d2c97caa4eae04fe4"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/uh.png"
-hash = "c10e949d68511700a4f38f7275b5f502e894be7be7a6d3bdd3bc50dfc87747d5"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/aroace_heart.png"
-hash = "9f573b7ee4518f8995d34788ca332aa647df2ad385fb2b4a22bdc53eff5834f5"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/font/emoji.json"
-hash = "f68c22ae4d5d6535fef1a381c1f440c21e9537da9e5b70e0012882622f88047d"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/font/icons.json"
-hash = "3c41490fff834f178273db482cd7b6d0d657cd24ada90fe5707c57f4bc6c6cad"
+file = "config/quickerconnectbutton.json5"
+hash = "b7509485d78594f3bd989449a8b79e5aeba2688ebb13a5867e97f72f91a07990"
 metafile = false
 preserve = false
 
@@ -1015,20 +601,464 @@ metafile = false
 preserve = false
 
 [[files]]
+file = "config/openloader/resources/twemojis.zip"
+hash = "c95b7d6a2b427e21f8bac87810b52206b1d16c3f5f15aa768001558b8e0a57b2"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/pack.mcmeta"
+hash = "5a3ba18a3a3a980edf788947eeee3ba4f5b98a902dda41a5d93fcc2f4474deff"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/lang/en_us.json"
+hash = "4363f37bd8418cb51e2e53bf33d1cee8bf7750587f4dddd9d42ec94232ee78be"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_front.png"
+hash = "dece1b57256615aa6fe078e24d6d85abd7eb8c9f41696ad65ca4b22bd4980611"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_mini_backing.png"
+hash = "25e68cc87482dd2bb90039d1a1d40b754aecb87c4f37491d8c036ea612530243"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_front.png"
+hash = "9e6ba4894b4c3aa105bd6e896bba41f88867e395be9fc78b848b0400e5a0ae5a"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_backing.png"
+hash = "f42c8267ad307e4b0f575cf7c87fa0ce9f58297846e314cb57365f0cd6d80f19"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_front.png"
+hash = "18772630a1ba73c101bb2afd3a4ef64ec86da9132d753e67eb3914b5e3ba1fa8"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_front.png"
+hash = "2dee006c7cbc656ffaff942ea61d477df57aed3118fc21e40bfbf39305a59ae1"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_mini_front.png"
+hash = "4616736a635470f0cc8f10fd9225b68166e2441f6a57f938cc87a6a99cd8f32b"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_backing.png"
+hash = "6b81f0e83740a512e9780cd56bca6d87ad69dc4426a77ee9356830df89f7590b"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_mini_front.png"
+hash = "ae46837ee853f1e9eeaf355ceec70ff95ed4580dd5226b568834d29528857340"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_mini_backing.png"
+hash = "1f25ebe37da56ab83fe81d42b0372142552e24d3ae05308abdcda5e7fea7a18b"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_mini_front.png"
+hash = "5d7ff30e3806a1835c8d66754574ebb53f82a1ec288e546b44fc9c4f1f70d916"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_backing.png"
+hash = "97ac29e2536c2349112fb234d6481cab4429035084ad07633864d7b1b8ef7d82"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_mini_front.png"
+hash = "1a39ae481e2acfaf6322e8c5fd1b2d0a62101d3d5eba0d41f48eec769eb327b8"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_mini_backing.png"
+hash = "e3223ac3d4ac9af576a41c1f7da3d214b05c18a056abd532e18c4e0e49bc6ef5"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_backing.png"
+hash = "9b16184194b8e6df2439bd27df15f50df89a29ba97442b02fc41623be022203f"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_backing.png"
+hash = "7ca6af93b85838bfbaa8d0b3ac0d45844d87b1909212113b199d807471fb8fe9"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_mini_backing.png"
+hash = "e1e34aeb91436db8f42169c7ebf827eee6c1ed40bc55ff19e0f9c8c1a90a4b95"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_backing.png"
+hash = "23844ce4f324a079f7410a26d1dd0513e2c0067ede852fb242afea6569be4030"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_front.png"
+hash = "a5223213a06e140ba829e306327d3430a4a7369f8fa2cf44e4aca6dd18442d5d"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_mini_backing.png"
+hash = "8c75bcc2642bdd8b0a8fb7e8f2bf5515f7f16f30b7b26958098a742011b83600"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_mini_front.png"
+hash = "afac634e8d05a1b8c6a6c23dc5b86c23473302ebb44511865132629b5bff2fcc"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_mini_front.png"
+hash = "7dc7426ba103794be30a3809fa04878d934965f7c743c9cc66e3d0fdca9f4e81"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_front.png"
+hash = "f191c4b24508077472b33d0aff8aebad5139331cdafdc31363791fcdbda06c11"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_mini_backing.png"
+hash = "eafd7a1403d36e96c24afeb907f34f6b2add810700b77e8247b7a258d9369273"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks_r938838.zip"
+hash = "779762eddc49e0f91112bcac9d093904e2a3a8045aeac0dff189251370542f9a"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/Unsanded-1.1.1-custom.zip"
+hash = "32dbda3c997827e279276e5b8dc3a00e7936135f4fafb97f6ab515a7b6712178"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/styled_chat_emoji.json"
+hash = "9e13095c4f32c4a83bb81f974190f5439f982f84568540fb73a43cfa2e3847be"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/pack.mcmeta"
+hash = "e4fc74b6eacdefa6a39142e6d927850308808cc9dc308685f38d33319815a034"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/gen_emoji.js"
+hash = "57308a7ad41ac724584b3f7df2293349ba5fc0b7bf21aa26a3571722657f1dda"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "5eea18c37cbbe4954ef664ea8d711afde35cc4b65389036a8c9e4088340a7451"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "eeb7f857912a119802d8a020e0516a88851ed6356821b63944da7e6b4dedd165"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "32ffaed31f6935ef60bfaa7f4a4208516f9530543c3d0ffccd9131c35a36494c"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "fb1107612a19c59a49b4937fd45a7bfe11ea73e253199f0e3efb99e4575bccd3"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "91fd9b490cb585b8acd65bf754b21dcda7015841a3c2815dcde8f70b20e722b7"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "f360ba9345727e35a09b93e231285c36a991804452cee09e67150262d55745ac"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/skybox_athome/skyboxes/ur_anshar.png"
+hash = "45a9e3c826789f8bfca8fa25de2694095fad920e9c19778f232b7641c2225ffe"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/skybox_athome/skyboxes/ur_anshar.json"
+hash = "a24b4c40e099035d7079f78b2bd30cc7a113ff40b86d1cf7e14668b8df0d8b9a"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/font/icons.json"
+hash = "3c41490fff834f178273db482cd7b6d0d657cd24ada90fe5707c57f4bc6c6cad"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/font/emoji.json"
+hash = "f68c22ae4d5d6535fef1a381c1f440c21e9537da9e5b70e0012882622f88047d"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/modfest-generic.png"
+hash = "f095dfb0abc1b3662a9736f445a626c07312fb777b1426488375269cabb2a9cb"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/trans_heart.png"
+hash = "10eb4dfc3e857f8f33869a76d93fb0bb884b3031b5605078b7dc296c916ccb87"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/plural_heart.png"
+hash = "1df5874c92b17d6372b8e629dc918993120a3a7465885ffcda77f61ca4a031c9"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/bi_heart.png"
+hash = "316b434627a199098277e74f4574580af9c04515880f97140fb7f86e9df07f67"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/yeefuckinghaw.png"
+hash = "02299c4555ea9ddf5f92caa52e51a61a2b6c07079eb25d33c4b251bbc83d7cd7"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/intersex_heart.png"
+hash = "b2abf19c588b5d91f564cb2ab74f8794df640624c81a4d37f8cc96670c368be8"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/lesbian_heart.png"
+hash = "ea887f74ad39c3b1b5eb7278154a63dba7136e3cc77343eeaf87755fe6b49317"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/pineapple.png"
+hash = "d89056013374962f9f75fe07cf50fea14102d36be0a5f14b88dbdf9a681dd7ba"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/agender_heart.png"
+hash = "11aa410f7e79988c3a7cc69e7bec800099920dbdee79a817e222616c0ccd9671"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/aroace_heart.png"
+hash = "9f573b7ee4518f8995d34788ca332aa647df2ad385fb2b4a22bdc53eff5834f5"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/genderqueer_heart.png"
+hash = "8575c20cb42a379ef1d1515661f01248ce5b1bd684c9df1ddd9c30d9563374df"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/winnger.png"
+hash = "0d5387a3fe09ef88831afe47dca44dac1476092201bc67255c964ca1bed4b197"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/demi_heart.png"
+hash = "250dc156dcbf05ce0d6fb0808ebe3db5fd2291ee2868058f52fcd4fa18eea62d"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/neurodiversity_heart.png"
+hash = "661f06eeea8068f5bf4b6f2050f8a4d9bff6efa3e534d007e5deaf9ceaefbd78"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/lil_pineapple.png"
+hash = "51e29be3694de21580725c9924cc13be8a935c70b4214ecdcd58fd4551aedc14"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/ohno.png"
+hash = "7fc9b087fd446c388a180627f3f090244e71f67d6d45c7e9c3db4cf09071aa0e"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/whyfest.png"
+hash = "2e19e16ad5dec661613e7b57369aec7dbe1cf208fdc3266cb8a47b54e40eec55"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/nb_heart.png"
+hash = "311ddfa8fef715822e5ed0355ac796da0bf5f2975fad3af9c45364cd9e3cb76e"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/genderfluid_heart.png"
+hash = "a6e7576d365b1da7d6e617338906f9775ae6e97db552372937c32bd84e3fcda8"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/pan_heart.png"
+hash = "7e949ad839075f416694bdd7f99f9ffbda9c1e205692daf06dad0aeee7b241bf"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/vincian_heart.png"
+hash = "f3198ff52a12e7aea9ecf753362f29ceca82c45bf1a5577119ad926978afe517"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/queer_prog_heart.png"
+hash = "11fca7f38cf3719d6e1235bd58fe0281235b6bacf49d9780e1630bbfcc87e6be"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/furry_pride.png"
+hash = "cf52e95e4def7dfe9f680beb888b40db1bc351cf04d9959f24fb7316178caf5e"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/blob_waaaaa.png"
+hash = "fecc0550ed56ca95271227a7d0a4748193561a7f400f1bfb3436c9f35b0fefcd"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/femboy_heart.png"
+hash = "975aefc978f4ec0f18b52b17aa61bd56fc1c6c05b76cfa17e7d66002d10c7174"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/queer_heart.png"
+hash = "898f1c79e9bbcc3d9891cc5648366b372054a7176f93e9f81fdb0bf0603e32a5"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/aro_heart.png"
+hash = "8c6097562d071fead19d5fa79106b8fc0b7e8fad5ea666fc86850866e800b768"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/ace_heart.png"
+hash = "d7187260dbcb221a2a33dacb091d3a64c3bb767c5629215d2c97caa4eae04fe4"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/blanketcon.png"
+hash = "1f6b063dd15afdc7c2e3be961bfa0db33fdb5ae7f0a1e7dfbcf33420a08a507a"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/uh.png"
+hash = "c10e949d68511700a4f38f7275b5f502e894be7be7a6d3bdd3bc50dfc87747d5"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/genderflux_heart.png"
+hash = "c503f947f7abac5863f1ca302102a939ec6662ee1a0784b58db4e08d7696c1d5"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/icons/cover.png"
+hash = "26d6eaef9dcb3c5cdcba0d52a28057f8f6ba0223b0894dbd334e100604296ac2"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/icons/icon.png"
+hash = "c63211bd7f0cceb17ff860eee9e3bba726d1c427a7754779252c8ace8078f796"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/teabridge.json"
+hash = "3864ed958f7ab49c9b7b0773389fb312f9081cdb05ca9379f86279e228a04c74"
+metafile = false
+preserve = false
+
+[[files]]
 file = "config/gofo/config.json"
 hash = "0dc8b327a8279c2e9fa9755bb4598d9d59aef10c6f3eaad348496443de1c9a56"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/picturesign.json"
-hash = "189fb49363dd1ec9c971cfd28872f9869cb05bb553d655869add968e332d94b6"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/roles.json"
-hash = "caa1c5a9405bdc851629edf376c9b101a969eb1961ab977b4b52df24d5a00b2a"
 metafile = false
 preserve = false
 
@@ -1045,14 +1075,14 @@ metafile = false
 preserve = false
 
 [[files]]
-file = "config/wizcraft.json5"
-hash = "773ecd9def1e16b4da2a1e29408921157758079ffbfaa18fc52513943e85dc95"
+file = "config/emi.css"
+hash = "aebeb1eb5be2aef8a88b2655be8d440e35c48a5183708d3de2c26d7a26746ba8"
 metafile = false
 preserve = false
 
 [[files]]
-file = "config/styledplayerlist/config.json"
-hash = "4fca35fea8b8cfb35108d99f6294dd55160cfd1504ddd73f84b39a00a37f820e"
+file = "config/picturesign.json"
+hash = "189fb49363dd1ec9c971cfd28872f9869cb05bb553d655869add968e332d94b6"
 metafile = false
 preserve = false
 
@@ -1063,38 +1093,8 @@ metafile = false
 preserve = false
 
 [[files]]
-file = "config/quickerconnectbutton.json5"
-hash = "b7509485d78594f3bd989449a8b79e5aeba2688ebb13a5867e97f72f91a07990"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/emi.css"
-hash = "aebeb1eb5be2aef8a88b2655be8d440e35c48a5183708d3de2c26d7a26746ba8"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/styled-nicknames.json"
-hash = "f7e9077e48d519d4606b60d674581eafe90627f3c4c373aeeb0ed8460f7beefd"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/teabridge.json"
-hash = "3864ed958f7ab49c9b7b0773389fb312f9081cdb05ca9379f86279e228a04c74"
-metafile = false
-preserve = false
-
-[[files]]
-file = "server-icon.png"
-hash = "0b74d3f6de781a5e83bbf8eee1bf540e2ab7717246c7e782c3e5ea293a262167"
-metafile = false
-preserve = false
-
-[[files]]
-file = "server.properties"
-hash = "65c7a3929387185f50a09aa971dbd58892eb8e08d2c2a68155ea7f30074dba02"
+file = "config/styledplayerlist/config.json"
+hash = "4fca35fea8b8cfb35108d99f6294dd55160cfd1504ddd73f84b39a00a37f820e"
 metafile = false
 preserve = false
 
