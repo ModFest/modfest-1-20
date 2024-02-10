@@ -30,12 +30,11 @@
             }
         }
     },
-    "builder": {
+    "fixer": {
         "level": 10,
         "overrides": {
             "permission_level": 2,
             "permission_keys": {
-                "modfest.builder": "allow",
                 "worldedit.*": "allow",
                 "scattered_shards.command.collect": "allow",
                 "scattered_shards.command.uncollect.*": "allow",
@@ -48,15 +47,25 @@
             "commands": {
                 "gamemode.*": "allow",
                 "tp @[^e].*": "allow",
-                "fill.*": "allow",
-                "setblock.*": "allow",
-                "summon.*": "allow",
-                "rregion.*": "allow",
                 "anshar network list": "allow",
                 "timelock.*": "allow",
                 "flounderfest (start|stop)": "allow",
                 "weathersync timer (get|reset)": "allow",
                 "kill.*": "deny"
+            }
+        }
+    },
+    "builder": {
+        "level": 5,
+        "overrides": {
+            "permission_keys": {
+                "modfest.builder": "allow",
+                "scattered_shards.command.uncollect.*": "allow"
+            },
+            "command_feedback": true,
+            "entity_selectors": false,
+            "commands": {
+                "gamemode adventure": "allow"
             }
         }
     },
