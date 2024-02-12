@@ -1,0 +1,17 @@
+name = "flutterandflounder-1.0.5"
+filename = "flutterandflounder-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8FaCFIHr/versions/1ezwQFg1/flutterandflounder-1.0.5.jar"
+hash = "7f80f800e6387768b7214c2f0425df558bf4caa79372621ac88d05a66a2ac6e52bcecae4d03a0fef54909295ae96d11b2af496a0a2e734fc8129a1b961ab35bf"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "flutterandflounder"
+version = "1ezwQFg1"

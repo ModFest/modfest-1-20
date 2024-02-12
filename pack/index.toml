@@ -367,8 +367,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/flutterandflounder-1.0.4.pw.toml"
-hash = "0c120cc6d3ad2694e1b1ea76006a842eb530e24fae7ae29f182d5ef9cba949e4"
+file = "mods/flutterandflounder-1.0.5.pw.toml"
+hash = "bfa6d4aaf2953c7130d6bd14bf60750934b7ded8b5291f9d6f372bf4274e3e01"
 metafile = true
 preserve = false
 
