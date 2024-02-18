@@ -385,7 +385,7 @@ version = "1.1.2-fabric"
 [[mods]]
 type = "modrinth"
 id = "wild-magix"
-version = "XaEApfFN"
+version = "9r95bb54"
 
 [[mods]]
 type = "url"
