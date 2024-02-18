@@ -1,0 +1,17 @@
+name = "wildmagix-2.1"
+filename = "wildmagix-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KcI6m5bH/versions/9r95bb54/wildmagix-2.1.jar"
+hash = "bbddbb54c246149c707cea31baae3b7c1f07712a2f37b3055faf94e05fe67f4d90579894c9e6af7397c1485442318ce601390a804c19f7fdaf431510a755aa08"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "wild-magix"
+version = "9r95bb54"
