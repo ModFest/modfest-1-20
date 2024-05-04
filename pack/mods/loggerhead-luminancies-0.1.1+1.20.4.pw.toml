@@ -1,0 +1,17 @@
+name = "loggerhead-luminancies-0.1.1+1.20.4"
+filename = "loggerhead-luminancies-0.1.1+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jMFHaKT3/versions/SDe7ekMa/loggerhead-luminancies-0.1.1%2B1.20.4.jar"
+hash = "186ffc2cad4f193f1300a05849c0ec27e35240902d04b14be8e2f896750c981709d53ceb2b92a43a02bc9b3b9c0b807f0606d58ea690d0cc9a3fec1f7f763f7a"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "loggerhead-luminancies"
+version = "SDe7ekMa"
