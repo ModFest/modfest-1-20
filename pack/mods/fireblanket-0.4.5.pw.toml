@@ -3,8 +3,8 @@ filename = "fireblanket-0.4.5.jar"
 side = "both"
 
 [download]
-url = "https://github.com/sisby-folk/fireblanket/releases/download/0.4.5/fireblanket-0.4.5.jar"
-hash = "bcb6a873aaa07a9294b12a5dcfc3419f506b4b1629df2acb019d3de215382e3c"
+url = "https://github.com/ModFest/fireblanket/releases/download/0.4.5-actual/fireblanket-0.4.5.jar"
+hash = "943968d11420b7bfeaee9b2d4eda3fd1d8ccbf5283d876425b7ac5838c91d51c"
 hash-format = "sha256"
 mode = "url"
 
