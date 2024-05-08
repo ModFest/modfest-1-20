@@ -26,6 +26,9 @@ jobs:
         sudo mv ./mcman /usr/bin/
         sudo chmod +x /usr/bin/mcman
 
+    - name: Clear existing pack folder
+      run: rm -rf pack
+
     - name: Run mcman export packwiz
       run: mcman export packwiz
       env:
