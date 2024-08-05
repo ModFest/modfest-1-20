@@ -1,12 +1,4 @@
-# mcman: Exclude mcman build outputs
-**/server
-# mcman: Exclude exported mrpacks
+.idea/
+.DS_Store
+
 *.mrpack
-# mcman: Exclude local dotenv files
-**/.env
-
-# prism launcher instance
-profile.zip
-
-# intellij IDEs
-.idea
