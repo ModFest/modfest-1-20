@@ -1,1111 +1,830 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/fabric-api-0.92.0+1.20.4.pw.toml"
-hash = "ccc7fec48b508bb3d94484b0af60c510d6ed63d1abe5adfe93104107e4155130"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/fabric-language-kotlin-1.10.17+kotlin.1.9.22.pw.toml"
-hash = "9dd11e8df42a1db891ff1955c68d71a46d9528a6a82f5a121502ba652ab4347d"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/modmenu-9.0.0.pw.toml"
-hash = "d9ec589338107441b5a63781efed27d1fd56a504b9ffff94cf8c0c62a55955c5"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/player-roles-1.6.8.pw.toml"
-hash = "b17b56bae42a30b4f665e921a2473ac248d209728b96ba0406745b34f95e2c1b"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/glowcase-1.3.1+1.20.4.pw.toml"
-hash = "c9930b28ae2994bffee6e8dc5414239c180f86f3b96ee1b035b7da9e0d4e701b"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/modernfix-fabric-5.10.2+mc1.20.4.pw.toml"
-hash = "cb16ea7a03e5fcbed430e779b5c89b3725802c1826874b3f59eef6296ec54daf"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/spark-1.10.58-fabric.pw.toml"
-hash = "5c4bc3ee6ec6626e0dc00e0d1b9fc39ba4de7046001585f3808ecef2795392fc"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/sodium-fabric-mc1.20.3-0.5.5.pw.toml"
-hash = "06587c03a117cdb2f8834301658d3b60af7add23efb3dfd0f09da298e01113e7"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/Axiom-2.2.1-for-MC1.20.4.pw.toml"
-hash = "eab3cc1102213bcc1d5d57ca4a8a221b161bee73b37e3400f2c6af2b9807067b"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/worldedit-mod-7.2.18-dist.pw.toml"
-hash = "ccf672eb78b03e08cadb8b7b00b83389daddea2712a0dcebec76b3c2f37a47bd"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/emi-1.0.29+1.20.4+fabric.pw.toml"
-hash = "2162e4c69bb1f21024105a2f4338f3dcb2ad8a80e955d1e18cc7e2f8146c776f"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/lithium-fabric-mc1.20.4-0.12.1.pw.toml"
-hash = "cf82a35a98ca7d77276ff515c2aa2322d4cdccefc4355350094951b2b0da362e"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/indium-1.0.28+mc1.20.4.pw.toml"
-hash = "a453c3cb0f13e8246b5c5d929b3e3c24f9ec34073a887094d1e9f6a187bdf64d"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/badpackets-fabric-0.5.4.pw.toml"
-hash = "8acf0c32cffce3f1680c4f11145080a34258a5b79af8e1053c1057092f221bac"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/yet-another-config-lib-fabric-3.3.1+1.20.4.pw.toml"
-hash = "e0585c5524a57c1a4f6fd3725bf4a2e62c4a7cb699c86e0eb9deb02affb8894f"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/ForgeConfigAPIPort-v20.4.2-1.20.4-Fabric.pw.toml"
-hash = "f1cfe2b8410a1b93cfd078177d91fb87b861be0cb9eed8bb282b2e0dfdd5ac9e"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/SmartBrainLib-fabric-1.20.4-1.13.pw.toml"
-hash = "1ac1ed7864714023388c04de2294bc417cbf4deafc487cb12d0593870fca692a"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/cloth-config-13.0.121-fabric.pw.toml"
-hash = "af0ba59d4bc062e3b63b0d8279e5fbcb11330f83b4427e9c8c9c736961ecd8ad"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/geckolib-fabric-1.20.4-4.3.1.pw.toml"
-hash = "d4e08a0d5b4f9076b615ac285d9e8b4849bf4810755a68d05011d6d0c697dac0"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/trinkets-3.8.0.pw.toml"
-hash = "233ae335b19ac58ce7f05892f9e195ada5c26699e080557c91ccf6e7f7460453"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/wthit-fabric-10.0.1.pw.toml"
-hash = "12e50b883933895e24ad0d617006228992007188b8eda0e1b1ea6f624a56c007"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/teabridge-1.2.3-mc1.20.4-rev.5dbf1cb.pw.toml"
-hash = "67bf64540eb1a1be95f352d8cc797cf7284607527e1af39cb66bbdf781b2cbed"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/styled-nicknames-1.4.0+1.20.3.pw.toml"
-hash = "62172634326ce865695904aee07b27bcf0682be38af0d669b24d6ee60495d864"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/styledplayerlist-3.3.0+1.20.3.pw.toml"
-hash = "b7bf99879f26eeb217fa7d69c8998db7dce9c0b6d3aaa3eb1d1ed4d071225d7f"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/styled-chat-2.4.0+1.20.3.pw.toml"
-hash = "6d4c6757b895bb1f3f3c7dbf0f5e0d9ac82082edf66a949d44d1543797622b2d"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/drogstyle-1.3.4+1.20.4.pw.toml"
-hash = "5648b69a4ffaaeffb53215d3486630b2cac4417d59359e909242382b047cc97c"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/crunchy-crunchy-advancements-1.6.2+1.20.2.pw.toml"
-hash = "509ad000208aa03a18690ccf68f86faeb9982253bc4f25305bf1b30156a64a9b"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/owo-lib-0.12.0+1.20.3.pw.toml"
-hash = "71f1875857f9ec6cf49c879cf45be6900854e4f17d0fb74ca2d7083f42e4a9d7"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/switchy-2.9.0+1.20.4.pw.toml"
-hash = "ec68612f237fa865a7c257d7a2667dbf38097501c232f6111edfb85a5b09e506"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/switchy-proxy-1.7.0+1.20.4.pw.toml"
-hash = "8932d6137fa474f99130663a39575d51edbd639f27b9ff8d86aa5dc594a4d8e6"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/fabrictailor-2.3.0.pw.toml"
-hash = "aae7136c59466ed0d568764f5e6b1ffa6f272d087eb9563ed9790b23214a4179"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/ears-fabric-1.20.2-1.4.6.pw.toml"
-hash = "a05a3730468f0a8ac5c5818633f21cdf51418ba39be66500a8ef8ff31bcc6e47"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/sidekick-fabric-2.0.5_02+1.20.2.pw.toml"
-hash = "86b187173fcdcaf1e9f1079e1f4a4afb612b813cd3a04b393103b2392ba0a794"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/blocky_bass-1.0.16.pw.toml"
-hash = "81beabee69a267856232f689d7eb85982e5eaedbd91e9edf22f4f0ef961151b2"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/starcaller-0.4.3+1.20.4.pw.toml"
-hash = "e0571fd0e9063c6f08af329b8fd758824bb9ee39a1b6979cc2c1f570bdfc7f70"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/contrail-1.0.2+1.20.4.pw.toml"
-hash = "d819375be376409b76fcd4e0a7fba43b2ab1f9d75086019ed1106f760e6cddc6"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/toxsky-0.0.3.pw.toml"
-hash = "8a9ce2089deb90c7abca4879fb3781e3ed2fb20dc184750fddffb3d932c4d997"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/PetbottleRocket-1.2.0.pw.toml"
-hash = "7ba3d01dab0af42fa45d4c7597c59a6928d768c88f0453502317724cc2574c3a"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/skyboxathome-0.1.1+1.20.4.pw.toml"
-hash = "185d247bd784a4c280986e880c0c5018e22922bd2979456aea5c09fe8a39e52d"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/arctic-1.1.0+mc1.20.4.pw.toml"
-hash = "f97e00294b1e1c255d7f42f891af54f221318ca199a749dfea1c12b7d045d0d9"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/seagulls-1.0.1-mc1.20.4.pw.toml"
-hash = "13c58e3f07715fc4a66bbf9b5175f25640affa91874e142c8263a53dd3251180"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/GadgetsOfTheSky-1.0.2.pw.toml"
-hash = "3da31fc0f233bd49e7731d9b0bf51ddd2bd65777c010eab814224ee731dd5718"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/env_json-0.3.1-beta.pw.toml"
-hash = "4effd60705e1ebef62509b5f1d7f4b19acb790239678f747e7640a0e66717a3e"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/potatoesplus-1.0.3.pw.toml"
-hash = "aa3a0c8a2a0e9a3a48872aef65c7f72e5e992e0e00c9e9e387f314182ed5d9d5"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/loggerhead-luminancies-0.1.1+1.20.4.pw.toml"
-hash = "4549b1318cdeb67607252c065479ec7675b577220b3d4d9a5d1080e9a88f820c"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/glideaway-1.0.2+1.20.4.pw.toml"
-hash = "f6cae4d054379012f980f255e80f25467c384119c7cf4b95105a6f667ba022d1"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/weathersync-0.4.pw.toml"
-hash = "56378f9c550b0c46e12ba862ac9b718cb0be787a4d8564015efc8d662cd8e5e4"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/Boids-1.1.1.pw.toml"
-hash = "2c82d1b073fea3495f771935680ee90639e370db6f50262b2d16dcfcf1df9105"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/birdsboids-1.1.0.pw.toml"
-hash = "88a75f792ce4783558b0e5ded17581d1373e22fe8d7ae1e27ffdce184874db39"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/cerulean-0.1.1.pw.toml"
-hash = "e00e3057b30af6c82bbe6beb6c7a4e547a0d9e132f19cb052fcaf6902d5a3bb0"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/cloudedisles-0.9.4-1.20.4.pw.toml"
-hash = "b0708b5680ad2ea28266776e586a97d1b73d29222fe7417223562357adc61878"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/schmarrn-fireworks-1.0.2.pw.toml"
-hash = "0a70696d220703e5f0aef9fd0481ba80db035a4bb5e239de1a6dc6ce7a93e924"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/anshar-0.0.15.pw.toml"
-hash = "bfb0372ee0a1fe7a20001e45b72f9a28fbc71c61790344d2110fdbbb729acbec"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/fishhead-1.0.1.pw.toml"
-hash = "6fdf86f590eb2f30930d729236151425b340bbf96787ad909cdd0a126e0798c0"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/gofo-1.1.pw.toml"
-hash = "c0abc3a245bead6a7d6660d18cb79ec499e507f88cabcdb709cf1ae589465bab"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/wizcraft-1.0.0-alpha.10.pw.toml"
-hash = "1f9f5c66859d6e5962aaf6e132b1cd7090c5d60ae93e1e8d12ac4b6250f55265"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/perihelion-0.0.2+1.20.4.pw.toml"
-hash = "3c890dec30455b394c401f59bd6a86b8d9d438b7a9ae9acf506174f460434e77"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/Mutagen-0.0.2.pw.toml"
-hash = "8440775dc635877932573479da6d1309db50694108d2859429d47d6cdc1553b2"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/pescatore-1.0.0-beta.rel+1.20.4.pw.toml"
-hash = "a8cfb4f5c2181e58fa7de49833d5d047fedaddc2d2caf846901bdb23fc394cbb"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/env_driven_assets-0.0.4-alpha.pw.toml"
-hash = "2079ddfc5e23ac6daf496e071f89d1b7dd29e6971e50a07ba38c4681e93a87ee"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/pesky_seagulls-1.2.0.pw.toml"
-hash = "a7ac3d1dd220a99e713f5888630a50e41fad3d2313e6336a2288ec4ca0fb038a"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/flutterandflounder-1.0.5.pw.toml"
-hash = "bfa6d4aaf2953c7130d6bd14bf60750934b7ded8b5291f9d6f372bf4274e3e01"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/fluiwid-1.1.5.pw.toml"
-hash = "015ef404e85a3d8e7cba041ada6c8d4acbd6272d0450eca2057696898b2c53ce"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/partnership-fabric-mc1.20.4-v1.1.2.pw.toml"
-hash = "df4795021386baa8761d790e53398b09a2e56dcae7c20845ec2d70311c81bb4a"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/reel-0.1.3+1.20.4.pw.toml"
-hash = "b64558777c92e76f5d8b891357222f383c9b93642b907d33567b0b58e0a2e8a4"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/boatism-0.1.1.pw.toml"
-hash = "1888505c28d3659b8e4abc38115b1649968bbc142a1eff2af258888d39eeaed4"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/skys-the-limit-1.1.0.pw.toml"
-hash = "45459ceadc5eb0cfefaad28624e6612f19bd7bdbc42ccc530f5853750a8e2e0c"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/capiche-1.0.0.pw.toml"
-hash = "9a90be6a093228b2b48ca0891b473a0f3051c7adf0e6547df0fdc009a5af71d9"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/whalestrom-0.1.3.pw.toml"
-hash = "2e7a54d0b4244998dcaa6e163ce97422d547ae18b5955f8bbf41f16221d1c811"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/glide-1.0.1.pw.toml"
-hash = "d2774898b400b3513d5b43ee7864e86dddca36f64358d7d790f676d69ce5b510"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/Resurfaced-1.1.3.pw.toml"
-hash = "0376e573dfd7ae301c6fe0ca32160e94a377a79f33838024571fd93145a62bdb"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/operation_starcleave-0.1.0.6.pw.toml"
-hash = "b8a33e1642319b4a720e596ba2c6447450086303012db0e3f26a676bd9bdc458"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/moonrise-1.0.1-R.pw.toml"
-hash = "fc5d70bef983bd302896fa0f7a1befbab3ddf94d95e1727f59cd1a2709cf041b"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/rapscallions-and-rockhoppers-fabric-1.1.2+1.20.4.pw.toml"
-hash = "7039cfda8c182cb919f9d4ccbf0612657fc4b2248137e82de53e9578317f060b"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/wildmagix-2.1.pw.toml"
-hash = "9e1968200da2d997d9ac7d78260f5c4b4facd69db58ff6ee20cb4bbfcde54942"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/picturesign-2.0.0-beta.1+unascribedtheora5-1.20.4.pw.toml"
-hash = "083f0cf5d90011aecd999316072cb868fd636f86b2fe4ed9db92d76b50a715b4"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/DemoBox-1.0.0+mc.1.20.4.pw.toml"
-hash = "c1850a8da744c22ffbaa3eefafd186a04e9f084d7daa906749c0a20e62f8361a"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/multiworldborders-1.6.3-fabric-1.20.2.pw.toml"
-hash = "fadbda9d7cd117ef735a2e8b70c7d743aa81aa58bf2e02d24ff9af95c0e6f963"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/OpenLoader-Fabric-1.20.4-22.0.1.pw.toml"
-hash = "a9e8fa0e5e8547bfd5d6e8cd6c5ce3baa93998187b0c23d4d05b328f17252139"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/armor-stand-editor-2.3.0+1.20.3-rc1.pw.toml"
-hash = "e8fac6b4cbfba63d1f27cc3f6c18a003e885632aedf941f1cf251edf8f9603c3"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/notflying-1.0.1.pw.toml"
-hash = "8348a512306db2f5edeb0e2893072f3966aff520339ccbc03f7d5510b1beb635"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/itemuserestrictor-1.0.1.pw.toml"
-hash = "04bf405d7b465ddba3a78bc6df74c4037a4f3e7524241d0f88a2febba2d469b9"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/quickerconnectbutton-fabric-2.0.1+1.20.4.pw.toml"
-hash = "660c86b386d3bc4c9a73da6e05006763d3cfb45cfe46d6e300a765743f05e574"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/architectury-11.0.12-fabric.pw.toml"
-hash = "2fbb956d242c3a305be816a69d801437422c209a0e1036023826c01b5edca5fa"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/jamlib-fabric-1.20.4-1.0.3+1.20.4.pw.toml"
-hash = "69e8330a0398672e2e5e0e2fb1b1be24de407e79aab6e8c241076ac0cfd664c0"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/scatteredshards-1.5.2.pw.toml"
-hash = "98abfec361901abd492c6c2b2a0bc4756c54a65a8b102c4aaf8124f8adc057b4"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/fireblanket-0.4.5.pw.toml"
-hash = "717d2beeff861e066df54feee5dd6874ffebc3c605bb30cc12dc318d794683bf"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/timelock-1.0.1.pw.toml"
-hash = "41fdd24d310d6735ffb8bf6eaa6ce8d7785f22de012544929445605fce90dae5"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/voicechat-fabric-1.20.4-2.5.2.pw.toml"
-hash = "a2f65d0c8525c5e994a47a07560cbd9281a770666cd2c7de80528a0bb83ea9b1"
-metafile = true
-preserve = false
-
-[[files]]
-file = "server-icon.png"
-hash = "0b74d3f6de781a5e83bbf8eee1bf540e2ab7717246c7e782c3e5ea293a262167"
-metafile = false
-preserve = false
-
-[[files]]
-file = "server.properties"
-hash = "65c7a3929387185f50a09aa971dbd58892eb8e08d2c2a68155ea7f30074dba02"
-metafile = false
-preserve = false
-
-[[files]]
-file = "options.txt"
-hash = "dfbc402da658fafa0d5004d40d4a7ec1346f8c2a30233fe34985235b305b1cde"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/roles.json"
-hash = "cf63e0089dee6deb6a3599ee503885c7d5abb14e6b65b2be9a21d620a3e9ddb3"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/wizcraft.json5"
-hash = "773ecd9def1e16b4da2a1e29408921157758079ffbfaa18fc52513943e85dc95"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/teabridge.json"
-hash = "3864ed958f7ab49c9b7b0773389fb312f9081cdb05ca9379f86279e228a04c74"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/styled-chat.json"
-hash = "c900a047821f5242dafe8fdd68109fcbf66aa2132e448a57a2c2968c354ca15c"
-metafile = false
-preserve = false
+file = "config/emi.css"
+hash = "1b47a51c65541d5966e9d64ff5efb5cfdb7ce5c3c72307156e36cfce9bb2df58"
 
 [[files]]
 file = "config/gofo/config.json"
-hash = "0dc8b327a8279c2e9fa9755bb4598d9d59aef10c6f3eaad348496443de1c9a56"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/quickerconnectbutton.json5"
-hash = "c85ed80143f4900b22c9b57160778b0a6c43809c43e6403bb88cbb76516eae12"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/waila/waila_plugins.json"
-hash = "f3fd13df0c27c60276d55109e8f8b4de0cfe01fbbc6b52cb31dd8cd3946a224f"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/waila/waila.json"
-hash = "13dd715493f0fb3754583f6a97fcb8a7df61ccef983df3a664931be3d1e9c490"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/data/shards-modfest-1-20/pack.mcmeta"
-hash = "42bc58848c2c1c2372d121b2ad22457ae029aeeb8db5f3878c3551ad5d659307"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/data/shards-modfest-1-20/data/mf120/shard_type/mf120_sky.json"
-hash = "f8b4af78879440f870a9c04102cc855a20f49a99f8a8f59b3f311b1e76bb4b74"
-metafile = false
-preserve = false
+hash = "5dd6a4e3497dcf804aefa0806f9fe9e6b2d4684636e3aba549a4d9df587f8beb"
 
 [[files]]
 file = "config/openloader/data/shards-modfest-1-20/data/mf120/shard_type/mf120_sea.json"
-hash = "2405ec6c04cc0d408136b9882ff61756ebc900b0453c0d4e3fbb96c8ac43997e"
-metafile = false
-preserve = false
+hash = "d0ee051c5d4f78c98ba545c64046f5adfd8cf7a3f46e54e358f24b787a318f2b"
+
+[[files]]
+file = "config/openloader/data/shards-modfest-1-20/data/mf120/shard_type/mf120_sky.json"
+hash = "0599c1054401b13f6929fa1cacda1bb9c02e3cdcdd327499719f927c85fad375"
+
+[[files]]
+file = "config/openloader/data/shards-modfest-1-20/pack.mcmeta"
+hash = "a39ce016e8c1c65767a72c8f210ac325cbe7fd38b0b21385280d4d1dca64761c"
 
 [[files]]
 file = "config/openloader/resources/Unsanded-1.1.1-custom.zip"
 hash = "32dbda3c997827e279276e5b8dc3a00e7936135f4fafb97f6ab515a7b6712178"
-metafile = false
-preserve = false
 
 [[files]]
 file = "config/openloader/resources/VanillaTweaks_r938838.zip"
 hash = "779762eddc49e0f91112bcac9d093904e2a3a8045aeac0dff189251370542f9a"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/pack.mcmeta"
-hash = "e4fc74b6eacdefa6a39142e6d927850308808cc9dc308685f38d33319815a034"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/genderfluid_heart.png"
-hash = "a6e7576d365b1da7d6e617338906f9775ae6e97db552372937c32bd84e3fcda8"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/nb_heart.png"
-hash = "311ddfa8fef715822e5ed0355ac796da0bf5f2975fad3af9c45364cd9e3cb76e"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/intersex_heart.png"
-hash = "b2abf19c588b5d91f564cb2ab74f8794df640624c81a4d37f8cc96670c368be8"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/agender_heart.png"
-hash = "11aa410f7e79988c3a7cc69e7bec800099920dbdee79a817e222616c0ccd9671"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/uh.png"
-hash = "c10e949d68511700a4f38f7275b5f502e894be7be7a6d3bdd3bc50dfc87747d5"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/winnger.png"
-hash = "0d5387a3fe09ef88831afe47dca44dac1476092201bc67255c964ca1bed4b197"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/queer_prog_heart.png"
-hash = "11fca7f38cf3719d6e1235bd58fe0281235b6bacf49d9780e1630bbfcc87e6be"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/pan_heart.png"
-hash = "7e949ad839075f416694bdd7f99f9ffbda9c1e205692daf06dad0aeee7b241bf"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/lil_pineapple.png"
-hash = "51e29be3694de21580725c9924cc13be8a935c70b4214ecdcd58fd4551aedc14"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/trans_heart.png"
-hash = "10eb4dfc3e857f8f33869a76d93fb0bb884b3031b5605078b7dc296c916ccb87"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/bi_heart.png"
-hash = "316b434627a199098277e74f4574580af9c04515880f97140fb7f86e9df07f67"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/pineapple.png"
-hash = "d89056013374962f9f75fe07cf50fea14102d36be0a5f14b88dbdf9a681dd7ba"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/blob_waaaaa.png"
-hash = "fecc0550ed56ca95271227a7d0a4748193561a7f400f1bfb3436c9f35b0fefcd"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/yeefuckinghaw.png"
-hash = "02299c4555ea9ddf5f92caa52e51a61a2b6c07079eb25d33c4b251bbc83d7cd7"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/modfest-generic.png"
-hash = "f095dfb0abc1b3662a9736f445a626c07312fb777b1426488375269cabb2a9cb"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/furry_pride.png"
-hash = "cf52e95e4def7dfe9f680beb888b40db1bc351cf04d9959f24fb7316178caf5e"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/ace_heart.png"
-hash = "d7187260dbcb221a2a33dacb091d3a64c3bb767c5629215d2c97caa4eae04fe4"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/femboy_heart.png"
-hash = "975aefc978f4ec0f18b52b17aa61bd56fc1c6c05b76cfa17e7d66002d10c7174"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/genderqueer_heart.png"
-hash = "8575c20cb42a379ef1d1515661f01248ce5b1bd684c9df1ddd9c30d9563374df"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/neurodiversity_heart.png"
-hash = "661f06eeea8068f5bf4b6f2050f8a4d9bff6efa3e534d007e5deaf9ceaefbd78"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/lesbian_heart.png"
-hash = "ea887f74ad39c3b1b5eb7278154a63dba7136e3cc77343eeaf87755fe6b49317"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/aro_heart.png"
-hash = "8c6097562d071fead19d5fa79106b8fc0b7e8fad5ea666fc86850866e800b768"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/vincian_heart.png"
-hash = "f3198ff52a12e7aea9ecf753362f29ceca82c45bf1a5577119ad926978afe517"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/demi_heart.png"
-hash = "250dc156dcbf05ce0d6fb0808ebe3db5fd2291ee2868058f52fcd4fa18eea62d"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/plural_heart.png"
-hash = "1df5874c92b17d6372b8e629dc918993120a3a7465885ffcda77f61ca4a031c9"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/aroace_heart.png"
-hash = "9f573b7ee4518f8995d34788ca332aa647df2ad385fb2b4a22bdc53eff5834f5"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/queer_heart.png"
-hash = "898f1c79e9bbcc3d9891cc5648366b372054a7176f93e9f81fdb0bf0603e32a5"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/genderflux_heart.png"
-hash = "c503f947f7abac5863f1ca302102a939ec6662ee1a0784b58db4e08d7696c1d5"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/whyfest.png"
-hash = "2e19e16ad5dec661613e7b57369aec7dbe1cf208fdc3266cb8a47b54e40eec55"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/ohno.png"
-hash = "7fc9b087fd446c388a180627f3f090244e71f67d6d45c7e9c3db4cf09071aa0e"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/blanketcon.png"
-hash = "1f6b063dd15afdc7c2e3be961bfa0db33fdb5ae7f0a1e7dfbcf33420a08a507a"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/icons/cover.png"
-hash = "26d6eaef9dcb3c5cdcba0d52a28057f8f6ba0223b0894dbd334e100604296ac2"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/icons/icon.png"
-hash = "c63211bd7f0cceb17ff860eee9e3bba726d1c427a7754779252c8ace8078f796"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/font/emoji.json"
-hash = "f68c22ae4d5d6535fef1a381c1f440c21e9537da9e5b70e0012882622f88047d"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/font/icons.json"
-hash = "3c41490fff834f178273db482cd7b6d0d657cd24ada90fe5707c57f4bc6c6cad"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/skybox_athome/skyboxes/ur_anshar.json"
-hash = "a24b4c40e099035d7079f78b2bd30cc7a113ff40b86d1cf7e14668b8df0d8b9a"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/skybox_athome/skyboxes/ur_anshar.png"
-hash = "45a9e3c826789f8bfca8fa25de2694095fad920e9c19778f232b7641c2225ffe"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/map/map_icons.png"
-hash = "6b7b1b843a01bb3f4404dec6d1978bbde2c4004d3df246ad4f8df79070d4b7b6"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "5eea18c37cbbe4954ef664ea8d711afde35cc4b65389036a8c9e4088340a7451"
-metafile = false
-preserve = false
 
 [[files]]
 file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_0.png"
 hash = "91fd9b490cb585b8acd65bf754b21dcda7015841a3c2815dcde8f70b20e722b7"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "32ffaed31f6935ef60bfaa7f4a4208516f9530543c3d0ffccd9131c35a36494c"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "fb1107612a19c59a49b4937fd45a7bfe11ea73e253199f0e3efb99e4575bccd3"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "eeb7f857912a119802d8a020e0516a88851ed6356821b63944da7e6b4dedd165"
-metafile = false
-preserve = false
 
 [[files]]
 file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_1.png"
 hash = "f360ba9345727e35a09b93e231285c36a991804452cee09e67150262d55745ac"
-metafile = false
-preserve = false
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "5eea18c37cbbe4954ef664ea8d711afde35cc4b65389036a8c9e4088340a7451"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "eeb7f857912a119802d8a020e0516a88851ed6356821b63944da7e6b4dedd165"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "32ffaed31f6935ef60bfaa7f4a4208516f9530543c3d0ffccd9131c35a36494c"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "fb1107612a19c59a49b4937fd45a7bfe11ea73e253199f0e3efb99e4575bccd3"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/map/map_icons.png"
+hash = "6b7b1b843a01bb3f4404dec6d1978bbde2c4004d3df246ad4f8df79070d4b7b6"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/font/emoji.json"
+hash = "f68c22ae4d5d6535fef1a381c1f440c21e9537da9e5b70e0012882622f88047d"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/font/icons.json"
+hash = "27a30d3cfc75e5ba78687ecaf82513933bef19e614fd6eac7242345f86b5d63b"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/ace_heart.png"
+hash = "d7187260dbcb221a2a33dacb091d3a64c3bb767c5629215d2c97caa4eae04fe4"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/agender_heart.png"
+hash = "11aa410f7e79988c3a7cc69e7bec800099920dbdee79a817e222616c0ccd9671"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/aro_heart.png"
+hash = "8c6097562d071fead19d5fa79106b8fc0b7e8fad5ea666fc86850866e800b768"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/aroace_heart.png"
+hash = "9f573b7ee4518f8995d34788ca332aa647df2ad385fb2b4a22bdc53eff5834f5"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/bi_heart.png"
+hash = "316b434627a199098277e74f4574580af9c04515880f97140fb7f86e9df07f67"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/blanketcon.png"
+hash = "1f6b063dd15afdc7c2e3be961bfa0db33fdb5ae7f0a1e7dfbcf33420a08a507a"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/blob_waaaaa.png"
+hash = "fecc0550ed56ca95271227a7d0a4748193561a7f400f1bfb3436c9f35b0fefcd"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/demi_heart.png"
+hash = "250dc156dcbf05ce0d6fb0808ebe3db5fd2291ee2868058f52fcd4fa18eea62d"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/femboy_heart.png"
+hash = "975aefc978f4ec0f18b52b17aa61bd56fc1c6c05b76cfa17e7d66002d10c7174"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/furry_pride.png"
+hash = "cf52e95e4def7dfe9f680beb888b40db1bc351cf04d9959f24fb7316178caf5e"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/genderfluid_heart.png"
+hash = "a6e7576d365b1da7d6e617338906f9775ae6e97db552372937c32bd84e3fcda8"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/genderflux_heart.png"
+hash = "c503f947f7abac5863f1ca302102a939ec6662ee1a0784b58db4e08d7696c1d5"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/genderqueer_heart.png"
+hash = "8575c20cb42a379ef1d1515661f01248ce5b1bd684c9df1ddd9c30d9563374df"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/intersex_heart.png"
+hash = "b2abf19c588b5d91f564cb2ab74f8794df640624c81a4d37f8cc96670c368be8"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/lesbian_heart.png"
+hash = "ea887f74ad39c3b1b5eb7278154a63dba7136e3cc77343eeaf87755fe6b49317"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/lil_pineapple.png"
+hash = "51e29be3694de21580725c9924cc13be8a935c70b4214ecdcd58fd4551aedc14"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/modfest-generic.png"
+hash = "f095dfb0abc1b3662a9736f445a626c07312fb777b1426488375269cabb2a9cb"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/nb_heart.png"
+hash = "311ddfa8fef715822e5ed0355ac796da0bf5f2975fad3af9c45364cd9e3cb76e"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/neurodiversity_heart.png"
+hash = "661f06eeea8068f5bf4b6f2050f8a4d9bff6efa3e534d007e5deaf9ceaefbd78"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/ohno.png"
+hash = "7fc9b087fd446c388a180627f3f090244e71f67d6d45c7e9c3db4cf09071aa0e"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/pan_heart.png"
+hash = "7e949ad839075f416694bdd7f99f9ffbda9c1e205692daf06dad0aeee7b241bf"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/pineapple.png"
+hash = "d89056013374962f9f75fe07cf50fea14102d36be0a5f14b88dbdf9a681dd7ba"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/plural_heart.png"
+hash = "1df5874c92b17d6372b8e629dc918993120a3a7465885ffcda77f61ca4a031c9"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/queer_heart.png"
+hash = "898f1c79e9bbcc3d9891cc5648366b372054a7176f93e9f81fdb0bf0603e32a5"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/queer_prog_heart.png"
+hash = "11fca7f38cf3719d6e1235bd58fe0281235b6bacf49d9780e1630bbfcc87e6be"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/trans_heart.png"
+hash = "10eb4dfc3e857f8f33869a76d93fb0bb884b3031b5605078b7dc296c916ccb87"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/uh.png"
+hash = "c10e949d68511700a4f38f7275b5f502e894be7be7a6d3bdd3bc50dfc87747d5"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/vincian_heart.png"
+hash = "f3198ff52a12e7aea9ecf753362f29ceca82c45bf1a5577119ad926978afe517"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/whyfest.png"
+hash = "2e19e16ad5dec661613e7b57369aec7dbe1cf208fdc3266cb8a47b54e40eec55"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/winnger.png"
+hash = "0d5387a3fe09ef88831afe47dca44dac1476092201bc67255c964ca1bed4b197"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/yeefuckinghaw.png"
+hash = "02299c4555ea9ddf5f92caa52e51a61a2b6c07079eb25d33c4b251bbc83d7cd7"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/icons/cover.png"
+hash = "26d6eaef9dcb3c5cdcba0d52a28057f8f6ba0223b0894dbd334e100604296ac2"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/icons/icon.png"
+hash = "c63211bd7f0cceb17ff860eee9e3bba726d1c427a7754779252c8ace8078f796"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/skybox_athome/skyboxes/ur_anshar.json"
+hash = "e36aca23d28c9e2cef1f9ebb899715c16f21475be2ee70c3b3e80ebd90695350"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/skybox_athome/skyboxes/ur_anshar.png"
+hash = "45a9e3c826789f8bfca8fa25de2694095fad920e9c19778f232b7641c2225ffe"
 
 [[files]]
 file = "config/openloader/resources/modfest-assets/gen_emoji.js"
-hash = "57308a7ad41ac724584b3f7df2293349ba5fc0b7bf21aa26a3571722657f1dda"
-metafile = false
-preserve = false
+hash = "4c7074c5596244eca8118cb5e535db21546df8c024e933c70f7cc0a1d608d217"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/pack.mcmeta"
+hash = "9bf79904f36ffc85bc184d0aad549222737c6a04b98392fe9abe91611902a1b1"
 
 [[files]]
 file = "config/openloader/resources/modfest-assets/styled_chat_emoji.json"
 hash = "9e13095c4f32c4a83bb81f974190f5439f982f84568540fb73a43cfa2e3847be"
-metafile = false
-preserve = false
 
 [[files]]
-file = "config/openloader/resources/shards-modfest-1-20/pack.mcmeta"
-hash = "5a3ba18a3a3a980edf788947eeee3ba4f5b98a902dda41a5d93fcc2f4474deff"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_mini_backing.png"
-hash = "e3223ac3d4ac9af576a41c1f7da3d214b05c18a056abd532e18c4e0e49bc6ef5"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_mini_backing.png"
-hash = "e1e34aeb91436db8f42169c7ebf827eee6c1ed40bc55ff19e0f9c8c1a90a4b95"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_backing.png"
-hash = "97ac29e2536c2349112fb234d6481cab4429035084ad07633864d7b1b8ef7d82"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_mini_front.png"
-hash = "ae46837ee853f1e9eeaf355ceec70ff95ed4580dd5226b568834d29528857340"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_front.png"
-hash = "dece1b57256615aa6fe078e24d6d85abd7eb8c9f41696ad65ca4b22bd4980611"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_mini_backing.png"
-hash = "eafd7a1403d36e96c24afeb907f34f6b2add810700b77e8247b7a258d9369273"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_front.png"
-hash = "9e6ba4894b4c3aa105bd6e896bba41f88867e395be9fc78b848b0400e5a0ae5a"
-metafile = false
-preserve = false
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/lang/en_us.json"
+hash = "dd638ee47cb9d1e5f3122086933666e1ef54a039e18732272ede2b4b772953ed"
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_backing.png"
 hash = "23844ce4f324a079f7410a26d1dd0513e2c0067ede852fb242afea6569be4030"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_mini_front.png"
-hash = "4616736a635470f0cc8f10fd9225b68166e2441f6a57f938cc87a6a99cd8f32b"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_front.png"
-hash = "a5223213a06e140ba829e306327d3430a4a7369f8fa2cf44e4aca6dd18442d5d"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_mini_front.png"
-hash = "5d7ff30e3806a1835c8d66754574ebb53f82a1ec288e546b44fc9c4f1f70d916"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_front.png"
-hash = "f191c4b24508077472b33d0aff8aebad5139331cdafdc31363791fcdbda06c11"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_mini_front.png"
-hash = "1a39ae481e2acfaf6322e8c5fd1b2d0a62101d3d5eba0d41f48eec769eb327b8"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_mini_front.png"
-hash = "afac634e8d05a1b8c6a6c23dc5b86c23473302ebb44511865132629b5bff2fcc"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_mini_backing.png"
-hash = "1f25ebe37da56ab83fe81d42b0372142552e24d3ae05308abdcda5e7fea7a18b"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_mini_backing.png"
-hash = "25e68cc87482dd2bb90039d1a1d40b754aecb87c4f37491d8c036ea612530243"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_front.png"
-hash = "2dee006c7cbc656ffaff942ea61d477df57aed3118fc21e40bfbf39305a59ae1"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_backing.png"
-hash = "9b16184194b8e6df2439bd27df15f50df89a29ba97442b02fc41623be022203f"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_mini_backing.png"
-hash = "8c75bcc2642bdd8b0a8fb7e8f2bf5515f7f16f30b7b26958098a742011b83600"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_backing.png"
-hash = "6b81f0e83740a512e9780cd56bca6d87ad69dc4426a77ee9356830df89f7590b"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_mini_front.png"
-hash = "7dc7426ba103794be30a3809fa04878d934965f7c743c9cc66e3d0fdca9f4e81"
-metafile = false
-preserve = false
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_front.png"
 hash = "18772630a1ba73c101bb2afd3a4ef64ec86da9132d753e67eb3914b5e3ba1fa8"
-metafile = false
-preserve = false
 
 [[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_backing.png"
-hash = "7ca6af93b85838bfbaa8d0b3ac0d45844d87b1909212113b199d807471fb8fe9"
-metafile = false
-preserve = false
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_mini_backing.png"
+hash = "eafd7a1403d36e96c24afeb907f34f6b2add810700b77e8247b7a258d9369273"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_alt_mini_front.png"
+hash = "5d7ff30e3806a1835c8d66754574ebb53f82a1ec288e546b44fc9c4f1f70d916"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_backing.png"
+hash = "9b16184194b8e6df2439bd27df15f50df89a29ba97442b02fc41623be022203f"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_front.png"
+hash = "9e6ba4894b4c3aa105bd6e896bba41f88867e395be9fc78b848b0400e5a0ae5a"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_mini_backing.png"
+hash = "25e68cc87482dd2bb90039d1a1d40b754aecb87c4f37491d8c036ea612530243"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/challenge_mini_front.png"
+hash = "1a39ae481e2acfaf6322e8c5fd1b2d0a62101d3d5eba0d41f48eec769eb327b8"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_backing.png"
+hash = "6b81f0e83740a512e9780cd56bca6d87ad69dc4426a77ee9356830df89f7590b"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_front.png"
+hash = "dece1b57256615aa6fe078e24d6d85abd7eb8c9f41696ad65ca4b22bd4980611"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_mini_backing.png"
+hash = "e3223ac3d4ac9af576a41c1f7da3d214b05c18a056abd532e18c4e0e49bc6ef5"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_alt_mini_front.png"
+hash = "afac634e8d05a1b8c6a6c23dc5b86c23473302ebb44511865132629b5bff2fcc"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_backing.png"
+hash = "97ac29e2536c2349112fb234d6481cab4429035084ad07633864d7b1b8ef7d82"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_front.png"
+hash = "f191c4b24508077472b33d0aff8aebad5139331cdafdc31363791fcdbda06c11"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_mini_backing.png"
+hash = "1f25ebe37da56ab83fe81d42b0372142552e24d3ae05308abdcda5e7fea7a18b"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/secret_mini_front.png"
+hash = "ae46837ee853f1e9eeaf355ceec70ff95ed4580dd5226b568834d29528857340"
 
 [[files]]
 file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_backing.png"
 hash = "f42c8267ad307e4b0f575cf7c87fa0ce9f58297846e314cb57365f0cd6d80f19"
-metafile = false
-preserve = false
 
 [[files]]
-file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/lang/en_us.json"
-hash = "4363f37bd8418cb51e2e53bf33d1cee8bf7750587f4dddd9d42ec94232ee78be"
-metafile = false
-preserve = false
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_front.png"
+hash = "a5223213a06e140ba829e306327d3430a4a7369f8fa2cf44e4aca6dd18442d5d"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_mini_backing.png"
+hash = "8c75bcc2642bdd8b0a8fb7e8f2bf5515f7f16f30b7b26958098a742011b83600"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_alt_mini_front.png"
+hash = "7dc7426ba103794be30a3809fa04878d934965f7c743c9cc66e3d0fdca9f4e81"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_backing.png"
+hash = "7ca6af93b85838bfbaa8d0b3ac0d45844d87b1909212113b199d807471fb8fe9"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_front.png"
+hash = "2dee006c7cbc656ffaff942ea61d477df57aed3118fc21e40bfbf39305a59ae1"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_mini_backing.png"
+hash = "e1e34aeb91436db8f42169c7ebf827eee6c1ed40bc55ff19e0f9c8c1a90a4b95"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/assets/mf120/textures/gui/shards/visitor_mini_front.png"
+hash = "4616736a635470f0cc8f10fd9225b68166e2441f6a57f938cc87a6a99cd8f32b"
+
+[[files]]
+file = "config/openloader/resources/shards-modfest-1-20/pack.mcmeta"
+hash = "0596a536e54bdc6ebd70995aad5f866400f360226787d01db289ab8bfaaebecb"
 
 [[files]]
 file = "config/openloader/resources/twemojis.zip"
 hash = "c95b7d6a2b427e21f8bac87810b52206b1d16c3f5f15aa768001558b8e0a57b2"
-metafile = false
-preserve = false
+
+[[files]]
+file = "config/picturesign.json"
+hash = "091a3ee92376934ea396cc764a7520c7c138a5499efeca39af49f8dadb949c4d"
+
+[[files]]
+file = "config/quickerconnectbutton.json5"
+hash = "54e6c3dfd36cd3c19fa253cdc0aa3acc1efa23a1e9436689fd4af635bc2d6fb6"
+
+[[files]]
+file = "config/roles.json"
+hash = "c25e5d7f3c5b945576b1bb555c9cdee80894a9a2d2dfdee860691ad2e19d05de"
+
+[[files]]
+file = "config/styled-chat.json"
+hash = "2f6a27e9dab690dd4e14f5a64036a23f0af40dc5a87b641fd07bf9477d72489e"
 
 [[files]]
 file = "config/styled-nicknames.json"
-hash = "f7e9077e48d519d4606b60d674581eafe90627f3c4c373aeeb0ed8460f7beefd"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/styledplayerlist/styles/default.json"
-hash = "0a6c5f96f0da90c7f56d099876d33034c67325eae89532168ad7de7b39846e87"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/styledplayerlist/config.json"
-hash = "4fca35fea8b8cfb35108d99f6294dd55160cfd1504ddd73f84b39a00a37f820e"
-metafile = false
-preserve = false
+hash = "9fa03ad9daf2ba21dc03eb8b1ebd822a87472aca463574840e88d9ae6195564a"
 
 [[files]]
 file = "config/styled_chat_emoji.json"
 hash = "9e13095c4f32c4a83bb81f974190f5439f982f84568540fb73a43cfa2e3847be"
-metafile = false
-preserve = false
 
 [[files]]
-file = "config/picturesign.json"
-hash = "189fb49363dd1ec9c971cfd28872f9869cb05bb553d655869add968e332d94b6"
-metafile = false
-preserve = false
+file = "config/styledplayerlist/config.json"
+hash = "2267a5216307cbc514d582d743de8c19d40757aff7a2e114e9a871ba9d0c32f1"
 
 [[files]]
-file = "config/emi.css"
-hash = "aebeb1eb5be2aef8a88b2655be8d440e35c48a5183708d3de2c26d7a26746ba8"
-metafile = false
-preserve = false
+file = "config/styledplayerlist/styles/default.json"
+hash = "18966450344e64e9c3f672a435393bacb86c53781c35d67fd31b24b86f417ceb"
+
+[[files]]
+file = "config/teabridge.json"
+hash = "cbbe48bc1c540422f2dde290736bca59b4497e6c63f7c33f4f86706a66a75767"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "6e1abc65d35bd42abf42e67b6c07a835d3c2bbf24e27148fd11d7fcb5ff689dc"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "a7fd6cdc6838b4b99d78e36ffc7a7a6d578adbe5a957565da5715a73f0738932"
+
+[[files]]
+file = "config/wizcraft.json5"
+hash = "cac17b66fbb9ecc75ee5ab28390743f327b3b103b942bf09f5718d5d1175a9b3"
+
+[[files]]
+file = "mods/Axiom-2.2.1-for-MC1.20.4.pw.toml"
+hash = "88c52085717fc37e1db9a8ffd3924c742043828ab83d741e954152fbf124fec7"
+metafile = true
+
+[[files]]
+file = "mods/Boids-1.1.1.pw.toml"
+hash = "352655a0335e1250d66f0d50c2f767f1d59fcd0f0d78d633695f6dc020b3baa1"
+metafile = true
+
+[[files]]
+file = "mods/DemoBox-1.0.0+mc.1.20.4.pw.toml"
+hash = "4add38edb79ba1f4fbb2d7dda0b4056a673daa8d3ffc50e98a7693cab79012b3"
+metafile = true
+
+[[files]]
+file = "mods/ForgeConfigAPIPort-v20.4.2-1.20.4-Fabric.pw.toml"
+hash = "ff6b227f8f0827176321ab2d0f7e6725308aa62bad0fbafd9b14529ea72535fd"
+metafile = true
+
+[[files]]
+file = "mods/GadgetsOfTheSky-1.0.2.pw.toml"
+hash = "64c68fd48fc8f9d3b9d220be92489b7ffe86c1ddd1a73e455383c1273fd5e3eb"
+metafile = true
+
+[[files]]
+file = "mods/Mutagen-0.0.2.pw.toml"
+hash = "8e747f5a8827aea5f5c74ccee4ccc7b0e72fcc9703cb8961f5e20b4c166aa516"
+metafile = true
+
+[[files]]
+file = "mods/OpenLoader-Fabric-1.20.4-22.0.1.pw.toml"
+hash = "55b81f813e8cc31217c977cfe6613a037a5e8fc719d937f647f0f78fd7cebdc9"
+metafile = true
+
+[[files]]
+file = "mods/PetbottleRocket-1.2.0.pw.toml"
+hash = "38b4c98e86c51b287813690442496b393b3d446db57d4430a2d434f93cbf4843"
+metafile = true
+
+[[files]]
+file = "mods/Resurfaced-1.1.3.pw.toml"
+hash = "7b0ae4c31de71630c2333840481ce3ffd4bb90e6d46f5df54f4c5bd9ebe6695f"
+metafile = true
+
+[[files]]
+file = "mods/SmartBrainLib-fabric-1.20.4-1.13.pw.toml"
+hash = "49f695e1b934de58d05ab46c64ae3e9670ec610b7cf91b88945f11ca5105beac"
+metafile = true
+
+[[files]]
+file = "mods/anshar-0.0.15.pw.toml"
+hash = "40d9088855a831f8eac438e8870f954e18650a350978a40797b0d50640a4b34e"
+metafile = true
+
+[[files]]
+file = "mods/architectury-11.0.12-fabric.pw.toml"
+hash = "943e88775bcf64a9f6701641deeb55bc4f8d52c6066dea335ab1f3dd5380b4f2"
+metafile = true
+
+[[files]]
+file = "mods/arctic-1.1.0+mc1.20.4.pw.toml"
+hash = "bc812fafc7cf914345444dd0446697a0fb05b6d1fef3cdf7f25294ab022fba33"
+metafile = true
+
+[[files]]
+file = "mods/armor-stand-editor-2.3.0+1.20.3-rc1.pw.toml"
+hash = "af82fafddaa6893f8058dc9263a583c61963ef61f15c0cc26f5748ea21024c36"
+metafile = true
+
+[[files]]
+file = "mods/badpackets-fabric-0.5.4.pw.toml"
+hash = "b75000574baa508c08c7b3d8752da6030bd9389af788e0819d221235fc5477b9"
+metafile = true
+
+[[files]]
+file = "mods/birdsboids-1.1.0.pw.toml"
+hash = "0d2766e0131bdd9aca08c1e9981f0114bbbc9084d12bf7c4e0e550448177dc8c"
+metafile = true
+
+[[files]]
+file = "mods/blocky_bass-1.0.16.pw.toml"
+hash = "bd1a08bd1d7b2c9ac885a6938172259360c45565dd1ecdd7b63bc787a0d98e80"
+metafile = true
+
+[[files]]
+file = "mods/boatism-0.1.1.pw.toml"
+hash = "9e60518c9f22a303dba422b878f5e61644443a65b9159faca05e2d3468111af3"
+metafile = true
+
+[[files]]
+file = "mods/capiche-1.0.0.pw.toml"
+hash = "87d7efa410088f2174c3510a901d7e09f47ef06106f6ed7b7574fa16cb210842"
+metafile = true
+
+[[files]]
+file = "mods/cerulean-0.1.1.pw.toml"
+hash = "b7c62266a4b03c3bbc310c35ace18db03f5a0ba59c3537a19b867e7c692fba4e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-13.0.121-fabric.pw.toml"
+hash = "7beec173ef89bda4208b61326000b4749775b1a851dbe7b3abb165ddeca66aef"
+metafile = true
+
+[[files]]
+file = "mods/cloudedisles-0.9.4-1.20.4.pw.toml"
+hash = "9ff7ead66ab7f5063a9007d3282a9e3a87b5f42cb5ddf2eafb4bdb2a933eea4b"
+metafile = true
+
+[[files]]
+file = "mods/contrail-1.0.2+1.20.4.pw.toml"
+hash = "93abead21c5c03e23b81544f48565edf40f56afc16782fc7767d1d26e5700167"
+metafile = true
+
+[[files]]
+file = "mods/crunchy-crunchy-advancements-1.6.2+1.20.2.pw.toml"
+hash = "09e12e69b7a8a90a1a54ef5aa816732a7926fbd580457ba20595973786b1b5ae"
+metafile = true
+
+[[files]]
+file = "mods/drogstyle-1.3.4+1.20.4.pw.toml"
+hash = "afafa1d46e87d8cd980a02b9a9400c54dcbbbfaf02d42e3897cebd36d2517498"
+metafile = true
+
+[[files]]
+file = "mods/ears-fabric-1.20.2-1.4.6.pw.toml"
+hash = "707b21fae0f0c007947a9e3e958c36de5a54f119927980fbd47c30d6271cda8b"
+metafile = true
+
+[[files]]
+file = "mods/emi-1.0.29+1.20.4+fabric.pw.toml"
+hash = "7b9315c7147b56579c299d8389d77563bb295b1a5630609239673a436b5382c3"
+metafile = true
+
+[[files]]
+file = "mods/env_driven_assets-0.0.4-alpha.pw.toml"
+hash = "9e03bb5adc15cb22934d0bd68262b62a40ebcaf9fd615170c05aaa532f0ce69d"
+metafile = true
+
+[[files]]
+file = "mods/env_json-0.3.1-beta.pw.toml"
+hash = "21e4331694213d510800e22a3d941b69dd8c9dd9b4ce240cdb5bd65140dc7c0b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api-0.92.0+1.20.4.pw.toml"
+hash = "6479dc977679a858c9ad936abe7eb6d36309b7d8bce1de18f8c301333e293870"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin-1.10.17+kotlin.1.9.22.pw.toml"
+hash = "d5ca68204b9822c47c0c87b64974e096488a0c261d5c88d8cbd6ab4c7b00a2fd"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor-2.3.0.pw.toml"
+hash = "8ad70ba1f9982f6055be315750e7c74c3525c01e2fbe7f2c5a90d566ff179d47"
+metafile = true
+
+[[files]]
+file = "mods/fireblanket-0.4.5.pw.toml"
+hash = "1a3de91a0a54652a88fd69db68f27789fb3e8afc5434c955292cc84d97ba3b45"
+metafile = true
+
+[[files]]
+file = "mods/fishhead-1.0.1.pw.toml"
+hash = "dc24bb9187872f69edfce95b139039d475fa2fd0fd78b15a445b24c18896f367"
+metafile = true
+
+[[files]]
+file = "mods/fluiwid-1.1.5.pw.toml"
+hash = "3532eea63adc4f76b56f96abe8c5ca1ba92337530d7823de84531558882cea0a"
+metafile = true
+
+[[files]]
+file = "mods/flutterandflounder-1.0.5.pw.toml"
+hash = "a1c612e6d656a1d149c98f029310116c0b988306ff15fcb28cb630278df00f91"
+metafile = true
+
+[[files]]
+file = "mods/geckolib-fabric-1.20.4-4.3.1.pw.toml"
+hash = "49a59e35f170560eb791eab0774b601f450d6b991f5de55b6f04b02b041899b4"
+metafile = true
+
+[[files]]
+file = "mods/glide-1.0.1.pw.toml"
+hash = "bc31d9bf5ab21c0490b73fa7915e3ceb40f06c6de9688d526ec2870d30d54e2a"
+metafile = true
+
+[[files]]
+file = "mods/glideaway-1.0.2+1.20.4.pw.toml"
+hash = "69c8bb3eca0dd3d8cb178fc582f7099840e4fa56919b9a37e1ba46f81a1a0528"
+metafile = true
+
+[[files]]
+file = "mods/glowcase-1.3.1+1.20.4.pw.toml"
+hash = "fdbc9127b25314d7048a209e04ab79ca27d3758c4f1a8d5554ef9762a628f363"
+metafile = true
+
+[[files]]
+file = "mods/gofo-1.1.pw.toml"
+hash = "41bc57271325fa4d1763fc44a5c071b8580ff3fc60ba83b3a5dd228fc60a8c1f"
+metafile = true
+
+[[files]]
+file = "mods/indium-1.0.28+mc1.20.4.pw.toml"
+hash = "cd709e5a779ac1802ae6f4f7763501c599a6a41fe321c7bd1239869c24dd7730"
+metafile = true
+
+[[files]]
+file = "mods/itemuserestrictor-1.0.1.pw.toml"
+hash = "ce0d3fb47dfdf67af2c020361d224360c9011047c62d5ef1090e5b74bf19dab3"
+metafile = true
+
+[[files]]
+file = "mods/jamlib-fabric-1.20.4-1.0.3+1.20.4.pw.toml"
+hash = "169045086bd2b59e621d2b8bf0c7f2bad4dcf6ec088ff5c1db1738258975cdd7"
+metafile = true
+
+[[files]]
+file = "mods/lithium-fabric-mc1.20.4-0.12.1.pw.toml"
+hash = "83b768c5d5f8ca7939f860557eb17e3fac500e34792f4703c1f434e4d08a97cf"
+metafile = true
+
+[[files]]
+file = "mods/loggerhead-luminancies-0.1.1+1.20.4.pw.toml"
+hash = "218a1d8d055920be5e252d11e6cab46420c4fb5af8440c415099ec33a5498d3a"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-fabric-5.10.2+mc1.20.4.pw.toml"
+hash = "ca890b7c2abd070b0e97df29f4086acec7f65c553b73e28da9f16ffa355a2116"
+metafile = true
+
+[[files]]
+file = "mods/modmenu-9.0.0.pw.toml"
+hash = "82d81a2bc12d96866c271d5564f587129c2782a663c34cb66ea6095a0ee1a0a5"
+metafile = true
+
+[[files]]
+file = "mods/moonrise-1.0.1-R.pw.toml"
+hash = "dc34cfea3b740e6826bb5dbd29ad457a79231cd0219d0b85f6ffdfb443dde621"
+metafile = true
+
+[[files]]
+file = "mods/multiworldborders-1.6.3-fabric-1.20.2.pw.toml"
+hash = "71ec15a8d833b7e096f1987dfa12705cc19daba551ad8d86c2188df90cd9d21a"
+metafile = true
+
+[[files]]
+file = "mods/notflying-1.0.1.pw.toml"
+hash = "964f30e418165b4bc66d0fd8146d7f1c71449ade3c97b37937176df3bb194c3f"
+metafile = true
+
+[[files]]
+file = "mods/operation_starcleave-0.1.0.6.pw.toml"
+hash = "a0d9a0483880857dc749a4fd6f0852724f507f410b226a748d6ec13d63becea4"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib-0.12.0+1.20.3.pw.toml"
+hash = "5c703318fffabbe47c9a96862d87bae2ee3505eb60e80d70444c63d35880d75d"
+metafile = true
+
+[[files]]
+file = "mods/partnership-fabric-mc1.20.4-v1.1.2.pw.toml"
+hash = "23911a0bfbd0b14626ad11aecce635a3ff5e2db0a137955fe1213ad686bd9a2b"
+metafile = true
+
+[[files]]
+file = "mods/perihelion-0.0.2+1.20.4.pw.toml"
+hash = "094275321e5070a378b48976d88ef88db90e2fc4f49b66ac34e476e55725d576"
+metafile = true
+
+[[files]]
+file = "mods/pescatore-1.0.0-beta.rel+1.20.4.pw.toml"
+hash = "826162d92cd900d062d2c93e8384607732cadac10b1ce0484ff5080bcf18976e"
+metafile = true
+
+[[files]]
+file = "mods/pesky_seagulls-1.2.0.pw.toml"
+hash = "61e2eea2ee0d92ab404a68bbc6e978b5313ee6dad28b5104067af6e718ac9586"
+metafile = true
+
+[[files]]
+file = "mods/picturesign-2.0.0-beta.1+unascribedtheora5-1.20.4.pw.toml"
+hash = "671e1f7db65cde9286a6e5d3bc2a134da50368e5588ab81e3984daf09f7ec43a"
+metafile = true
+
+[[files]]
+file = "mods/player-roles-1.6.8.pw.toml"
+hash = "01d8426a22b1a9cc837891388f36ed0c61283736fffb8ddc207822c7ca041b5e"
+metafile = true
+
+[[files]]
+file = "mods/potatoesplus-1.0.3.pw.toml"
+hash = "8e9dc7db0d8eb08715be9894069af80e01df5e881368240d530a536d67209ca0"
+metafile = true
+
+[[files]]
+file = "mods/quickerconnectbutton-fabric-2.0.1+1.20.4.pw.toml"
+hash = "7b3753d594ff30ab3530ac81e9095e9e3cef84f11cd92000b1352366b407c592"
+metafile = true
+
+[[files]]
+file = "mods/rapscallions-and-rockhoppers-fabric-1.1.2+1.20.4.pw.toml"
+hash = "ad1c8fa5896e6f963335da4dc4c2586cb690bca0f3ea8a6f62f3db17af030b10"
+metafile = true
+
+[[files]]
+file = "mods/reel-0.1.3+1.20.4.pw.toml"
+hash = "9e31b24327ddd22828796cb68ff7c315d93a83f7f6dd9e968a4cb852ddea9148"
+metafile = true
+
+[[files]]
+file = "mods/scatteredshards-1.5.2.pw.toml"
+hash = "ce976d083a34063b9dc1b94f38cb7b6a0096ec506a72a787532460f1d0acbd12"
+metafile = true
+
+[[files]]
+file = "mods/schmarrn-fireworks-1.0.2.pw.toml"
+hash = "390c38d1d7c4fcf8c1260606b5b4d638c8ebd9cc9109e367b2d5f78a3e6b6a24"
+metafile = true
+
+[[files]]
+file = "mods/seagulls-1.0.1-mc1.20.4.pw.toml"
+hash = "d24eabd860971c0892441a17194ba2cbf9c503dba9a1f685107381b00eacd54b"
+metafile = true
+
+[[files]]
+file = "mods/sidekick-fabric-2.0.5_02+1.20.2.pw.toml"
+hash = "4842b11f8bc254943a3bbaa4fcd7f68d2b1e76d05fa1d3d8373701440c289ed3"
+metafile = true
+
+[[files]]
+file = "mods/skyboxathome-0.1.1+1.20.4.pw.toml"
+hash = "b9e6762ad78efafc7dca745937e976c02a155895574d0ff088c5f29e356a2d4b"
+metafile = true
+
+[[files]]
+file = "mods/skys-the-limit-1.1.0.pw.toml"
+hash = "517509122c9b20ceb914e63ea2a8e52fa77ab53958f9ccdf9c4b05a2bf110ebe"
+metafile = true
+
+[[files]]
+file = "mods/sodium-fabric-mc1.20.3-0.5.5.pw.toml"
+hash = "ac3802f3017aaedc6cec5431d9af2d2a7830c36fb73ba01a6c1fdd15fc80f210"
+metafile = true
+
+[[files]]
+file = "mods/spark-1.10.58-fabric.pw.toml"
+hash = "eea53e9f7553ad390b05f1623a243ab9a8cd85fbd43a516b0ae6eef7ddc0cb86"
+metafile = true
+
+[[files]]
+file = "mods/starcaller-0.4.3+1.20.4.pw.toml"
+hash = "e215235cf1277e4a156f5ebf49ec72ca11d06cd9d7e24f75c6863dc71f62c262"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat-2.4.0+1.20.3.pw.toml"
+hash = "a8666ebd9108b99f9cc620666db977093b59d37bb61ee16c063bdc1f77e71b41"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames-1.4.0+1.20.3.pw.toml"
+hash = "db02f45fa95c98630611a4ec309e3a81d610423031fd0e8bbb5a2b8b51a19792"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist-3.3.0+1.20.3.pw.toml"
+hash = "c950957ecae3155a507092efdf7f7733d7e48b4fc893d05926c2b8db1bf0991a"
+metafile = true
+
+[[files]]
+file = "mods/switchy-2.9.0+1.20.4.pw.toml"
+hash = "5f28e37b9cbf4adbd05c6af1bfa69adb97bdcff1713e94b85d8b106cb522e5d1"
+metafile = true
+
+[[files]]
+file = "mods/switchy-proxy-1.7.0+1.20.4.pw.toml"
+hash = "b33e0415c532498a0d7d27f336f551a5f843c34c8d816806da9dea5b46aac145"
+metafile = true
+
+[[files]]
+file = "mods/teabridge-1.2.3-mc1.20.4-rev.5dbf1cb.pw.toml"
+hash = "1edfab729b0b102d040cb845d5da7f4b354e42b692f1ba1f686ee1e0ae7acfd4"
+metafile = true
+
+[[files]]
+file = "mods/timelock-1.0.1.pw.toml"
+hash = "e2f02c5beb995e00abae8c71d5c37b383895d5c67d87bdf9ba578c56a3c26a24"
+metafile = true
+
+[[files]]
+file = "mods/toxsky-0.0.3.pw.toml"
+hash = "1afd7e1a14818a6f1c23f13535531ac468eb1f7e43c21ae668958de9d9f5ea8a"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-3.8.0.pw.toml"
+hash = "1817ebc2bc68a33cbf854899050ac02186efd839dd8802f68e36a76090e040ac"
+metafile = true
+
+[[files]]
+file = "mods/voicechat-fabric-1.20.4-2.5.2.pw.toml"
+hash = "4f3b60198453a3ff9f7721c0896023e9af546c7444b5de3801f748f3b803e247"
+metafile = true
+
+[[files]]
+file = "mods/weathersync-0.4.pw.toml"
+hash = "72c5cc8fa8f195803704ce1f367896cd2f2b4e91a44c683bb1061db5dfaa581b"
+metafile = true
+
+[[files]]
+file = "mods/whalestrom-0.1.3.pw.toml"
+hash = "072e2fb8dd4c6ee5489edd87ba5dc54a244107551457713cc879b5260edc96e3"
+metafile = true
+
+[[files]]
+file = "mods/wildmagix-2.1.pw.toml"
+hash = "bde7ea202b55ecd40f6a43f2bfe8df15727b3609d27c15ae32f0ca10edf8b963"
+metafile = true
+
+[[files]]
+file = "mods/wizcraft-1.0.0-alpha.10.pw.toml"
+hash = "be0fe7af2da8cf673bb70c924eac20a1d1014638a45d62ccdb88a881377ce9e1"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-mod-7.2.18-dist.pw.toml"
+hash = "e53b902c75e797e1d6a75405fe5cceb728e412370e357b8c04b12c0e61421538"
+metafile = true
+
+[[files]]
+file = "mods/wthit-fabric-10.0.1.pw.toml"
+hash = "35b1e691cabcca8d9431907c2f772b9d75e604f8a6a966dc54c104291848a67b"
+metafile = true
+
+[[files]]
+file = "mods/yet-another-config-lib-fabric-3.3.1+1.20.4.pw.toml"
+hash = "10dd31765cbe7aec369aa36d60b936804673dcb1196a4b8971d12a0df50b21ad"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "bf106c7faf8a9f862af45acf50181fddbf254f0f5d1ed714d35143a829e8473d"
+
+[[files]]
+file = "server-icon.png"
+hash = "53baa75d2ed08040283deaa1af459d8fde47d770a4277f74b9984cf09f572727"
+
+[[files]]
+file = "server.properties"
+hash = "f2b58c2af501cb465129291c68052a2e2e51cdaa48962b7e003fac6df34ffd43"
