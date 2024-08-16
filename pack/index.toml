@@ -373,11 +373,6 @@ file = "config/wizcraft.json5"
 hash = "cac17b66fbb9ecc75ee5ab28390743f327b3b103b942bf09f5718d5d1175a9b3"
 
 [[files]]
-file = "mods/Axiom-2.2.1-for-MC1.20.4.pw.toml"
-hash = "88c52085717fc37e1db9a8ffd3924c742043828ab83d741e954152fbf124fec7"
-metafile = true
-
-[[files]]
 file = "mods/Boids-1.1.1.pw.toml"
 hash = "352655a0335e1250d66f0d50c2f767f1d59fcd0f0d78d633695f6dc020b3baa1"
 metafile = true
